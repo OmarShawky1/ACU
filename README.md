@@ -25,4 +25,4 @@ Currently, almost all services in the Mind Map are limited to Trusted members on
 Mainly [OSSU](https://github.com/ossu/computer-science) and secondarily [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap) and pinned messages in discord server. Soon, these resources will be merged and rewritten to accommodate other CS sub-fields such as SWE.
 
 ## Community
-[!![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
+[![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
