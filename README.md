@@ -90,7 +90,9 @@ To be done...
 
 1. *Trusted*:
    1. What/Who are *Trusted*? They are people, that were noticed & agreed upon him by 2 or more other *Trusted*, supporting the community.
-   2. How to be *Trusted*? Do all you can to support the community and other *Trusted* will make sure of that. Each member is tested before enrollment.
+   2. How to be *Trusted*?
+      1. Do all you can to support the community and other *Trusted* will make sure of that. Each member is tested before enrollment.
+      2. Try to connect with people by finding a mutual interest; Start by asking who is in the same stage as you (E.g., who is writing his resume or applying for a job at companies *Z*) and start the collaboration.
    3. What are there benefits?
       1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
       2. Ask unlimited questions and get exceptional answers.
