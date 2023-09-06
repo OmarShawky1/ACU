@@ -8,11 +8,15 @@ An Open University providing MOOCs, Career Services, Academic Advisory, and Netw
 
 ![MindMap](images/ACU_Services.jpg)
 
+For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md).
+
 ## Contents
 
 1. [Summary](#summary)
 2. [Resources](#resources)
    1. [Courses](#courses)
+      1. [CS-Fundamentals](#cs-fundamentals)
+      2. [Sub-Fields](#sub-fields)
    2. [Miscellaneous](#miscellaneous)
 3. [Community](#community)
    1. [General Info](#general-info)
@@ -57,7 +61,18 @@ Check [Community](#community) to join us.
 
 Mainly [OSSU](https://github.com/ossu/computer-science) and secondarily [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap) and pinned messages in the Discord server (which will soon be merged and rewritten to accommodate other CS Sub-Fields such as SWE).
 
-To be done...
+#### CS-Fundamentals
+
+| Topic | Course Name |Topics Covered | Course Prerequisites | Course Reviews |
+|:-|:-:|:-:|:-:|:-:|
+| Introduction to Programming | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|<details><summary>`programming concepts`, `basic function structure`, `functional programming`, `dynamic typing`</summary><br>`programming concepts`: (`lexical scoping`), <br>`basic function structure`: (Function signature, First Order Function) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, High Order Function: {Function Consumer or passing function as argument}, `map`, `filter`, `fold`, Backtracking Search, Generative Recursion), <br>`dynamic typing`</details>| N/A | #TODO |
+| $\uparrow$ | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java) | <details><summary>`programming concepts`, `basic syntax`, `basic data structures`, `Functional Programming`, `OOP`</summary><br>`programming concepts`: (Abstraction, Decomposition, Standard Input & Output, Type Conversion, Type Checking, Functions, API, Modular Programming, Recursion, `dynamic programming`, `divide and conquer`, Memoization, Algorithmic Complexity, Abstract Datatypes, Compiler, Interpreter, Procedural Paradigm, Scripting Language, Special-Purpose Language), <br>`basic syntax`: (Variables, Variables Types, Arithmetic Operations, `if`, loops {`while`, `for`}, Nesting, Access Modifiers, Non-Access Modifiers, Static Methods), <br>`basic data structures`: (Primiteves, `string`, Arrays, kD Arrays), <br>`Functional Programming`, <br>`OOP`: (Methods, `inheritance`, Encapsulation)</details>|  N/A | #TODO |
+| Programming Languages | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) which covers all topics in "Concepts of Programming Languages by Robert W. Sebesta 12th Edition" & "Programming Language Pragmatics by Michael Scott 4th edition"|<details><summary>`programming concepts`, `functional programming`, `static typing`, `dynamic typing`, `ML-family languages (via Standard ML)`, `Lisp-family languages (via Racket)`, `OOP`, `Ruby`, `libraries`, `tools`</summary><br>`programming concepts`: (Mutation, References/Pointers, : {Pairs, Tuples, Records}, Polymorphism (Functional, OOP, Bounded), Datatype Binding, Type Inference (Implicit Typing, Explicit Typing), Weak Typing, Strong Typing, Duck Typing, Method Overriding, Dynamic Dispatch, Double Dispatch, Interpreter), <br>`programming paradigms`: (`functional programming`, `OOP`), <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, Shadowing, Case Expression (AKA Pattern Matching), High Order Function, `map`, `filter`, `fold`, `lexical scope`, `dynamic scope`, Stream, Lazy Evaluation, Eager Evaluation, Memoization, Tokenization, Subtyping {Functional Sutyping, OOP Sutyping}, Generics), <br>`ML-family languages (via Standard ML)`, `Lisp-family languages (via Racket)`, `OOP`, <br>`Ruby`: (Classes, Object State, Arrays, Blocks, Hashes & Ranges, Subclassing: {Inheritance in java}, Mixins), <br>`universal libraries`: (File Stream, I/O Stream, Math), <br>`tools`: (Read Evaluate Print Loop (REPL), Debugger)</details>| How to Code (Check OSSU for details) | #TODO |
+| Introduction to Programming + Programming Languages + OOP + Problem-Solving | [Mastering 4 Critical Skills using C++ 17 by Prof. Mostafa Saad](https://www.udemy.com/course/cpp-4skills/)| <details><summary>`programming concepts`, `C++ concepts`, `basic syntax`, `basic data structures`, `data structures`, `OOP`, `functional programming`, `algorithm complexity notions`, `algorithms`, `universal libraries`, `basic OS`, `basic computer architecture`, `UML`, `SE practices`, `software engineering`, `advanced syntax`, `advanced c++`</summary><br>`programming concepts`: (Type Conversion, Polymorphism: {Upcasting, Downcasting}, Exception Handling: {`except`, `throw`, `noexcept`, `nothrow`}, Compiler, Linker, Procedural Paradigm), <br>`C++ concepts`: (Standard Input & Output, References/Pointers, STL, Headers & `includes`), <br>`basic syntax`: (Variables, Variables Types, Arithmetic Operations, `if`, Loops {`while`, `for`}, Nesting, Access Modifiers, Non-Access Modifiers: {`static`, `const`, `final`}, Functions & Methods), <br>`basic data structures`: (Primitives, `string`, Arrays {1D, 2D, kD}), <br>`data structures`: (Encapsulation Techniques: {Struct, Pairs, Tuples}, STL: {Templates, `queue`, Priority Queues, Deque, Stack, Iterators, References, Pointers}, Vectors: {1D, 2D, kD}, Sets, Multisets, `map`),<br>`functional programming`: (Recursion), <br>`OOP`: (concepts: {Encapsulation, Abstraction, Data-Hiding, Decomposition, SOLID Principles, `inheritance`: {Abstract Class, Interface, Method Overriding, Method Overloading, Operator Overloading: {Unary, Subscript, Relational, Prefix, Postfix, Input, Output, Conversion, Assignment}}}, Class: {Constructor, Destructor, Copy Constructor, Delete Function, Initializer List}, Specifiers: {`final`, `static`, `friend`}), <br>`algorithm complexity notions`: (Problem Reduction), <br>`algorithms`: (`sorting`: {Count Sorting}), <br>`universal libraries`: (File Streams, I/O Stream), <br>`basic OS`: (Memory Stucture: {Stack, Heap}, Static Variables...), <br>`basic computer architecture`: (bits & bytes, 2's Compliment, Signed & Unsigned Numbers, Floating Points & Rounding Numbers, Numbers Conversion/Casting), <br>`UML`: (Class Diagram: {Association, Aggregation, Composition, Generalization, Multiplicity}), <br>`SE practices`: (MVP, CRUD Operations, MVC, Refactoring), <br>`software engineering`: (Coupling, Cohesion), <br>`advanced syntax`: (`variadic`, Fold Expressions, functors (High Order Function), Lambda Expressions), <br>`advanced c++`: (Move Semantics & Perfect Forwarding, Smart Pointers: {Unique Pointers, Shared Pointers, Weak Pointers}, Pointer to Pointer, Void Pointer, Function Pointer)| N/A | Premium and Udemy courses do not provide autograder, but you will directly interact with Prof himself in his Discord Channels. |
+| DSA | [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) |<details><summary>`sorting and searching`, `shortest paths`, `randomized algorithms`, `data compression`, `data structures`, `algorithm complexity notions`</summary><br>`sorting and searching`: <ul>Elementary sort: (Shell sort, Insertion sort, Selection sort)</ul> <ul>Mergesort</ul> <ul>Quicksort</ul> <ul>Binary Search</ul> <ul>Quick-Select</ul> <ul>3-Way partitioning</ul> <ul>Heapsort</ul> <ul>A\* Search</ul> <ul>Multi-Dimensional Search: (KdTree, Sweep Line Algorithm)</ul> <ul>Hash-Tables*</ul> <ul>Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection) <br>* Maxflow-Mincut-problem: (Ford-Fulkerson Algorithm)</ul> <ul>String Sorting: (Key-Indexed Sort, LSD Radix Sort, MSD Radix Sort, 3-way Radix Quicksort, Manber-Myers MSD Sort, Suffix Sort, (and tries DS below))</ul> <ul>String Searching: (Knuth-Morris-Pratt, Boyer-Moore Rabin-Karp)</ul> <ul>Substring Searching (AKA Pattern Matching, Regular Expression matching): (Prefix Matching, Suffix Matching, Longest Prefix, Palindrome and many more)</ul> `shortest paths`: <ul>Greedy Algorithms: (Kruskal's Algorithm, Prim's Algorithm, Dijkstra's Algorithm), Acyclic SP: (Seam-Carving)</ul> <ul>`dynamic programming` Algorithms: (Bellman-Ford's Algorithm, Dijkstra's Algorithm\*)</ul>`randomized algorithms`: (Shuffle sort), <br>`data compression`: (Run-length Encoding, Huffman Compression, LZW Compression, Burrows-Wheeler Algorithm, Shannon-Fano Algorithm) <br>`data structures`: <ul>Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues, Deque)</ul> <ul>Symbol-Table: (Suffix Array, Trees*, Tries*, Hash-Tables*, Graphs*, Sets*)</ul> <ul>Trees: (Binary Search Trees, Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees)</ul> <ul>Multi-Dimensional Trees: (Space-Partitioning Trees, Interval Search Tree)</ul> <ul>Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing})</ul> <ul>Sets</ul> <ul>Graphs: (Directed Graphs, Undirected Graphs, Edge Weighted Graphs, Acyclic Graphs, Edge Weighted Directed Acyclic Graphs)</ul> <ul>Minimum Spanning Trees (MST)</ul> <ul>Flow-Network or Residual Network</ul> <ul>Tries: (R-way Tries, Ternary Search Tries, TST & R<sup>2</sup> Hybrid Tries, Patricia Trie, Suffix Tree)</ul> <ul>Miscellaneous: (DFA (Deterministic Finite State Automaton)), NFA (Nondeterminstic Finite State Automaton)</ul> `algorithm complexity notions`: (Problem Reduction, Linear programming, simplex algorithm, P, NP, CoNP, NP-Hard, Intractable)</details>| Programming Languages | #TODO |
+
+#### Sub-Fields
+
 
 ### Miscellaneous
 
@@ -65,7 +80,7 @@ To be done...
 
 ## Community
 
-* Watch Onboarding video: (#TODO)
+* Watch the [On-boarding video](https://youtu.be/z5NsFT7QMJ4).
 * Join [![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
 
 ### General Info
@@ -107,6 +122,17 @@ To be done...
 #### FAQ
 
 To be done...
+
+1. How to ask questions?
+   1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
+   2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
+   3. Read:  https://stackoverflow.com/help/how-to-ask
+   4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
+   5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
+   6. Ask a binary question if possible. (I.e., True/false)
+   7. If not, Ask enclosed question if possible. (I.e., question that has expected answer; E.g., Which color? "Red", "Green", "Blue")
+   8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
+   9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
 
 ### Academia
 
