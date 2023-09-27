@@ -122,18 +122,36 @@ To be done...
 
 #### FAQ
 
-To be done...
-
-1. How to ask questions?
+1. How to use Discord:
+   1. Arabic: [New Video](https://youtu.be/oUh1ve_dS4I) or [Old Video](https://youtu.be/QMkqUMoYInE).
+2. How to use AC Discord Server?
+   1. Arabic: [Old Onboarding Video](https://youtu.be/v1SyedPG0jw).
+   2. Tips:
+      1. You can show/hide channels from "Browse Channels" options on left pane.
+3. How to ask questions?
    1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
    2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
-   3. Read:  https://stackoverflow.com/help/how-to-ask
+   3. Read: https://stackoverflow.com/help/how-to-ask
    4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
    5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
    6. Ask a binary question if possible. (I.e., True/false)
    7. If not, Ask enclosed question if possible. (I.e., question that has expected answer; E.g., Which color? "Red", "Green", "Blue")
    8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
    9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
+4. Who to ask before you ask?
+   1. Only reliable person that is in charge, or has been charge, or reached the end of the road you want to take.
+   2. Never rely on an answer/course even if it is free before performing rule 1 above.
+   3. Arabic shorts & videos:
+      1. Dr. Mostafa: Video [1](https://www.youtube.com/live/ZHMr5kPjFpk?feature=share) & [2](https://www.youtube.com/live/8pSt7yhkfSw?feature=share).
+      2. Mr. Moshrif: Video [1](https://www.facebook.com/watch/?v=1453088708370995)
+5. How to study and not forget what you studied? Use Obsidian (using Zettlekasten & Wikipedia styles)
+6. What is your opinion about X/Y/Z Course?
+   1. Arabic:
+      1. Mr. Moshrif: Video [1](https://www.facebook.com/watch/live/?ref=watch_permalink&v=553205550240384) & [2](https://fb.watch/jKaKqf2Rjq/). [Post](https://www.facebook.com/mmoshrif/posts/pfbid02gNUwraX2rJdykh2c6XXeAqKBh3ucdo7YcLx5qeHRqm87NywW769VavTTmZ197Hmdl).
+      2. Dr. Mostafa: Video [1](https://www.youtube.com/live/jJoVVCfDCN4)
+7. Can't find a study-buddy or anyone to help in a course?
+    1. Have you tried your best to share this server in all of the communities that you are in?
+    2. Did you try to ask in the server for anyone that knows someone that studies course X?
 
 ### Academia
 
