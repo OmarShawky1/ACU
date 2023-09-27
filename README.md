@@ -152,3 +152,6 @@ To be done...
 ### General
 
 To be done...
+
+1. Categories and channels for resources are designed after OSSU's design.
+2. Any channel or category under "Archive" category is achieved because it has not been recently used or merged into another channel but kept because it contains useful info.
