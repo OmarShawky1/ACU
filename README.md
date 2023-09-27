@@ -88,7 +88,8 @@ To be done...
 
 #### Rules
 
-1. Any **hateful discussion is prohibited**, and you will be banned forever.
+1. **Do not waste your efforts** on rude people, don't try to respond to bullying or any rude text, please mention @Moderator.
+2. **Hateful discussion is prohibited**, and you will be banned forever.
    1. The Server has 0% tolerance against contentions like **Religious** Disputes/Curses, **Politics**, **Sexism**, and NSFW Content (Curses or Images).
    2. Never do "Character assassination". Even for a person who isn't on the server.
    3. You are allowed to criticize respectfully & objectively. E.g., You can claim a course to be a "Scam" (only If you have proof) but you are not allowed to curse its instructor.
