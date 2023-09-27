@@ -102,7 +102,7 @@ To be done...
 5. **Don't mention** people (E.g., @omar1111) nor DM unless they are comfortable with it. (ESPECIALLY **MENTORS**)
 6. Don't ask to ask; Ask right away.
 
-#### Members
+#### Roles
 
 1. *Trusted*:
    1. What/Who are *Trusted*? They are people, that were noticed & agreed upon him by 2 or more other *Trusted*, supporting the community.
