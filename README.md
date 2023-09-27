@@ -4,7 +4,7 @@ An Open University providing MOOCs, Career Services, Academic Advisory, and Netw
 
 **Note**: Repo is **under construction** and not everything is explained. But the **services are already established**. Some content on the server is in **Arabic, it will change to English soon**.
 
-## Services Mind Map
+## ACU Mind Map
 
 ![MindMap](images/ACU_Services.jpg)
 
@@ -22,12 +22,13 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
    1. [General Info](#general-info)
       1. [Rules](#rules)
       2. [Conversation Etiquette](#conversation-etiquette)
-      3. [Members](#members)
+      3. [Roles](#roles)
       4. [FAQ](#faq)
    2. [Academia](#academia)
    3. [Career](#career)
    4. [Networking](#networking)
    5. [Server Details](#server-details)
+      1. [General](#general)
 
 ## Summary
 
@@ -147,5 +148,7 @@ To be done...
 To be done...
 
 ## Server Details
+
+### General
 
 To be done...
