@@ -2,7 +2,7 @@
 
 An Open University providing MOOCs, Career Services, Academic Advisory, and Networking for CS/CSE only.
 
-**Note**: Repo is **under construction** and not everything is explained. But the **services are already established**. Some content on the server is in **Arabic, it will change to English soon**.
+**Note**: Repo is **under construction** and not everything is explained. But the **services are already established**. **English Server is coming soon**
 
 ## ACU Mind Map
 
@@ -17,7 +17,8 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
    1. [Courses](#courses)
       1. [CS-Fundamentals](#cs-fundamentals)
       2. [Sub-Fields](#sub-fields)
-   2. [Miscellaneous](#miscellaneous)
+   2. [Essential](#essential)
+   3. [Career Resources](#career-resources)
 3. [Community](#community)
    1. [General Info](#general-info)
       1. [Rules](#rules)
@@ -75,14 +76,45 @@ Mainly [OSSU](https://github.com/ossu/computer-science) and secondarily [Omar Sh
 #### Sub-Fields
 
 
-### Miscellaneous
+### Essential
 
-To be done...
+* They are devised of 3 categories as follows.
+
+1. Essential skills:
+   1. How to ask questions?
+      1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
+      2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
+      3. Read: https://stackoverflow.com/help/how-to-ask
+      4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
+      5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
+      6. Ask a binary question if possible. (I.e., True/false)
+      7. If not, Ask the enclosed question if possible. (I.e., the question that has an expected answer; E.g., Which color? "Red", "Green", "Blue")
+      8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
+      9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
+   2. Who to ask before you ask?
+      1. Only reliable person that is in charge, or has been in charge, or reached the end of the road you want to take.
+      2. Never rely on an answer/course even if it is free before performing rule 1 above.
+      3. Arabic shorts & videos:
+         1. Dr. Mostafa: Video [1](https://www.youtube.com/live/ZHMr5kPjFpk?feature=share) & [2](https://www.youtube.com/live/8pSt7yhkfSw?feature=share).
+         2. Mr. Moshrif: Video [1](https://www.facebook.com/watch/?v=1453088708370995).
+   3. How to study and not forget what you studied? Use Obsidian (using Zettlekasten & Wikipedia styles)
+   4. What is your opinion about X/Y/Z Course?
+      1. Arabic:
+         1. Mr. Moshrif: Video [1](https://www.facebook.com/watch/live/?ref=watch_permalink&v=553205550240384) & [2](https://fb.watch/jKaKqf2Rjq/). [Post](https://www.facebook.com/mmoshrif/posts/pfbid02gNUwraX2rJdykh2c6XXeAqKBh3ucdo7YcLx5qeHRqm87NywW769VavTTmZ197Hmdl).
+         2. Dr. Mostafa: Video [1](https://www.youtube.com/live/jJoVVCfDCN4).
+2. Essential tools: [git-and-github channel](https://discord.gg/rvkdAwuW6Q) & [linux channel](https://discord.gg/TVCzqKnBPY).
+3. Knowledge Base:
+   1. @Students: [recommended forum](https://discord.gg/25dTf9Y78h).
+   2. For @Trusted: [knowledge base forum](https://discord.gg/dJaRzXRhMm).
+
+### Career Resources
+
+Unfortunately, they are all available only for @Trusted.
 
 ## Community
 
 * Watch the [On-boarding video](https://youtu.be/z5NsFT7QMJ4).
-* Join [![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
+* Join Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
 
 ### General Info
 
@@ -129,42 +161,21 @@ To be done...
    1. Arabic: [Old Onboarding Video](https://youtu.be/v1SyedPG0jw).
    2. Tips:
       1. You can show/hide channels from "Browse Channels" options on the left pane.
-3. How to ask questions?
-   1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
-   2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
-   3. Read: https://stackoverflow.com/help/how-to-ask
-   4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
-   5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
-   6. Ask a binary question if possible. (I.e., True/false)
-   7. If not, Ask the enclosed question if possible. (I.e., the question that has an expected answer; E.g., Which color? "Red", "Green", "Blue")
-   8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
-   9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
-4. Who to ask before you ask?
-   1. Only reliable person that is in charge, or has been in charge, or reached the end of the road you want to take.
-   2. Never rely on an answer/course even if it is free before performing rule 1 above.
-   3. Arabic shorts & videos:
-      1. Dr. Mostafa: Video [1](https://www.youtube.com/live/ZHMr5kPjFpk?feature=share) & [2](https://www.youtube.com/live/8pSt7yhkfSw?feature=share).
-      2. Mr. Moshrif: Video [1](https://www.facebook.com/watch/?v=1453088708370995)
-5. How to study and not forget what you studied? Use Obsidian (using Zettlekasten & Wikipedia styles)
-6. What is your opinion about X/Y/Z Course?
-   1. Arabic:
-      1. Mr. Moshrif: Video [1](https://www.facebook.com/watch/live/?ref=watch_permalink&v=553205550240384) & [2](https://fb.watch/jKaKqf2Rjq/). [Post](https://www.facebook.com/mmoshrif/posts/pfbid02gNUwraX2rJdykh2c6XXeAqKBh3ucdo7YcLx5qeHRqm87NywW769VavTTmZ197Hmdl).
-      2. Dr. Mostafa: Video [1](https://www.youtube.com/live/jJoVVCfDCN4)
-7. Can't find a study buddy or anyone to help in a course?
-    1. Have you tried your best to share this server in all of the communities that you are in?
+3. Can't find a study buddy or anyone to help in a course?
+    1. Have you tried your best to share this server in all the communities that you are in?
     2. Did you try to ask on the server for anyone who knows someone who is studying course X?
 
 ### Academia
 
-To be done...
+Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs in [life-after-grad](https://discord.gg/VF8QGnBAWZ).
 
 ### Career
 
-To be done...
+All Under "CAREER" Category. Currently, all channels are private to @Trusted except ps-griding and Mock-interviews.
 
 ### Networking
 
-To be done...
+Currently, all channels are private to @Trusted except general mentorship (in the category MENTORSHIP).
 
 ## Server Details
 

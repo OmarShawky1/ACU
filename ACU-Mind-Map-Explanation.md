@@ -6,7 +6,7 @@
 
 - [Resources](#resources)
   - [Computer Science](#computer-science)
-  - [Essential \& Miscellaneous](#essential--miscellaneous)
+  - [Essential](#essential)
 - [Services](#services)
   - [Academia](#academia)
   - [Career](#career)
@@ -39,19 +39,13 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
          1. Software Engineering.
          2. Artificial Intelligence (Machine Learning Engineer, Deep Vision...).
 
-## Essential & Miscellaneous
+## Essential
 
-They are courses and materials for everyone (from one, who is about to start his education journey, to a senior software engineer). Learning "How to ask?", "How to search?", "How to study?" and essential tools will boost your productivity 10-50x!
-
-They are devised of 4 categories:
+The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ years of experience). Learning "How to ask?", "How to search?", "How to study?" and essential tools will boost your productivity 10-50x!
 
 1. Essential skills: (How to ask?), (How to search?), (How to study?), (How to pick your road map?).
 2. Essential tools: Git & GitHub, Linux, IDEs... .
-3. Knowledge Base: Stackoverflow-like but for incurated resources (resources collection under review that will be added later to respective section).
-4. Job process:
-   1. Resume.
-   2. Job application.
-   3. Interview Questions: Problem-Solving, System Design, Behavioral... .
+3. Knowledge Base: Stackoverflow-like for resources. (Later, when a topic becomes popular, it is turned into a channel with its own traffic and resources. This channel is a way for new people to catch up with old resources & discussions).
 
 # Services
 
@@ -100,6 +94,3 @@ Equivalent to Career Services in universities, it provides Alumnus, Seniors and 
 2. Mentors: Find help in Career Advancement, Self-Finance and the entire Mind Map above.
 3. Mutual Mentorship & Coaching: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
 4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
-5. Resources: General resources about how to network.
-   1. Informational Interview.
-   2. Networking Guidelines.
