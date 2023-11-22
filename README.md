@@ -38,7 +38,7 @@ ACU is not just about MOOCs but also about imitating a real university community
 
 1. Students typically get 1-3 answers within 5 minutes of their questions.
 2. Students provide reviews and good resources after finishing a topic, in an iterative manner, leading to a curated educational resource after some time.
-3. Students evade mistakes as others will guide them; For example, studying without taking notes, not studying from interactive courses.
+3. Students evade mistakes as others will guide them; For example, studying without taking notes and studying from interactive courses.
 
 ACU is looking to expand current services to support everything like real universities. This can only be done via each member's contribution, suggestions, and services. Community is built on a single principle, "Those Who want help, give help"; Beneficiaries from such services shall try, with all they have, to support and contribute back to the community.
 
@@ -88,7 +88,7 @@ To be done...
 
 #### Rules
 
-1. **Do not waste your efforts** on rude people, don't try to respond to bullying or any rude text, please mention @Moderator.
+1. **Do not waste your efforts** on rude people; Don't try to respond to bullying or any rude text, please mention @Moderator.
 2. **Hateful discussion is prohibited**, and you will be banned forever.
    1. The Server has 0% tolerance against contentions like **Religious** Disputes/Curses, **Politics**, **Sexism**, and NSFW Content (Curses or Images).
    2. Never do "Character assassination". Even for a person who isn't on the server.
@@ -100,7 +100,7 @@ To be done...
 2. If you ask a question, **be responsive to answers**.
 3. **Never ask the same question twice**.
 4. **Never ask before doing your research & showing it**.
-5. **Don't mention** people (E.g., @omar1111) nor DM unless they are comfortable with it. (ESPECIALLY **MENTORS**)
+5. **Don't mention** people (E.g., @omar1111) or DM unless they are comfortable with it. (ESPECIALLY **MENTORS**)
 6. Don't ask to ask; Ask right away.
 
 #### Roles
@@ -128,7 +128,7 @@ To be done...
 2. How to use AC Discord Server?
    1. Arabic: [Old Onboarding Video](https://youtu.be/v1SyedPG0jw).
    2. Tips:
-      1. You can show/hide channels from "Browse Channels" options on left pane.
+      1. You can show/hide channels from "Browse Channels" options on the left pane.
 3. How to ask questions?
    1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
    2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
@@ -136,11 +136,11 @@ To be done...
    4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
    5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
    6. Ask a binary question if possible. (I.e., True/false)
-   7. If not, Ask enclosed question if possible. (I.e., question that has expected answer; E.g., Which color? "Red", "Green", "Blue")
+   7. If not, Ask the enclosed question if possible. (I.e., the question that has an expected answer; E.g., Which color? "Red", "Green", "Blue")
    8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
    9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
 4. Who to ask before you ask?
-   1. Only reliable person that is in charge, or has been charge, or reached the end of the road you want to take.
+   1. Only reliable person that is in charge, or has been in charge, or reached the end of the road you want to take.
    2. Never rely on an answer/course even if it is free before performing rule 1 above.
    3. Arabic shorts & videos:
       1. Dr. Mostafa: Video [1](https://www.youtube.com/live/ZHMr5kPjFpk?feature=share) & [2](https://www.youtube.com/live/8pSt7yhkfSw?feature=share).
@@ -150,9 +150,9 @@ To be done...
    1. Arabic:
       1. Mr. Moshrif: Video [1](https://www.facebook.com/watch/live/?ref=watch_permalink&v=553205550240384) & [2](https://fb.watch/jKaKqf2Rjq/). [Post](https://www.facebook.com/mmoshrif/posts/pfbid02gNUwraX2rJdykh2c6XXeAqKBh3ucdo7YcLx5qeHRqm87NywW769VavTTmZ197Hmdl).
       2. Dr. Mostafa: Video [1](https://www.youtube.com/live/jJoVVCfDCN4)
-7. Can't find a study-buddy or anyone to help in a course?
+7. Can't find a study buddy or anyone to help in a course?
     1. Have you tried your best to share this server in all of the communities that you are in?
-    2. Did you try to ask in the server for anyone that knows someone that studies course X?
+    2. Did you try to ask on the server for anyone who knows someone who is studying course X?
 
 ### Academia
 
