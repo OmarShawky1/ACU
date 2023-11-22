@@ -2,7 +2,7 @@
 
 An Open University providing MOOCs, Career Services, Academic Advisory, and Networking for CS/CSE only.
 
-**Note**: Repo is **under construction** and not everything is explained. But the **services are already established**. **English Server is coming soon**
+**Note**: **English Server is coming soon**. If you find current onboarding hard, please issue a ticket and explain.
 
 ## ACU Mind Map
 

@@ -1,7 +1,5 @@
 ![MindMap](images/ACU_Services.jpg)
 
-**Note**: This is just a pre-release.
-
 # Contents
 
 - [Resources](#resources)
