@@ -6,6 +6,7 @@
   - [Computer Science](#computer-science)
   - [Big N SE Roadmap](#big-n-se-roadmap)
   - [Essential](#essential)
+  - [Sub-fields](#sub-fields)
   - [Career Resources](#career-resources)
 - [Services](#services)
   - [Academia](#academia)
@@ -35,9 +36,16 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
       5. Data Bases (DB).
       6. Networks.
       7. Discrete Mathematics.
-   3. Subfields: Different career paths; You must pick only one.
-         1. Software Engineering.
-         2. Artificial Intelligence (Machine Learning Engineer, Deep Vision...).
+
+## Sub-fields
+
+* CS-minors are different career paths. The following are some of them that we can help with:
+
+1. Software Engineering.
+2. Artificial Intelligence (Machine Learning Engineer, Deep Vision...).
+3. Quantative Engineer.
+4. Embedded Software Engineer.
+5. DevOps Engineer.
 
 ## Big N SE Roadmap
 
