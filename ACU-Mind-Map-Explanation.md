@@ -16,6 +16,7 @@
   - [Networking](#networking)
 - [ACU Comparison](#acu-comparison)
   - [Background](#background)
+  - [Courses Comparison](#courses-comparison)
 
 # Resources
 
@@ -144,3 +145,24 @@ This is when one concludes that he must learn from MOOCs to advance in his caree
 Learning alternatives are limited to paid education (real colleges, notable Boot Camps) and MOOCs.
 
 Studying MOOCs means inevitably facing concepts or coding problems that take days. Meanwhile, it could have taken 5 minutes if you asked the right person. A lot of students leave MOOCs when they get stuck for too many or too long! This leaves them with either the paid option -to get answers when you need them-, if they can afford it, or simply giving up on learning at all! So why not study MOOCs in communities such as ACU? Unfortunately, a lot of good communities provide such help, but they do not provide it for all MOOCs, and this is when ACU comes to hand.
+
+## Courses Comparison
+
+| Topic/Option | ACU | Paid options |
+|:-:|:-:|:-:|
+| Price | $0 | Good options start at $1000 for bootcamps and can go up to $50k for Ivy League colleges, not including living expenses. You pay for the course you failed. |
+| Educational Commitment | At your own chosen pace. Can pause anytime. | Deadlines-restricted. Can never pause. |
+| Personal Commitment | No deadline can push procrastination if one is not dedicated and disciplined enough. | Deadlines, projects, midterms and finals can panic some people to not even enrol. |
+| Commute | 0 Time all year | 15-30 minutes per travel not including getting ready or the exhaustion. |
+| Content | Of ones' choice based on reviews. | Forced and if it is not good, you now will study the forced and the MOOC option. |
+| Help | If you study known topics, you will typically receive a great answer in ~3 minutes from other student | You will receive answers from TA within hours to days, but answers from colleagues are like in ACU. |
+| Degree | Courses can never be used as viable credit hours when applying to real colleges. | Yes, which might open a lot of internship options or training in country. Can be used also to proceed in the academic field. |
+| Grading | Autograder which is greater than any TA or Professor. Check it out in Princeton Algorithms or Programming Languages Course | Theoretical Pen & Paper style. |
+| Admission | - | You might be rejected or required to pay some fees especially for placement tests. |
+
+| Topic/Option | ACU | Free options |
+|:-:|:-:|:-:|
+| Resources | Have options. Most options have active people studying that can help you. | Mostly restricted to only one option, and it might not be active. |
+| Services | It Provides Career, Academic and Networking services similar to or better than paid options because, in a lot of cases, we will also depend on them (e.g., in resume feedback, we will reference MIT, Stanford, etc.). | At most, you will get 2 or 3 help from anonymous or accountable people (thought to say that they are, in rare cases, great). The help is mostly resumes and job applications, which is a fraction of ACU Career Services. |
+| Community | You can make friends with colleagues, a lot of us has met personally multiple times | No friendship beyond online one. |
+| Networking | Allows knowing and connecting with people who will be seniors in a lot of different companies in 3-5 years. | Does not enforce human connection. Mostly, people interact with each other a few times, and that is it. |
