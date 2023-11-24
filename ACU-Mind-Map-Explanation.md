@@ -14,6 +14,8 @@
   - [Academia](#academia)
   - [Career](#career)
   - [Networking](#networking)
+- [ACU Comparison](#acu-comparison)
+  - [Background](#background)
 
 # Resources
 
@@ -128,3 +130,17 @@ Equivalent to Career Services in universities, it provides Alumnus, Seniors and 
 2. Mentors: Find help in Career Advancement, Self-Finance and the entire Mind Map above.
 3. Mutual Mentorship & Coaching: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
 4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
+
+# ACU Comparison
+
+## Background
+
+As a student or graduate, you mostly studied introductory courses with not-so-good content. Even some people study just to pass the exam, which defeats the purpose of learning.
+
+In cases where the student missed important topics such as programming languages, DSA, OS, DB, and so on, he will pay the debt after 7-9 years when he is promoted and has responsibilities, yet he misses crucial knowledge. The debt is unlearning the false knowledge and learning the correct one when you have a ton of responsibilities that cannot wait for you, unlike in college. The person must choose between paying the debt, mostly by taking an unpaid leave until he learns, telling his employer that he is incapable, or getting fired.
+
+This is when one concludes that he must learn from MOOCs to advance in his career.
+
+Learning alternatives are limited to paid education (real colleges, notable Boot Camps) and MOOCs.
+
+Studying MOOCs means inevitably facing concepts or coding problems that take days. Meanwhile, it could have taken 5 minutes if you asked the right person. A lot of students leave MOOCs when they get stuck for too many or too long! This leaves them with either the paid option -to get answers when you need them-, if they can afford it, or simply giving up on learning at all! So why not study MOOCs in communities such as ACU? Unfortunately, a lot of good communities provide such help, but they do not provide it for all MOOCs, and this is when ACU comes to hand.
