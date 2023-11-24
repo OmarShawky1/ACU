@@ -5,6 +5,7 @@
 - [Resources](#resources)
   - [Computer Science](#computer-science)
     - [Roadmaps](#rooadmaps)
+    - [Roadmaps Comparison](#roadmaps-comparison)
   - [Big N SE Roadmap](#big-n-se-roadmap)
   - [Essential](#essential)
   - [Sub-fields](#sub-fields)
@@ -38,6 +39,14 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
       5. Data Bases (DB).
       6. Networks.
       7. Discrete Mathematics.
+
+### Roadmaps Comparison
+
+| Aspect/Roadmap | OSSU | CS-Fundamentals | Big N SE Roadmaps | Note |
+|:-:|:-:|:-:|:-:|:-:|
+| Duration | 3-5 Years | 9-12 Months | 4-6 Months. | Low and high estimated completion time for fresh students with no CS background. |
+| Resources | Restricted to provided courses in README. Most courses are the best MOOCs. Some courses are provided supervisionally and were not tested for quality. | Resources are your own choice. It is advised for courses to follow OSSU's guidelines, which have been reviewed by other students. | They are not courses, so there are no restrictions, and the learning depends on solving problems, despite where you learned from. | OSSU provides the best courses from the start (python for everybody) until (Programming Languages Course), and some courses start to degrade in quality, like Alberta's courses, so it is better to study them from NPTEL or other good quality courses. For the Stanford Algorithms course, the comparison is left for everyone between it and Princeton Algorithms: either theoretical-based or practical-based, as Stanford is language-agnostic, but Princeton is in Java. A lot of courses are similar, like OSTEP. |
+| Outcome | It does not require further CS learning but requires intensive Job Preparation. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It is the fastest way to get hired in Big Tech, but it teaches the bare minimum of everything. If you want to advance in your career, you must continue the OSSU or real college route. No one in the community has taken this route so far to conclude everything. |
 
 ## Sub-fields
 
