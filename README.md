@@ -45,6 +45,8 @@ ACU members are all authentic members providing free Career Services, Academic A
 2. Students provide reviews and good resources after finishing a topic, in an iterative manner, leading to a curated educational resource after some time.
 3. Students evade mistakes as others will guide them; For example, studying without taking notes and studying from interactive courses.
 
+For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./ACU-Mind-Map-Explanation.md#acu-comparison).
+
 ACU is looking to expand current services to support everything like real universities. This can only be done via each member's contribution, suggestions, and services. Community is built on a single principle, "Those Who want help, give help"; Beneficiaries from such services shall try, with all they have, to support and contribute back to the community.
 
 Currently, almost all services in the Mind Map are limited to Trusted members on the server. But don't worry, because you can be @Trusted by contributing to the community.
@@ -175,7 +177,7 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 ### Career
 
-All Under "CAREER" Category. Currently, all channels are private to @Trusted except ps-griding and Mock-interviews.
+All Under "CAREER" Category. Currently, all channels are private to @Trusted except ps-griding.
 
 ### Networking
 
