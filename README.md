@@ -1,6 +1,6 @@
 # ACU
 
-An Open University providing MOOCs, Career Services, Academic Advisory, and Networking for CS/CSE only.
+An Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, Enterprises, Startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking and Academic Advisory for CS/CSE only.
 
 **Note**: **English Server is coming soon**. If you find current onboarding hard, please issue a ticket and explain.
 
@@ -33,9 +33,13 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
 
 ## Summary
 
-Active Courses University is built on top of Resources from [OSSU](https://github.com/ossu/computer-science)'s curriculum, Suggestions from Software Engineer Pioneers and other reliable sources.
+Active Courses University is a community targeting to work in Big N. Similar to the [OSSU](https://github.com/ossu/computer-science) community, it provides educational resources. Additionally, ACU provides professional Career, Networking, and Academic Advisory services.
 
-ACU is not just about MOOCs but also about imitating a real university community. ACU members are all authentic members providing free Career Services, Academic Advisory, mutual coaching, mutual mentorship, mutual tutoring, and much more. To Illustrate some tangible benefits for just the Mutual Tutoring:
+ACU Resources are mainly composed of three main resources (OSSU, CS Fundamentals, and Big N SE Roadmaps). Similar to real universities, services are provided mostly by peers/students, and some by professionals (>3 YoE).
+
+The resources utilize OSSUs' curriculum, suggestions from Software Engineer Pioneers, and other reliable sources. (Check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md) for details)
+
+ACU members are all authentic members providing free Career Services, Academic Advisory, mutual coaching, mutual mentorship, mutual tutoring, and much more. To Illustrate some tangible benefits for just the Mutual Tutoring:
 
 1. Students typically get 1-3 answers within 5 minutes of their questions.
 2. Students provide reviews and good resources after finishing a topic, in an iterative manner, leading to a curated educational resource after some time.
@@ -43,7 +47,7 @@ ACU is not just about MOOCs but also about imitating a real university community
 
 ACU is looking to expand current services to support everything like real universities. This can only be done via each member's contribution, suggestions, and services. Community is built on a single principle, "Those Who want help, give help"; Beneficiaries from such services shall try, with all they have, to support and contribute back to the community.
 
-Currently, almost all services in the Mind Map are limited to Trusted members on the server. But don't worry, because you can be *Trusted* by contributing to the community.
+Currently, almost all services in the Mind Map are limited to Trusted members on the server. But don't worry, because you can be @Trusted by contributing to the community.
 
 Finally, if you like the server/repository, share it or invite your acquaintances and colleagues. You will benefit directly and indirectly; your tutor, coach, mentor or study buddy might be your colleague you invited or a person that your colleague invited. Try to share it on your FB, class group (E.g., WhatsApp group). If you can ask someone popular to share this group; Do it.
 
@@ -53,7 +57,7 @@ Check [Community](#community) to join us.
 
 ### Courses
 
-* All courses follow IEEE CS2013 Guidelines (Check OSSU) while being free and interactive (autograder for assignments and final project/exam).
+* All courses follow IEEE CS2013 Guidelines (Check OSSU) while being free and interactive (autograder for assignments and final project/exam). The only exception is "Big N SE Roadmap".
 * Notes:
   * Course reviews will be provided in the GitHub Issues soon.
   * Resources that will be enhanced and rewritten in our [Website](https://www.activecourses.tech/).

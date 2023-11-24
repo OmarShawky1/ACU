@@ -4,7 +4,9 @@
 
 - [Resources](#resources)
   - [Computer Science](#computer-science)
+  - [Big N SE Roadmap](#big-n-se-roadmap)
   - [Essential](#essential)
+  - [Career Resources](#career-resources)
 - [Services](#services)
   - [Academia](#academia)
   - [Career](#career)
@@ -37,6 +39,12 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
          1. Software Engineering.
          2. Artificial Intelligence (Machine Learning Engineer, Deep Vision...).
 
+## Big N SE Roadmap
+
+They are reliable roadmaps and educational content provided by professionals working at those companies as a fast route to work at them. Each source contains the main contributor and his active record for references, and additionally, you can ask ACU members for their opinions.
+
+Although only "Coding Interview University" is mentioned, ACU will add more resources soon.
+
 ## Essential
 
 The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ years of experience). Learning "How to ask?", "How to search?", "How to study?" and essential tools will boost your productivity 10-50x!
@@ -44,6 +52,10 @@ The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ 
 1. Essential skills: (How to ask?), (How to search?), (How to study?), (How to pick your road map?).
 2. Essential tools: Git & GitHub, Linux, IDEs... .
 3. Knowledge Base: Stackoverflow-like for resources. (Later, when a topic becomes popular, it is turned into a channel with its own traffic and resources. This channel is a way for new people to catch up with old resources & discussions).
+
+## Career Resources
+
+They are resources used in the services and limited to @Trusted. For further explanation, check trusted Discord-pinned messages.
 
 # Services
 
