@@ -95,18 +95,23 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 
 Equivalent to Career Services in universities, it provides Alumnus, Seniors and Undergrads career related help such as:
 
-1. Resume: Review, Feedback & Tips.
-2. Job: Tailored help in (picking your companies option (E.g., Big N), Job Application, Networking, Interview Practice & help, Offer Negotiation).
-3. Fairs: (Currently unavailable but we provide resources for other entities that provide it)
-   1. Job Fairs.
-   2. Alumnus Fairs/Gathering: Introduces new to old Alumnus to find /help (mentorship, coaching).
-      1. It is one of the ultimate networking techniques in different industrial or academic disciplines and levels. New Alumnus, in IVY-League Universities, have the opportunity to meet with entrepreneurs, seniors, startup or business owners; Imagine having the opportunity to meet with Jeff Bezos in his early stages.
-4. Interview Preparation.
-   1. Mock Interview: Pair & practice mock interviews (Problem-Solving, System Design, Behavioral) with colleagues & experts.
-   2. Search & find company information.
-   3. Level up in the company. (Currently limited to just resources)
-5. Remote & Relocation help.
-6. Internship help: Finding opportunities, Find out updates if you are ghosted (no one responded back for long time).
+1. Profile Review: Personal Review, Feedback & Tips for:
+   1. Resumes.
+   2. LinkedIn.
+   3. GitHub profiles and READMEs.
+2. Search Job: tailored help, tips and techniques in job searching based on your preferences from:
+   1. Commit Type: Intern, Full-Time, Contract.
+   2. Commute Type: On-site & Relocation, Remote, Hybrid.
+   3. Role Type: Software Engineer, Quantitative Engineer, and so on.
+   4. Company Type (Size, Product type,...). (E.g., FAANG, FAANG+, Fortune 100, Fortune 500, Startups)
+3. Interview Preparation: Resources and personal help for all companies and interview types ranging from Problem-Solving Training, Mock Interviews or Real Interviews Experience Exchange and Interview Resources.
+4. Discussions: Career topics of interest such as Networking, Job Application, Compensation and Offer Negotiation, Miscellaneous Career topics, Self-finance.
+5. Career advancement: level up in company, learn more, and earn more.
+6. Events
+   1. Fairs: (Currently unavailable but we provide resources for other entities that provide it)
+      1. Job Fairs.
+      2. Alumnus Fairs/Gathering: Introduces new to old Alumnus to find /help (mentorship, coaching). It is one of the ultimate networking techniques in different industrial or academic disciplines and levels. New Alumnus, in IVY-League Universities, have the opportunity to meet with entrepreneurs, seniors, startup or business owners; Imagine having the opportunity to meet with Jeff Bezos in his early stages.
+   2. Miscellaneous: Events organized by others.
 
 ## Networking
 
