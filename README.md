@@ -109,6 +109,12 @@ To be done...
       1. Arabic:
          1. Mr. Moshrif: Video [1](https://www.facebook.com/watch/live/?ref=watch_permalink&v=553205550240384) & [2](https://fb.watch/jKaKqf2Rjq/). [Post](https://www.facebook.com/mmoshrif/posts/pfbid02gNUwraX2rJdykh2c6XXeAqKBh3ucdo7YcLx5qeHRqm87NywW769VavTTmZ197Hmdl).
          2. Dr. Mostafa: Video [1](https://www.youtube.com/live/jJoVVCfDCN4).
+   5. How do you plan and solve most of your problems (in life and the field or industry) smartly with the least thinking effort and minimize failures?
+      1. Check "How to ask?" above.
+      2. Check related records or background about who is giving you the advice. If he is advising on "How to work at Google?" he must have worked there at least.
+      3. Avoid unaccountable advice or courses from unreliable people, even if they are free. Unless a person is accountable for what he says and has an active track record, treat every word with a grain of salt.
+      4. For you to ask someone, you need to build a relationship with them. You also might need to show that you also help when you can, as this will increase the chances of getting help.
+      5. Firmly believing that you are not exceptional by any means. 99.99% of your problems have faced others as well, and they developed a solution for them, but you just didn't research enough.
 2. Essential tools: [git-and-github channel](https://discord.gg/rvkdAwuW6Q) & [linux channel](https://discord.gg/TVCzqKnBPY).
 3. Knowledge Base:
    1. @Students: [recommended forum](https://discord.gg/25dTf9Y78h).
