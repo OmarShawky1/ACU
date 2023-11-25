@@ -2,7 +2,7 @@
 
 An Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, Enterprises, Startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking and Academic Advisory for CS/CSE only.
 
-**Note**: **English Server is coming soon**. If you find current onboarding hard, please issue a ticket and explain.
+**Note**: If you find current onboarding hard, please issue a ticket and explain.
 
 ## ACU Mind Map
 
@@ -127,7 +127,14 @@ Unfortunately, they are all available only for @Trusted.
 ## Community
 
 * Watch the [On-boarding video](https://youtu.be/z5NsFT7QMJ4).
-* Join Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discord&logoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx)
+* Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)
+](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
+
+<!--
+Old AC server logo
+Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discordlogoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx).
+-->
+
 
 ### General Info
 
