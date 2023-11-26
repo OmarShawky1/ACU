@@ -1,6 +1,6 @@
 # ACU
 
-An Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, Enterprises, Startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking and Academic Advisory for CS/CSE only.
+An Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, enterprises, and startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking, and Academic Advisory for CS/CSE only.
 
 **Note**: If you find current onboarding hard, please issue a ticket and explain.
 
