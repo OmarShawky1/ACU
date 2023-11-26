@@ -131,7 +131,6 @@ Old AC server logo
 Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discordlogoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx).
 -->
 
-
 ### General Info
 
 #### Rules
@@ -180,6 +179,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 3. Can't find a study buddy or anyone to help in a course?
     1. Have you tried your best to share this server in all the communities that you are in?
     2. Did you try to ask on the server for anyone who knows someone who is studying course X?
+ 4. Read [Essential](#essential).
 
 ### Academia
 
