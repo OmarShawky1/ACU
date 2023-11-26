@@ -28,8 +28,7 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
    2. [Academia](#academia)
    3. [Career](#career)
    4. [Networking](#networking)
-   5. [Server Details](#server-details)
-      1. [General](#general)
+   5. [Server Details](#server-onboarding)
 
 ## Summary
 
@@ -193,11 +192,41 @@ All Under "CAREER" Category. Currently, all channels are private to @Trusted exc
 
 Currently, all channels are private to @Trusted except general mentorship (in the category MENTORSHIP).
 
-## Server Details
+## Server Onboarding
 
-### General
+* Brief onboarding for servers' Categories & channels ordered from top to bottom.
+* Not all channels are mentioned to avoid redundancy.
 
-To be done...
-
-1. Categories and channels for resources are designed after OSSU's design.
-2. Any channel or category under "Archive" category is achieved because it has not been recently used or merged into another channel but kept because it contains useful info.
+1. COMMUNITY:
+   1. announcements: Any major updates in server. @everyone tag is only used for important announcements.
+   2. ask-mod: Used for newbies or issues within the server or moderators.
+   3. server-suggestions: Things you wish in the server.
+2. NEWCOMER:
+   1. newcomer: Rules to apply as @Student.
+   2. newcomer-answer: where you apply or grant people.
+   3. newcomer-general: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
+3. MENTORSHIP
+   1. mentors-announcements: all mentors announcements.
+4. _SPECIAL CATEGORIES_: This is not the name of the category but some set of categories that have the following similar channels:
+   1. _general_: Place for members to get answers from all _special roles_ members.
+   2. _side-channel_: like "general" above but requires just one answer.
+   3. knowledge-base: Stackoverflow-like for resources between members.
+5. SOCIAL:  
+   1. off-topic: for non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
+6. GENERAL: channels that do not fit anywhere else.
+   1. recommended: Stackoverflow-like resources for @Students.
+   2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
+7. Q&A: Topics that are not studying material but related to it.
+   1. general-questions: topic-less Q&A.
+   2. internships: sharing and discussing internship options between @Students.
+   3. life-after-grad: topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
+8. From CORE-PROGRAMMING to CORE-SYSTEMS: Categories ordered after OSSUs' curriculum. Contains _general_ channel for each topic (in OSSU curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
+9. CS-SUB-FIELDS: For CS-minors.
+   1. general-cs-subfields: For CS-minors that have low traffic.
+   2. general-ai
+10. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
+    1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
+11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or _general_ (for _specific roles_).
+    1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
+    2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
+12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
