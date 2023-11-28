@@ -127,6 +127,7 @@ Unfortunately, they are all available only for @Trusted.
 ](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
 
 <!--
+[Old Arabic Onboarding Video](https://youtu.be/v1SyedPG0jw)
 Old AC server logo
 Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discordlogoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx).
 -->
@@ -140,6 +141,9 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
    1. The Server has 0% tolerance against contentions like **Religious** Disputes/Curses, **Politics**, **Sexism**, and NSFW Content (Curses or Images).
    2. Never do "Character assassination". Even for a person who isn't on the server.
    3. You are allowed to criticize respectfully & objectively. E.g., You can claim a course to be a "Scam" (only If you have proof) but you are not allowed to curse its instructor.
+3. Do not give advice when you are not eligible. For example:
+   1. Do not tell anyone "How to become a good Software Engineer" unless you are reciting from a credible source, or you have 5+ years of experience.
+   2. Do not say "This resume advice is wrong" unless you have a contradicting credible source, or you are a recruiter/hiring manager (at the same companies that the person is talking about).
 
 #### Conversation Etiquette
 
@@ -165,22 +169,22 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 1. Students (@Students):
    1. Who are @Students: Authentic admitted people who applied using one of the authentication methods in the newcomer channel in the Discord server.
-   2. What are there benefits?
+   2. What are their benefits?
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
       3. Have access to a single channel, called life-after-grad, that provides help in everything on the left side of the aforementioned Mind Map.
       4. But all the above benefits are limited; E.g., People asking questions in Princeton Algorithms Part 1 Week 6 shall help people in Week 5 and the hierarchy goes on. If a student does not help like he gets help, he is warned to be banned.
 2. Trusted (@Trusted):
-   1. What/Who are @Trusted? They are people, that were noticed & chosen by 2+ @Trusted, for supporting the community.
-   2. How to be @Trusted?
-      1. Do all you can to support the community and other @Trusted will make sure of that. Each member is tested before enrollment.
+   1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
+   2. What are their benefits?
+      1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
+      2. Ask unlimited questions and get exceptional answers.
+   3. How to be @Trusted?
+      1. Do all you can to support the community; Try asking "How can I help the community?" or infer it. Provide exceptional ideas, resources or help.
       2. Check channels where you can provide help. Ask us to create one if it is missing.
       3. Find and collaborate with people with mutual interests. For example:
          1. Find people applying for internships (in [ACU-English](https://discord.com/channels/1026170883997438112/1176583002281738301) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1154362703935184956)) or applying for full-time jobs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
          2. Help people with their resumes in life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
-   3. What are there benefits?
-      1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
-      2. Ask unlimited questions and get exceptional answers.
 
 ### Services Onboarding
 
@@ -200,6 +204,8 @@ Currently, all channels are private to @Trusted except general mentorship (in th
 
 * Brief & ordered from top to bottom.
 * Not all channels are mentioned to avoid redundancy.
+* All channels mentioned are just for @Students (which is 40% of the entire server).
+* Always check pinned messages.
 
 1. COMMUNITY:
    1. announcements: Any major updates in the server. @everyone tag is only used for important announcements.
@@ -233,4 +239,6 @@ Currently, all channels are private to @Trusted except general mentorship (in th
 11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or _general_ (for _specific roles_).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
+    3. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
+    4. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
