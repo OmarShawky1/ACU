@@ -111,10 +111,10 @@ To be done...
       3. Avoid unaccountable advice or courses from unreliable people, even if they are free. Unless a person is accountable for what he says and has an active track record, treat every word with a grain of salt.
       4. For you to ask someone, you need to build a relationship with them. You also might need to show that you also help when you can, as this will increase the chances of getting help.
       5. Firmly believing that you are not exceptional by any means. 99.99% of your problems have faced others as well, and they developed a solution for them, but you just didn't research enough.
-2. Essential tools: [git-and-github channel](https://discord.gg/rvkdAwuW6Q) & [linux channel](https://discord.gg/TVCzqKnBPY).
+2. Essential tools: git-and-github (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222549) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580791316574248)) & Linux (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222550) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580813756088380)).
 3. Knowledge Base:
-   1. @Students: [recommended forum](https://discord.gg/25dTf9Y78h).
-   2. For @Trusted: [knowledge base forum](https://discord.gg/dJaRzXRhMm).
+   1. @Students: recommended forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176582261433434112) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1059712714492088370)).
+   2. For @Trusted: knowledge base forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176589702334267504) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1075739383908552794)).
 
 ### Career Resources
 
@@ -122,7 +122,7 @@ Unfortunately, they are all available only for @Trusted.
 
 ## Community
 
-* Watch the [On-boarding video](https://youtu.be/z5NsFT7QMJ4).
+* This section is for onboarding.
 * Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)
 ](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
 
@@ -147,21 +147,19 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 2. If you ask a question, **be responsive to answers**.
 3. **Never ask the same question twice**.
 4. **Never ask before doing your research & showing it**.
-5. **Don't mention** people (E.g., @omar1111) or DM unless they are comfortable with it. (ESPECIALLY **MENTORS**)
+5. **Don't mention** people (E.g., @omar1111) or DM unless they are comfortable with it. (ESPECIALLY **@Mentors**)
 6. Don't ask to ask; Ask right away.
 
 #### FAQ
 
 1. How to use Discord:
    1. Arabic: [New Video](https://youtu.be/oUh1ve_dS4I) or [Old Video](https://youtu.be/QMkqUMoYInE).
-2. How to use AC Discord Server?
-   1. Arabic: [Old Onboarding Video](https://youtu.be/v1SyedPG0jw).
    2. Tips:
       1. You can show/hide channels from "Browse Channels" options on the left pane.
-3. Can't find a study buddy or anyone to help in a course?
+2. Can't find a study buddy or anyone to help in a course?
     1. Have you tried your best to share this server in all the communities that you are in?
     2. Did you try to ask on the server for anyone who knows someone who is studying course X?
- 4. Read [Essential](#essential).
+3. Read [Essential](#essential).
 
 ## Roles Onboarding
 
@@ -188,7 +186,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 #### Academia
 
-Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs in [life-after-grad](https://discord.gg/VF8QGnBAWZ).
+Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
 
 #### Career
 
@@ -200,11 +198,11 @@ Currently, all channels are private to @Trusted except general mentorship (in th
 
 ## Channels & Categories Onboarding
 
-* Brief onboarding for servers' Categories & channels ordered from top to bottom.
+* Brief & ordered from top to bottom.
 * Not all channels are mentioned to avoid redundancy.
 
 1. COMMUNITY:
-   1. announcements: Any major updates in server. @everyone tag is only used for important announcements.
+   1. announcements: Any major updates in the server. @everyone tag is only used for important announcements.
    2. ask-mod: Used for newbies or issues within the server or moderators.
    3. server-suggestions: Things you wish in the server.
 2. NEWCOMER:
