@@ -20,15 +20,16 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
    2. [Essential](#essential)
    3. [Career Resources](#career-resources)
 3. [Community](#community)
-   1. [General Info](#general-info)
+   1. [General](#general)
       1. [Rules](#rules)
       2. [Conversation Etiquette](#conversation-etiquette)
-      3. [Roles](#roles)
-      4. [FAQ](#faq)
-   2. [Academia](#academia)
-   3. [Career](#career)
-   4. [Networking](#networking)
-   5. [Server Details](#server-onboarding)
+      3. [FAQ](#faq)
+   2. [Roles Onboarding](#roles-onboarding)
+   3. [Services Onboarding](#services-onboarding)
+      1. [Academia](#academia)
+      2. [Career](#career)
+      3. [Networking](#networking)
+   4. [Channels & Categories Onboarding](#channels--categories-onboarding)
 
 ## Summary
 
@@ -130,7 +131,7 @@ Old AC server logo
 Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?logo=discordlogoColor=ffffff&label=%20&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx).
 -->
 
-### General Info
+### General
 
 #### Rules
 
@@ -149,24 +150,6 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 5. **Don't mention** people (E.g., @omar1111) or DM unless they are comfortable with it. (ESPECIALLY **MENTORS**)
 6. Don't ask to ask; Ask right away.
 
-#### Roles
-
-1. *Trusted*:
-   1. What/Who are *Trusted*? They are people, that were noticed & agreed upon him by 2 or more other *Trusted*, supporting the community.
-   2. How to be *Trusted*?
-      1. Do all you can to support the community and other *Trusted* will make sure of that. Each member is tested before enrollment.
-      2. Try to connect with people by finding a mutual interest; Start by asking who is in the same stage as you (E.g., who is writing his resume or applying for a job at companies *Z*) and start the collaboration.
-   3. What are there benefits?
-      1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
-      2. Ask unlimited questions and get exceptional answers.
-2. *Students*:
-   1. Who are *Students*: Authentic admitted people who applied using one of the authentication methods in the newcomer channel in the Discord server.
-   2. What are there benefits?
-      1. Find tutors for the entire right side of the aforementioned Mind Map.
-      2. Ask mentors.
-      3. Have access to a single channel, called life-after-grad, that provides help in everything on the left side of the aforementioned Mind Map.
-      4. But all the above benefits are limited; E.g., People asking questions in Princeton Algorithms Part 1 Week 6 shall help people in Week 5 and the hierarchy goes on. If a student does not help like he gets help, he is warned to be banned.
-
 #### FAQ
 
 1. How to use Discord:
@@ -180,19 +163,42 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
     2. Did you try to ask on the server for anyone who knows someone who is studying course X?
  4. Read [Essential](#essential).
 
-### Academia
+## Roles Onboarding
+
+1. Students (@Students):
+   1. Who are @Students: Authentic admitted people who applied using one of the authentication methods in the newcomer channel in the Discord server.
+   2. What are there benefits?
+      1. Find tutors for the entire right side of the aforementioned Mind Map.
+      2. Ask mentors.
+      3. Have access to a single channel, called life-after-grad, that provides help in everything on the left side of the aforementioned Mind Map.
+      4. But all the above benefits are limited; E.g., People asking questions in Princeton Algorithms Part 1 Week 6 shall help people in Week 5 and the hierarchy goes on. If a student does not help like he gets help, he is warned to be banned.
+2. Trusted (@Trusted):
+   1. What/Who are @Trusted? They are people, that were noticed & chosen by 2+ @Trusted, for supporting the community.
+   2. How to be @Trusted?
+      1. Do all you can to support the community and other @Trusted will make sure of that. Each member is tested before enrollment.
+      2. Check channels where you can provide help. Ask us to create one if it is missing.
+      3. Find and collaborate with people with mutual interests. For example:
+         1. Find people applying for internships (in [ACU-English](https://discord.com/channels/1026170883997438112/1176583002281738301) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1154362703935184956)) or applying for full-time jobs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
+         2. Help people with their resumes in life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
+   3. What are there benefits?
+      1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
+      2. Ask unlimited questions and get exceptional answers.
+
+### Services Onboarding
+
+#### Academia
 
 Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs in [life-after-grad](https://discord.gg/VF8QGnBAWZ).
 
-### Career
+#### Career
 
 All Under "CAREER" Category. Currently, all channels are private to @Trusted except ps-griding.
 
-### Networking
+#### Networking
 
 Currently, all channels are private to @Trusted except general mentorship (in the category MENTORSHIP).
 
-## Server Onboarding
+## Channels & Categories Onboarding
 
 * Brief onboarding for servers' Categories & channels ordered from top to bottom.
 * Not all channels are mentioned to avoid redundancy.
