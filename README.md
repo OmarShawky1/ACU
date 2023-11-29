@@ -184,6 +184,8 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 #### Academia
 
+* For the explanation, check [Academia Explanation](./ACU-Mind-Map-Explanation.md#academia).
+
 Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
 
 #### Career
