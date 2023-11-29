@@ -20,7 +20,8 @@
    3. [Sub Communities](#sub-communities)
    4. [Networking](#networking)
    5. [Mentors](#mentors)
-   6. [Events](#events)
+   6. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+   7. [Events](#events)
 4. [ACU Comparison](#acu-comparison)
    1. [Background](#background)
    2. [Courses Comparison](#courses-comparison)
@@ -183,15 +184,22 @@ So, your only way is either by learning and experiencing everything by yourself 
 3. Benefits from networking in ACU:
    1. Your only way to access services part in ACU.
    2. Learn to network outside ACU (with other mentors and colleagues or coworkers).
-   3. Mutual Mentorship, Coaching and Tutoring: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
-      1. Students typically get 1-3 answers within 5 minutes of their questions.
-      2. Students provide reviews and good resources after finishing a topic in an iterative manner, leading to a curated educational resource after some time.
-      3. Students evade mistakes as others will guide them. For example, studying without taking notes and studying from interactive courses.
-   4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
+   3. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
+
+Networking benefits mentioned are just an example. In fact, the examples are drops in the ocean. Networking is not like educational paths because life itself is undetermined, so you can't actually predict the rewards or calculate its ROI. Maybe you cannot see now the benefits from your peers or your mentee, but over time you will. They will eventually work for big companies and gain different experiences; your mentee will eventually grow into seniors and tech leads. By that time, your interests and goals will differ. You might want to open a startup or a consulting company where you need to consult or hire people.
+
+Networking has two shapes: trading and friendship. Trading is just an immediate favor exchange, and you only get what you can give now. Trading will not serve you when you are weak or at the beginning. Friendship is like a loan with interest. If you pick the right person, the *X* you give now, especially when he cannot pay back the favor, will return *10X* at least. Friendship will serve you when you are weak. Unfortunately, this is not a blog about friendship, but this is for the people who never understood friendship or failed to retain friends for years.
 
 ### Mentors
 
 A @Mentor who can help you advance in your career who is willing to help in the server but on his own terms within his own time. No obligations or strings attached.
+
+### Mutual Mentorship, Coaching and Tutoring
+
+1. Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
+   1. Students typically get 1-3 answers within 5 minutes of their questions.
+   2. Students provide reviews and good resources after finishing a topic in an iterative manner, leading to a curated educational resource after some time.
+   3. Students evade mistakes as others will guide them. For example, studying without taking notes and studying from interactive courses.
 
 ### Events
 

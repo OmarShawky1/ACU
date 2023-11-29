@@ -30,8 +30,9 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
       2. [Career](#career)
       3. [Sub-Communities](#sub-communities)
       4. [Networking](#networking)
-      5. [Mentors](#mentors)
-      6. [Events](#events)
+      5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+      6. [Mentors](#mentors)
+      7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
 
 ## Summary
@@ -224,6 +225,12 @@ To be done...
 #### Mentors
 
 Provided only under the "MENTORSHIP" Category.
+
+### Mutual Mentorship, Coaching and Tutoring
+
+* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./ACU-Mind-Map-Explanation.md#mutual-mentorship-coaching-and-tutoring)
+
+No dedicated channel. Provided throughout the entire server.
 
 #### Events
 
