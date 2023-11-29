@@ -192,6 +192,18 @@ So, your only way is either by learning and experiencing everything by yourself 
 ### Mentors
 
 A @Mentor who can help you advance in your career who is willing to help in the server but on his own terms within his own time. No obligations or strings attached.
+
+### Events
+
+* Only "Third Parties" are available.
+
+1. They are composed of:
+   1. Alumni Fairs/Gathering: A great networking opportunities for old and new graduates and students.
+      1. Old graduates are mentors/coaches for the new graduates and chain goes on for students.
+      2. It is one of the ultimate networking techniques in different industrial or academic disciplines and levels. New Alumnus, in IVY-League Universities, have the opportunity to meet with entrepreneurs, seniors, startup or business owners; Imagine having the opportunity to meet with Jeff Bezos in his early stages.
+   2. Job Fairs: Most graduates are happy and willing to offer vacancies to others especially their connections.
+   3. Third Parties: Events organized by others (University, Company, and so on).
+
 ## ACU Comparison
 
 ### Background

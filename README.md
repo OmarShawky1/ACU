@@ -224,6 +224,9 @@ Provided only under the "MENTORSHIP" Category.
 
 ### Events
 
+* For the explanation, check [Events Explanation](./ACU-Mind-Map-Explanation.md#events)
+
+Third-party events are available only on the Arabic ACU Server in recommended events.
 
 ## Channels & Categories Onboarding
 
