@@ -115,8 +115,7 @@ To be done...
 ## Community
 
 * This section is for onboarding.
-* Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)
-](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
+* Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
 
 <!--
 [Old Arabic Onboarding Video](https://youtu.be/v1SyedPG0jw)
@@ -212,9 +211,9 @@ All Under "CAREER" Category. Currently, all channels are private to @Trusted exc
    3. newcomer-general: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
 3. MENTORSHIP
    1. mentors-announcements: all mentors announcements.
-4. _SPECIAL CATEGORIES_: This is not the name of the category but some set of categories that have the following similar channels:
-   1. _general_: Place for members to get answers from all _special roles_ members.
-   2. _side-channel_: like "general" above but requires just one answer.
+4. *SPECIAL CATEGORY*: This is not the name of the category but some set of categories that have the following similar channels:
+   1. *general*: Place for members to get answers from all *special roles* members.
+   2. *side-channel*: like "general" above but requires just one answer.
    3. knowledge-base: Stackoverflow-like for resources between members.
 5. SOCIAL:  
    1. off-topic: for non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
@@ -223,15 +222,14 @@ All Under "CAREER" Category. Currently, all channels are private to @Trusted exc
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
 7. Q&A: Topics that are not studying material but related to it.
    1. general-questions: topic-less Q&A.
-   2. internships: sharing and discussing internship options between @Students.
-   3. life-after-grad: topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
-8. From CORE-PROGRAMMING to CORE-SYSTEMS: Categories ordered after OSSUs' curriculum. Contains _general_ channel for each topic (in OSSU curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
+   2. life-after-grad: topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
+8. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSU curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
 9. CS-SUB-FIELDS: For CS-minors.
    1. general-cs-subfields: For CS-minors that have low traffic.
    2. general-ai
 10. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
     1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
-11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or _general_ (for _specific roles_).
+11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
     3. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
