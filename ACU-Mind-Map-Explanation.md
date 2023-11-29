@@ -1,24 +1,31 @@
 ![MindMap](images/ACU_Services.jpg)
 
-# Contents
+## Contents
 
-- [Resources](#resources)
-  - [Computer Science](#computer-science)
-    - [Roadmaps](#rooadmaps)
-    - [Roadmaps Comparison](#roadmaps-comparison)
-  - [Big N SE Roadmap](#big-n-se-roadmap)
-  - [Essential](#essential)
-  - [Sub-fields](#sub-fields)
-  - [Career Resources](#career-resources)
-- [Services](#services)
-  - [Academia](#academia)
-  - [Career](#career)
-  - [Networking](#networking)
-- [ACU Comparison](#acu-comparison)
-  - [Background](#background)
-  - [Courses Comparison](#courses-comparison)
+1. [Resources](#resources)
+   1. [Courses](#courses)
+      1. [Computer Science](#computer-science)
+         1. [Roadmaps](#roadmaps)
+         2. [Roadmaps Comparison](#roadmaps-comparison)
+      2. [Sub-fields](#sub-fields)
+      3. [Big N SE Roadmap](#big-n-se-roadmap)
+   2. [Essential](#essential)
+   3. [Career Resources](#career-resources)
+   4. [Career Advancement](#career-advancement)
+   5. [Networking Resources](#networking-resources)
+2. [Members](#members)
+3. [Services](#services)
+   1. [Academia](#academia)
+   2. [Career](#career)
+   3. [Sub Communities](#sub-communities)
+   4. [Networking](#networking)
+   5. [Mentors](#mentors)
+   6. [Events](#events)
+4. [ACU Comparison](#acu-comparison)
+   1. [Background](#background)
+   2. [Courses Comparison](#courses-comparison)
 
-# Resources
+## Resources
 
 * Students are free to choose whichever course they like, but some benefits are studying from the same source as others as follows:
   * This is the servers' purpose (mentoring each other as our questions will be around the same course, and it will be easier to find an answer); Otherwise, Won't be any different from Coursera's Discussion forum which doesn't help much and takes time for your question to be answered.
@@ -50,7 +57,7 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
       6. Networks.
       7. Discrete Mathematics.
 
-### Roadmaps Comparison
+##### Roadmaps Comparison
 
 | Aspect/Roadmap | OSSU | CS-Fundamentals | Big N SE Roadmaps | Note |
 |:-:|:-:|:-:|:-:|:-:|
@@ -58,7 +65,7 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
 | Resources | Restricted to provided courses in README. Most courses are the best MOOCs. Some courses are provided supervisionally and were not tested for quality. | Resources are your own choice. It is advised for courses to follow OSSU's guidelines, which have been reviewed by other students. | They are not courses, so there are no restrictions, and the learning depends on solving problems, despite where you learned from. | OSSU provides the best courses from the start (python for everybody) until (Programming Languages Course), and some courses start to degrade in quality, like Alberta's courses, so it is better to study them from NPTEL or other good quality courses. For the Stanford Algorithms course, the comparison is left for everyone between it and Princeton Algorithms: either theoretical-based or practical-based, as Stanford is language-agnostic, but Princeton is in Java. A lot of courses are similar, like OSTEP. |
 | Outcome | It does not require further CS learning but requires intensive Job Preparation. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It is the fastest way to get hired in Big Tech, but it teaches the bare minimum of everything. If you want to advance in your career, you must continue the OSSU or real college route. No one in the community has taken this route so far to conclude everything. |
 
-## Sub-fields
+#### Sub-fields
 
 * CS-minors are different career paths. The following are some of them that we can help with:
 
@@ -68,7 +75,7 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
 4. Embedded Software Engineer.
 5. DevOps Engineer.
 
-## Big N SE Roadmap
+#### Big N SE Roadmap
 
 They are reliable roadmaps and educational content provided by professionals working at those companies as a fast route to work at them. Each source contains the main contributor and his active record for references, and additionally, you can ask ACU members for their opinions.
 
@@ -87,11 +94,17 @@ The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ 
 They are resources used in the services and limited to @Trusted. For further explanation, check trusted Discord-pinned messages.
 
 # Services
+### Career Advancement
+### Networking Resources
+
+## Members
+
+## Services
 
 * They are interactive 1-1 help not some hanging resources on the internet.
 * People here are accountable for each & every word they provide. They do not mislead, misinform or be stubborn about with their thoughts. If one is not reliable to give an opinion, he will recite you from a reliable source and back his words with the source itself.
 
-## Academia
+### Academia
 
 Academia is equivalent to Academic Advisory in universities where a person (usually, Maters or PhD holder/student) offering help in the academic career path from educational field, CV, Thesis to Post grad. Briefly, anything in the below services:
 
@@ -101,7 +114,7 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 4. CV Review. (Can get help from other members other than Academic advisory)
 5. Post graduation help: Choosing academic path, Finding professor, pairing with professor, finding opportunities.
 
-## Career
+### Career
 
 Equivalent to Career Services in universities, it provides Alumnus, Seniors and Undergrads career related help such as:
 
@@ -139,9 +152,9 @@ Equivalent to Career Services in universities, it provides Alumnus, Seniors and 
 3. Mutual Mentorship & Coaching: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
 4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
 
-# ACU Comparison
+## ACU Comparison
 
-## Background
+### Background
 
 As a student or graduate, you mostly studied introductory courses with not-so-good content. Even some people study just to pass the exam, which defeats the purpose of learning.
 
@@ -153,7 +166,7 @@ Learning alternatives are limited to paid education (real colleges, notable Boot
 
 Studying MOOCs means inevitably facing concepts or coding problems that take days. Meanwhile, it could have taken 5 minutes if you asked the right person. A lot of students leave MOOCs when they get stuck for too many or too long! This leaves them with either the paid option -to get answers when you need them-, if they can afford it, or simply giving up on learning at all! So why not study MOOCs in communities such as ACU? Unfortunately, a lot of good communities provide such help, but they do not provide it for all MOOCs, and this is when ACU comes to hand.
 
-## Courses Comparison
+### Courses Comparison
 
 | Topic/Option | ACU | Paid options |
 |:-:|:-:|:-:|

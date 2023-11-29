@@ -155,7 +155,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
     2. Did you try to ask on the server for anyone who knows someone who is studying course X?
 3. Read [Essential](#essential).
 
-## Roles Onboarding
+### Roles Onboarding
 
 1. Students (@Students):
    1. Who are @Students: Authentic admitted people who applied using one of the authentication methods in the newcomer channel in the Discord server.
@@ -188,7 +188,10 @@ All Under "CAREER" Category. Currently, all channels are private to @Trusted exc
 
 #### Networking
 
-Currently, all channels are private to @Trusted except general mentorship (in the category MENTORSHIP).
+### Mentors
+
+### Events
+
 
 ## Channels & Categories Onboarding
 
