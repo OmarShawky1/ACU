@@ -28,7 +28,10 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
    3. [Services Onboarding](#services-onboarding)
       1. [Academia](#academia)
       2. [Career](#career)
-      3. [Networking](#networking)
+      3. [Sub-Communities](#sub-communities)
+      4. [Networking](#networking)
+      5. [Mentors](#mentors)
+      6. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
 
 ## Summary
@@ -218,11 +221,11 @@ To be done...
 2. @Trusted networking options are like @Students but extend to their exclusive channels.
 3. For beginners, pick an interactive channel where you can collaborate with others. internships, ps-grinding. For more advanced members, tackle questions in Q&A, especially life-after-grad.
 
-### Mentors
+#### Mentors
 
 Provided only under the "MENTORSHIP" Category.
 
-### Events
+#### Events
 
 * For the explanation, check [Events Explanation](./ACU-Mind-Map-Explanation.md#events)
 
