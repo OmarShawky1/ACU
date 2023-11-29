@@ -67,11 +67,11 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
 
 #### Sub-fields
 
-* CS-minors are different career paths. The following are some of them that we can help with:
+* Sub-Fields or CS-Minor is the different career paths.
 
 1. Software Engineering.
 2. Artificial Intelligence (Machine Learning Engineer, Deep Vision...).
-3. Quantative Engineer.
+3. Quantitative Engineer.
 4. Embedded Software Engineer.
 5. DevOps Engineer.
 
