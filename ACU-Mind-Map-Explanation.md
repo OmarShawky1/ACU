@@ -116,6 +116,8 @@ Curated resources for each CS-Minor path by pioneers.
 
 ### Networking Resources
 
+Tailored tips and feedback for how to interact with others, find other communities and gain connections.
+
 ## Members
 
 ## Services
