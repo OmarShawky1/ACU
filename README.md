@@ -212,6 +212,12 @@ To be done...
 
 #### Networking
 
+* For the explanation, check [Networking Explanation](./ACU-Mind-Map-Explanation.md#networking)
+
+1. @Students networking options are limited to studying channels and general mentorship (in the category MENTORSHIP).
+2. @Trusted networking options are like @Students but extend to their exclusive channels.
+3. For beginners, pick an interactive channel where you can collaborate with others. internships, ps-grinding. For more advanced members, tackle questions in Q&A, especially life-after-grad.
+
 ### Mentors
 
 ### Events

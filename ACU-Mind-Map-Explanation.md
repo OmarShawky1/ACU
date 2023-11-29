@@ -163,6 +163,31 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 2. Open Source.
 3. Contests/Hackathons.
 
+### Networking
+
+Networking is the ultimate skill in your career path by far. You cannot reach far in your career without extensive knowledge and experience. But the unknown unknowns (what you do not know that you do not know) and known unknowns (what you know that you do not know) is quite much greater than known knowns (what you know that you know).
+
+So, your only way is either by learning and experiencing everything by yourself or simply by having enough connection that covers all aforementioned unknowns.
+
+1. Networking in ACU is composed of two parts:
+   1. Networking Resources: Curated tips & resources for "How to Network" mostly written by members. They are for networking in ACU and Outside ACU.
+   2. Networking with Members: Discussed in the next step.
+2. Networking with ACU members: achieved in 5 places:
+   1. Graduation & Career: life-after-grad channel.
+   2. *SPECIAL CATEGORIES*.
+   3. Educational: From CORE PROGRAMMING to STACK & TECHNOLOGIES categories.
+   4. Career: CAREER category.
+   5. Mentors: MENTORSHIP category.
+      1. Find help in Career Advancement, Self-Finance and the entire Mind Map above.
+   6. [Sub-Communities](#sub-communities)
+3. Benefits from networking in ACU:
+   1. Your only way to access services part in ACU.
+   2. Learn to network outside ACU (with other mentors and colleagues or coworkers).
+   3. Mutual Mentorship, Coaching and Tutoring: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
+      1. Students typically get 1-3 answers within 5 minutes of their questions.
+      2. Students provide reviews and good resources after finishing a topic in an iterative manner, leading to a curated educational resource after some time.
+      3. Students evade mistakes as others will guide them. For example, studying without taking notes and studying from interactive courses.
+   4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
 ## ACU Comparison
 
 ### Background
