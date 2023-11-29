@@ -266,6 +266,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
-    3. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
-    4. mutual-apply: Apply together at the same time to the same vacancy.
+    3. internships: Share and discuss internship options, application process, and tips between @Students.
+    4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
+    5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
