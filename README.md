@@ -204,6 +204,12 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
    2. Sometimes you can get help from older members who applied for the same companies and roles.
    3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!
 
+#### Sub-Communities
+
+* For the explanation, check [Sub-Communities Explanation](./ACU-Mind-Map-Explanation.md#sub-communities)
+
+To be done...
+
 #### Networking
 
 ### Mentors

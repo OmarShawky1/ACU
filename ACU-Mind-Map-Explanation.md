@@ -155,6 +155,13 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 5. Career advancement: level up in company, learn more, and earn more.
 6. Discussions: Miscellaneous Career topics.
 
+### Sub-Communities
+
+* Currently unavailable. Soon, ACU will introduce these communities.
+
+1. Competitive Programming.
+2. Open Source.
+3. Contests/Hackathons.
 
 ## ACU Comparison
 
