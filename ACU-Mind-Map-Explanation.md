@@ -188,6 +188,10 @@ So, your only way is either by learning and experiencing everything by yourself 
       2. Students provide reviews and good resources after finishing a topic in an iterative manner, leading to a curated educational resource after some time.
       3. Students evade mistakes as others will guide them. For example, studying without taking notes and studying from interactive courses.
    4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
+
+### Mentors
+
+A @Mentor who can help you advance in your career who is willing to help in the server but on his own terms within his own time. No obligations or strings attached.
 ## ACU Comparison
 
 ### Background

@@ -220,6 +220,8 @@ To be done...
 
 ### Mentors
 
+Provided only under the "MENTORSHIP" Category.
+
 ### Events
 
 
