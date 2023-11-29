@@ -75,11 +75,11 @@ To be done...
 
 1. Essential skills:
    1. How to ask questions?
-      1. Dr. Mostafa's advice on how to ask (Arabic): https://www.youtube.com/watch?v=PxLOqb54omI
-      2. Watch: https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3
-      3. Read: https://stackoverflow.com/help/how-to-ask
-      4. Read: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
-      5. Read about XY Problem: https://mywiki.wooledge.org/XyProblem
+      1. [Dr. Mostafa's advice on how to ask (Arabic)](https://www.youtube.com/watch?v=PxLOqb54omI).
+      2. Watch [Coursera's "Getting Help" video](https://www.coursera.org/lecture/data-scientists-tools/getting-help-dhpW3).
+      3. Read [Stack Overflow "How to ask"](https://stackoverflow.com/help/how-to-ask).
+      4. Read [FreeCodeCamp's "How to ask good questions" article](https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/).
+      5. Read about [XY Problem](https://mywiki.wooledge.org/XyProblem).
       6. Ask a binary question if possible. (I.e., True/false)
       7. If not, Ask the enclosed question if possible. (I.e., the question that has an expected answer; E.g., Which color? "Red", "Green", "Blue")
       8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
