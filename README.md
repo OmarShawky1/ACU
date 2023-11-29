@@ -35,19 +35,13 @@ For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanat
 
 Active Courses University is a community targeting to work in Big N. Similar to the [OSSU](https://github.com/ossu/computer-science) community, it provides educational resources. Additionally, ACU provides professional Career, Networking, and Academic Advisory services.
 
-Similar to real universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing free Career Services, Academic Advisory, mutual coaching, mutual mentorship, mutual tutoring, and much more. To Illustrate some tangible benefits for just the Mutual Tutoring:
-
-1. Students typically get 1-3 answers within 5 minutes of their questions.
-2. Students provide reviews and good resources after finishing a topic, in an iterative manner, leading to a curated educational resource after some time.
-3. Students evade mistakes as others will guide them; For example, studying without taking notes and studying from interactive courses.
+Similar to real universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing Services (Career Services, Academic Advisory, and much more in [Services Onboarding](#services-onboarding)).
 
 For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./ACU-Mind-Map-Explanation.md#acu-comparison).
 
-Community is built on a single principle, "Those Who want help, give help"; Beneficiaries from such services shall support and contribute back to the community. Currently, almost all services in the Mind Map are limited to Trusted members (@Trusted) on the server. You can be @Trusted by contributing to the community. Think of being a student as an "Interview", each question or help tells @Trusted more about you until one of them admits you as @Trusted.
+ACU Resources consist of three primary resources (OSSU, CS Fundamentals, and Big N SE Roadmaps) utilizing suggestions from Pioneer Software Engineers and other reliable sources. Further information is in [Resources](#resources).
 
-ACU Resources are mainly composed of three main resources (OSSU, CS Fundamentals, and Big N SE Roadmaps) utilizing suggestions from Software Engineer Pioneers, and other reliable sources. (Check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md) for details)
-
-Finally, if you like the server/repository, share it or invite your acquaintances and colleagues. You will benefit directly and indirectly; your tutor, coach, mentor or study buddy might be your colleague you invited or a person that your colleague invited. Try to share it on your FB, class group (E.g., WhatsApp group). If you can ask someone popular to share this group; Do it.
+If you like the idea, share it. You will benefit directly & indirectly. Your tutor, coach, mentor, or study buddy might be the colleague you invited or invited by him. Try to share it on your Twitter, Facebook, or class group, or ask someone famous to share it.
 
 Check [Community](#community) to join us.
 
