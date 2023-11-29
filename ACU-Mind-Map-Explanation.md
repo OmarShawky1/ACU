@@ -120,6 +120,9 @@ Tailored tips and feedback for how to interact with others, find other communiti
 
 ## Members
 
+1. Community is built on a single principle "**Reciprocity**". "Those Who want help, give help". It is a two-way road where **beneficiaries** from services are **obligated** to support and contribute back to the community.
+2. All services in the Mind Map are limited to Trusted members (@Trusted) and above.
+
 ## Services
 
 * They are interactive 1-1 help not some hanging resources on the internet.
