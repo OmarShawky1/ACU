@@ -49,15 +49,11 @@ Check [Community](#community) to join us.
 
 ### Courses
 
-* All courses follow IEEE CS2013 Guidelines (Check OSSU) while being free and interactive (autograder for assignments and final project/exam). The only exception is "Big N SE Roadmap".
+* To pick courses, check [Resources Explanation](./ACU-Mind-Map-Explanation.md#resources) before you dive into any course.
 * Notes:
   * Course reviews will be provided in the GitHub Issues soon.
+  * A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
   * Resources that will be enhanced and rewritten in our [Website](https://www.activecourses.tech/).
-* Students are free to choose whichever course they like, but some benefits are studying from the same source as others as follows:
-  * This is the servers' purpose (mentoring each other as our questions will be around the same course, and it will be easier to find an answer); Otherwise, Won't be any different from Coursera's Discussion forum which doesn't help much and takes time for your question to be answered.
-  * Collected efforts (for picking a specific course objectively) will cover blind spots that each one has, and it will be likely better than each one picking his course & wasting efforts on course comparison.
-
-Mainly [OSSU](https://github.com/ossu/computer-science) and secondarily [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap) and pinned messages in the Discord server (which will soon be merged and rewritten to accommodate other CS Sub-Fields such as SWE).
 
 #### CS-Fundamentals
 

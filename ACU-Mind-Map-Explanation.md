@@ -20,10 +20,17 @@
 
 # Resources
 
-## Computer Science
+* Students are free to choose whichever course they like, but some benefits are studying from the same source as others as follows:
+  * This is the servers' purpose (mentoring each other as our questions will be around the same course, and it will be easier to find an answer); Otherwise, Won't be any different from Coursera's Discussion forum which doesn't help much and takes time for your question to be answered.
+  * Collected efforts (for picking a specific course objectively) will cover blind spots that each one has, and it will be likely better than each one picking his course & wasting efforts on course comparison.
 
-### Rooadmaps
-Briefly, ACU provides currently only two roadmaps for computer science: (Both follows [OSSU](https://github.com/ossu/computer-science) courses guidelines)
+### Courses
+
+#### Computer Science
+
+##### Roadmaps
+
+Briefly, ACU provides currently only two roadmaps for computer science: (Both follow [OSSU](https://github.com/ossu/computer-science) courses guidelines which is IEEE CS2013 Guidelines while being free and interactive (autograder for assignments and final project/exam))
 
 1. OSSU.
 2. CS Fundamentals: Essential knowledge for all subfields (career paths). Similar to Gen-Ed.
