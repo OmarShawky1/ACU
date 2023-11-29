@@ -85,17 +85,22 @@ Although only "Coding Interview University" is mentioned, ACU will add more reso
 
 ## Essential
 
-The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ years of experience). Learning "How to ask?", "How to search?", "How to study?" and essential tools will boost your productivity 10-50x!
+### Career Resources
 
-1. Essential skills: (How to ask?), (How to search?), (How to study?), (How to pick your road map?).
-2. Essential tools: Git & GitHub, Linux, IDEs... .
-3. Knowledge Base: Stackoverflow-like for resources. (Later, when a topic becomes popular, it is turned into a channel with its own traffic and resources. This channel is a way for new people to catch up with old resources & discussions).
+* It is the knowledge base (Stackoverflow-like) for [Career](#career).
+* Limited to @Trusted. For further explanation for @Trusted, check pinned messages in Discord.
+* Explanation of each channel is in "About Channel".
 
-## Career Resources
+1. Portfolio: Pinned messages or forums for advice and resources regarding resumes, LinkedIn, and GitHub. Other members resumes were tagged by the opportunities they were applying for.
+2. Interview Questions: Questions tagged by each company, role, and place.
+3. Job Search & Application:
+   1. Searching & Application Techniques: Curated list of places and techniques to search & apply for jobs.
+   2. Vacancies:
+      1. Commit Type: Intern, Full-Time, Contract.
+      2. Commute Type: On-site & Relocation, Remote, Hybrid.
+      3. Role Type: Software Engineer, Quantitative Engineer, and so on.
+      4. Company Type (Size, Product type, ...). (E.g., FAANG, FAANG+, Fortune 100, Fortune 500, Startups)
 
-They are resources used in the services and limited to @Trusted. For further explanation, check trusted Discord-pinned messages.
-
-# Services
 ### Career Advancement
 ### Networking Resources
 

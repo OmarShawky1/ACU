@@ -108,7 +108,9 @@ To be done...
 
 ### Career Resources
 
-Unfortunately, they are all available only for @Trusted.
+* For the explanation, check [Career Resources Explanation](./ACU-Mind-Map-Explanation.md#career-resources).
+
+1. You can find them in [Channels & Categories Onboarding](#channels--categories-onboarding).
 
 ## Community
 
