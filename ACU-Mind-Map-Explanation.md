@@ -77,7 +77,9 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
 
 #### Big N SE Roadmap
 
-They are reliable roadmaps and educational content provided by professionals working at those companies as a fast route to work at them. Each source contains the main contributor and his active record for references, and additionally, you can ask ACU members for their opinions.
+1. They are reliable roadmaps and educational content provided by professionals working at those companies as a fast route to work at them.
+2. Each roadmap mentions the author and his active record. Additionally, you can ask members for their opinions.
+3. Unfortunately, courses do not always support the aforementioned IEEE CS2013 Guidelines.
 
 Although only "Coding Interview University" is mentioned, ACU will add more resources soon.
 

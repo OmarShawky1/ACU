@@ -71,7 +71,7 @@ To be done...
 
 ### Essential
 
-* They are devised of 3 categories as follows.
+* Before diving into the following resources, you can first check "What are they about" from [Essential Explanation](./ACU-Mind-Map-Explanation.md#essential).
 
 1. Essential skills:
    1. How to ask questions?
