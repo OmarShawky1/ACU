@@ -140,41 +140,21 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 
 ### Career
 
-Equivalent to Career Services in universities, it provides Alumnus, Seniors and Undergrads career related help such as:
+* Services and tailored help for Alumnus, Seniors and Undergrads similar to real universities.
+* All resources are in [Career Resources](#career-resources).
 
 1. Profile Review: Personal Review, Feedback & Tips for:
    1. Resumes.
    2. LinkedIn.
    3. GitHub profiles and READMEs.
-2. Search Job: tailored help, tips and techniques in job searching based on your preferences from:
-   1. Commit Type: Intern, Full-Time, Contract.
-   2. Commute Type: On-site & Relocation, Remote, Hybrid.
-   3. Role Type: Software Engineer, Quantitative Engineer, and so on.
-   4. Company Type (Size, Product type,...). (E.g., FAANG, FAANG+, Fortune 100, Fortune 500, Startups)
-3. Interview Preparation: Resources and personal help for all companies and interview types ranging from Problem-Solving Training, Mock Interviews or Real Interviews Experience Exchange and Interview Resources.
+2. Interview Preparation: Resources (stored in [Career Resources](#career-resources) in Interview Questions) and personal help for all companies and interview types, ranging from problem-solving training, mock interviews or real interviews, experience exchange, and interview resources.
+3. Jobs Search & Application: Tailored help, tips and techniques in job searching & applying based on your preferences (check them from vacancies in [Career Resources](#career-resources)).
+   1. Search & Application Help: A member asks a direct question or can let other experienced members infer the problem and the question themselves (e.g., the member didn't receive any interview chances for a month which might indicate a bad resume)
+   2. New Grads (One of ACU special communities): Dedicated community for jobs hunts. (Explained in [README Career](./README.md#career))
 4. Discussions: Career topics of interest such as Networking, Job Application, Compensation and Offer Negotiation, Miscellaneous Career topics, Self-finance.
 5. Career advancement: level up in company, learn more, and earn more.
-6. Events
-   1. Fairs: (Currently unavailable but we provide resources for other entities that provide it)
-      1. Job Fairs.
-      2. Alumnus Fairs/Gathering: Introduces new to old Alumnus to find /help (mentorship, coaching). It is one of the ultimate networking techniques in different industrial or academic disciplines and levels. New Alumnus, in IVY-League Universities, have the opportunity to meet with entrepreneurs, seniors, startup or business owners; Imagine having the opportunity to meet with Jeff Bezos in his early stages.
-   2. Miscellaneous: Events organized by others.
+6. Discussions: Miscellaneous Career topics.
 
-## Networking
-
-1. Sub-Communities:
-   1. Problem-Solving.
-   2. Open Source. (Currently not available)
-   3. Contest/Hackathons. (Currently not available)
-   4. New Grads: Prepare, apply & practice for your upcoming job with others targeting same niche companies. People on some websites even break their NDA and disclose the interview questions and much more. (This point solely is the reason for why I created ACU so consider carefully each point)
-      1. You will get resume help & practice interviews from people who applied before you at company *X* that you want.
-      2. You will provide help in resume & interview practice for people wanting to apply to company *Y* you applied for.
-      3. Both of you will try to prepare resume and practice mock interviews for company *Z* that no one applied for it before.
-      4. Build and maintain connections in different companies or even countries.
-      5. Consider a group of just 10 applying to FAANG. On average, you will prepare for interview with 5 people, who got interviewed before you, leveraging your chances!
-2. Mentors: Find help in Career Advancement, Self-Finance and the entire Mind Map above.
-3. Mutual Mentorship & Coaching: Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
-4. Referrals Help: Connect with people in the server that can, directly or indirectly, lead you to a referral.
 
 ## ACU Comparison
 

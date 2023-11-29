@@ -190,7 +190,19 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 #### Career
 
-All Under "CAREER" Category. Currently, all channels are private to @Trusted except ps-griding.
+* For the explanation, check [Career Explanation](./ACU-Mind-Map-Explanation.md#career).
+* Anything between quotes means a node in the aforementioned mind map.
+
+1. Services are carried in:
+   1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
+   2. CAREER Category:
+      1. For @Trusted to discuss "Problem Solving Training", "Profile Review", "Interview Preparation", and "Job Search & Application".
+      2. Partially for @Students to discuss "Problem Solving Training".
+   3. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
+2. New Grads: Special Group For Jobs Search & Application by teaming with other members who are targeting the same companies.
+   1. They resume-review, practice, prepare, search and apply together. This makes job hunting more tailored and efficient.
+   2. Sometimes you can get help from older members who applied for the same companies and roles.
+   3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!
 
 #### Networking
 
