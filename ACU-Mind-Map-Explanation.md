@@ -111,6 +111,9 @@ Although only "Coding Interview University" is mentioned, ACU will add more reso
       4. Company Type (Size, Product type, ...). (E.g., FAANG, FAANG+, Fortune 100, Fortune 500, Startups)
 
 ### Career Advancement
+
+Curated resources for each CS-Minor path by pioneers.
+
 ### Networking Resources
 
 ## Members
