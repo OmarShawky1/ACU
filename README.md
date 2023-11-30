@@ -210,7 +210,7 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 #### Sub-Communities
 
-* For the explanation, check [Sub-Communities Explanation](./ACU-Mind-Map-Explanation.md#sub-communities)
+* For the explanation, check [Sub-Communities Explanation](./ACU-Mind-Map-Explanation.md#sub-communities).
 
 To be done...
 
@@ -228,13 +228,13 @@ Provided only under the "MENTORSHIP" Category.
 
 ### Mutual Mentorship, Coaching and Tutoring
 
-* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./ACU-Mind-Map-Explanation.md#mutual-mentorship-coaching-and-tutoring)
+* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./ACU-Mind-Map-Explanation.md#mutual-mentorship-coaching-and-tutoring).
 
 No dedicated channel. Provided throughout the entire server.
 
 #### Events
 
-* For the explanation, check [Events Explanation](./ACU-Mind-Map-Explanation.md#events)
+* For the explanation, check [Events Explanation](./ACU-Mind-Map-Explanation.md#events).
 
 Third-party events are available only on the Arabic ACU Server in recommended events.
 
