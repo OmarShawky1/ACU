@@ -168,7 +168,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
       3. Have access to a single channel, called life-after-grad, that provides help in everything on the left side of the aforementioned Mind Map.
-   3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. Reason in [Members Explanation](./ACU-Mind-Map-Explanation.md#members).
+   3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./ACU-Mind-Map-Explanation.md#members))
 2. Trusted (@Trusted):
    1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
    2. What are their benefits?
