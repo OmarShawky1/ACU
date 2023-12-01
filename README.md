@@ -252,22 +252,22 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    3. server-suggestions: Things you wish in the server.
 2. NEWCOMER:
    1. newcomer: Rules to apply as @Student.
-   2. newcomer-answer: where you apply or grant people.
+   2. newcomer-answer: Where you apply or grant people.
    3. newcomer-general: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
 3. MENTORSHIP
-   1. mentors-announcements: all mentors announcements.
+   1. mentors-announcements: All mentors announcements.
 4. *SPECIAL CATEGORY*: This is not the name of the category but some set of categories that have the following similar channels:
    1. *general*: Place for members to get answers from all *special roles* members.
-   2. *side-channel*: like "general" above but requires just one answer.
+   2. *side-channel*: Like "general" above but requires just one answer.
    3. knowledge-base: Stackoverflow-like for resources between members.
 5. SOCIAL:  
-   1. off-topic: for non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
-6. GENERAL: channels that do not fit anywhere else.
+   1. off-topic: For non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
+6. GENERAL: Channels that do not fit anywhere else.
    1. recommended: Stackoverflow-like resources for @Students.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
 7. Q&A: Topics that are not studying material but related to it.
-   1. general-questions: topic-less Q&A.
-   2. life-after-grad: topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
+   1. general-questions: Topic-less Q&A.
+   2. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
 8. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSU curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
 9. CS-SUB-FIELDS: For CS-minors.
    1. general-cs-subfields: For CS-minors that have low traffic.
@@ -276,8 +276,8 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
 11. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
     1. OS Internships (Name of Community).
-       1. general-osi: topicless discussions about Open Source Internships like "How to prepare".
-       2. vacancies-osi: forum for storing each company or internship and its discussion. (E.g., What is required? Who is applying? Where to find X? How to solve Problem Y?)
+       1. general-osi: Topicless discussions about Open Source Internships like "How to prepare".
+       2. vacancies-osi: Forum for storing each company or internship and its discussion. (E.g., What is required? Who is applying? Where to find X? How to solve Problem Y?)
 12. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
