@@ -151,18 +151,21 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 2. Interview Preparation: Resources (stored in [Career Resources](#career-resources) in Interview Questions) and personal help for all companies and interview types, ranging from problem-solving training, mock interviews or real interviews, experience exchange, and interview resources.
 3. Jobs Search & Application: Tailored help, tips and techniques in job searching & applying based on your preferences (check them from vacancies in [Career Resources](#career-resources)).
    1. Search & Application Help: A member asks a direct question or can let other experienced members infer the problem and the question themselves (e.g., the member didn't receive any interview chances for a month which might indicate a bad resume)
-   2. New Grads (One of ACU special communities): Dedicated community for jobs hunts. (Explained in [README Career](./README.md#career))
+   2. OS Internships (One of ACU special communities): Dedicated community for open source paid internships hunting. (Explained in [Sub-Communities](#sub-communities))
+   3. New Grads (One of ACU special communities): Dedicated community for jobs hunts. (Explained in [Sub-Communities])
 4. Discussions: Career topics of interest such as Networking, Job Application, Compensation and Offer Negotiation, Miscellaneous Career topics, Self-finance.
 5. Career advancement: level up in company, learn more, and earn more.
 6. Discussions: Miscellaneous Career topics.
 
 ### Sub-Communities
 
-* Currently unavailable. Soon, ACU will introduce these communities.
-
-1. Competitive Programming.
-2. Open Source.
-3. Contests/Hackathons.
+1. OS Internships (One of ACU special communities): Special group dedicated to discussing, mutually searching and applying to Open Source Paid Internships (Mainly Google Summer of Code (GSoC) and MLH).
+2. New Grads (One of ACU special communities): Special group dedicated to Jobs Search & Application by teaming with other members who are targeting the same companies.
+   1. They resume-review, practice, prepare, search and apply together. This makes job hunting more tailored and efficient.
+   2. Sometimes you can get help from older members who applied for the same companies and roles.
+   3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!3. Competitive Programming. (Currently unavailable. Soon, ACU will introduce it)
+3. Open Source. (Currently unavailable. Soon, ACU will introduce it)
+4. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
 
 ### Networking
 

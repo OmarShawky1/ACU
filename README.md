@@ -196,23 +196,24 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 * For the explanation, check [Career Explanation](./ACU-Mind-Map-Explanation.md#career).
 * Anything between quotes means a node in the aforementioned mind map.
+* Career Services are carried out in the following places.
 
-1. Services are carried in:
-   1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
-   2. CAREER Category:
-      1. For @Trusted to discuss "Problem Solving Training", "Profile Review", "Interview Preparation", and "Job Search & Application".
-      2. Partially for @Students to discuss "Problem Solving Training".
-   3. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
-2. New Grads: Special Group For Jobs Search & Application by teaming with other members who are targeting the same companies.
-   1. They resume-review, practice, prepare, search and apply together. This makes job hunting more tailored and efficient.
-   2. Sometimes you can get help from older members who applied for the same companies and roles.
-   3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!
+1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
+2. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
+3. SUB-COMMUNITIES:
+   1. OS Internships (Name of Community):
+      1. general-osi channel.
+      2. vacancies-osi channel.
+   2. New Grads (Name of Community): CAREER Category.
+4. CAREER Category:
+   1. For @Trusted to discuss "Problem-Solving Training", "Profile Review", "Interview Preparation", and "Job Search & Application".
+   2. Partially for @Students to discuss "Problem-Solving Training".
 
 #### Sub-Communities
 
 * For the explanation, check [Sub-Communities Explanation](./ACU-Mind-Map-Explanation.md#sub-communities).
 
-To be done...
+They are all carried out in SUB-COMMUNITIES.
 
 #### Networking
 
@@ -273,10 +274,14 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    2. general-ai
 10. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
     1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
-11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
+11. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
+    1. OS Internships (Name of Community).
+       1. general-osi: topicless discussions about Open Source Internships like "How to prepare".
+       2. vacancies-osi: forum for storing each company or internship and its discussion. (E.g., What is required? Who is applying? Where to find X? How to solve Problem Y?)
+12. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
     3. internships: Share and discuss internship options, application process, and tips between @Students.
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
-12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+13. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
