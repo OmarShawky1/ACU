@@ -164,8 +164,9 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
    1. They resume-review, practice, prepare, search and apply together. This makes job hunting more tailored and efficient.
    2. Sometimes you can get help from older members who applied for the same companies and roles.
    3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!3. Competitive Programming. (Currently unavailable. Soon, ACU will introduce it)
-3. Open Source. (Currently unavailable. Soon, ACU will introduce it)
-4. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
+3. Alumnus: Community of members with 2+ years of experience. It is designated for networking outside of work with people mostly of mutual interest (check "Alumni Fairs/Gathering" in [Events](#events)). It imitates the alumni communities of real universities. (Currently unavailable. Soon, ACU will introduce it)
+4. Open Source. (Currently unavailable. Soon, ACU will introduce it)
+5. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
 
 ### Networking
 
