@@ -1,4 +1,4 @@
-![MindMap](images/ACU_Services.jpg)
+![MindMap](images/ACU_MindMap.jpg)
 
 ## Contents
 

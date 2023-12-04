@@ -6,7 +6,7 @@ An Open University primarily dedicated to preparing & working for Big Tech compa
 
 ## ACU Mind Map
 
-![MindMap](images/ACU_Services.jpg)
+![MindMap](images/ACU_MindMap.jpg)
 
 The Mind Map is divided into right (for the resources) and left (for the services). Topics advance as you go from the top to the bottom. For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md).
 
