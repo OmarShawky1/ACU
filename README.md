@@ -4,11 +4,9 @@ An Open University primarily dedicated to preparing & working for Big Tech compa
 
 **Note**: If you find current onboarding hard, please issue a ticket and explain.
 
-## ACU Mind Map
-
 ![MindMap](images/ACU_MindMap.jpg)
 
-The Mind Map is divided into right (for the resources) and left (for the services). Topics advance as you go from the top to the bottom. For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md).
+The Mind Map is divided into right (for the resources) and left (for the services). Topics advance as you go from the top to the bottom. For a full explanation, check [ACU Mind Map Explanation](./README-Explanation.md).
 
 ## Contents
 
@@ -41,7 +39,7 @@ Active Courses University is a community targeting to work in Big N. Similar to 
 
 Similar to real universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing Services (Career Services, Academic Advisory, and much more in [Services Onboarding](#services-onboarding)).
 
-For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./ACU-Mind-Map-Explanation.md#acu-comparison).
+For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./README-Explanation.md#acu-comparison).
 
 ACU Resources consist of three primary resources (OSSU, CS Fundamentals, and Big N SE Roadmaps) utilizing suggestions from Pioneer Software Engineers and other reliable sources. Further information is in [Resources](#resources).
 
@@ -53,7 +51,7 @@ Check [Community](#community) to join us.
 
 ### Courses
 
-* To pick courses, check [Resources Explanation](./ACU-Mind-Map-Explanation.md#resources) before you dive into any course.
+* To pick courses, check [Resources Explanation](./README-Explanation.md#resources) before you dive into any course.
 * Notes:
   * Course reviews will be provided in the GitHub Issues soon.
   * A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
@@ -75,7 +73,7 @@ To be done...
 
 ### Essential
 
-* Before diving into the following resources, you can first check "What are they about" from [Essential Explanation](./ACU-Mind-Map-Explanation.md#essential).
+* Before diving into the following resources, you can first check "What are they about" from [Essential Explanation](./README-Explanation.md#essential).
 
 1. Essential skills:
    1. How to ask questions?
@@ -112,7 +110,7 @@ To be done...
 
 ### Career Resources
 
-* For the explanation, check [Career Resources Explanation](./ACU-Mind-Map-Explanation.md#career-resources).
+* For the explanation, check [Career Resources Explanation](./README-Explanation.md#career-resources).
 
 1. You can find them in [Channels & Categories Onboarding](#channels--categories-onboarding).
 
@@ -168,7 +166,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
       3. Have access to "life-after-grad" channel which provides help with ACU Services (everything on the left side of the aforementioned Mind Map) and "internships" channel.
-   3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./ACU-Mind-Map-Explanation.md#members))
+   3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./README-Explanation.md#members))
 2. Trusted (@Trusted):
    1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
    2. What are their benefits?
@@ -188,13 +186,13 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 #### Academia
 
-* For the explanation, check [Academia Explanation](./ACU-Mind-Map-Explanation.md#academia).
+* For the explanation, check [Academia Explanation](./README-Explanation.md#academia).
 
 Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
 
 #### Career
 
-* For the explanation, check [Career Explanation](./ACU-Mind-Map-Explanation.md#career).
+* For the explanation, check [Career Explanation](./README-Explanation.md#career).
 * Anything between quotes means a node in the aforementioned mind map.
 * Career Services are carried out in the following places.
 
@@ -211,13 +209,13 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 #### Sub-Communities
 
-* For the explanation, check [Sub-Communities Explanation](./ACU-Mind-Map-Explanation.md#sub-communities).
+* For the explanation, check [Sub-Communities Explanation](./README-Explanation.md#sub-communities).
 
 They are all carried out in SUB-COMMUNITIES.
 
 #### Networking
 
-* For the explanation, check [Networking Explanation](./ACU-Mind-Map-Explanation.md#networking)
+* For the explanation, check [Networking Explanation](./README-Explanation.md#networking)
 
 1. @Students networking options are limited to studying channels and general mentorship (in the category MENTORSHIP).
 2. @Trusted networking options are like @Students but extend to their exclusive channels.
@@ -229,13 +227,13 @@ Provided only under the "MENTORSHIP" Category.
 
 ### Mutual Mentorship, Coaching and Tutoring
 
-* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./ACU-Mind-Map-Explanation.md#mutual-mentorship-coaching-and-tutoring).
+* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./README-Explanation.md#mutual-mentorship-coaching-and-tutoring).
 
 No dedicated channel. Provided throughout the entire server.
 
 #### Events
 
-* For the explanation, check [Events Explanation](./ACU-Mind-Map-Explanation.md#events).
+* For the explanation, check [Events Explanation](./README-Explanation.md#events).
 
 Third-party events are available only on the Arabic ACU Server in recommended events.
 
