@@ -1,6 +1,6 @@
-# ACU
+# Welcome to Active Courses University
 
-An Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, enterprises, and startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking, and Academic Advisory for CS/CSE only.
+ACU is an Open University primarily dedicated to preparing & working for Big Tech companies (FAANG, FAANG+, Fortune 500, enterprises, and startups) by providing Career Services, Resources (Roadmaps & MOOCs), Networking, and Academic Advisory for CS/CSE only.
 
 **Note**: If you find current onboarding hard, please issue a ticket and explain.
 
