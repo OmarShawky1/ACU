@@ -8,7 +8,7 @@ An Open University primarily dedicated to preparing & working for Big Tech compa
 
 ![MindMap](images/ACU_Services.jpg)
 
-For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md).
+The Mind Map is divided into right (for the resources) and left (for the services). Topics advance as you go from the top to the bottom. For a full explanation, check [ACU Mind Map Explanation](./ACU-Mind-Map-Explanation.md).
 
 ## Contents
 
@@ -167,12 +167,12 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
    2. What are their benefits?
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
-      3. Have access to a single channel, called life-after-grad, that provides help in everything on the left side of the aforementioned Mind Map.
+      3. Have access to "life-after-grad" channel which provides help with ACU Services (everything on the left side of the aforementioned Mind Map) and "internships" channel.
    3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./ACU-Mind-Map-Explanation.md#members))
 2. Trusted (@Trusted):
    1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
    2. What are their benefits?
-      1. Have access to the entire left side, of the aforementioned Mind Map, in the Discord Server.
+      1. Have access to the entire ACU Services in the Discord Server.
       2. Ask unlimited questions and get exceptional answers.
    3. How to be @Trusted?
       1. Think of being @Student as an interview. Each question or help tells @Trusted more about you.
@@ -207,7 +207,7 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
    2. New Grads (Name of Community): CAREER Category.
 4. CAREER Category:
    1. For @Trusted to discuss "Problem-Solving Training", "Profile Review", "Interview Preparation", and "Job Search & Application".
-   2. Partially for @Students to discuss "Problem-Solving Training".
+   2. Partially for @Students to discuss "Problem-Solving Training" and search & apply together (mutually apply) to internships.
 
 #### Sub-Communities
 
@@ -268,7 +268,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 7. Q&A: Topics that are not studying material but related to it.
    1. general-questions: Topic-less Q&A.
    2. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
-8. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSU curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
+8. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
 9. CS-SUB-FIELDS: For CS-minors.
    1. general-cs-subfields: For CS-minors that have low traffic.
    2. general-ai
