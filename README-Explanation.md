@@ -13,16 +13,17 @@
    3. [Career Resources](#career-resources)
    4. [Career Advancement](#career-advancement)
    5. [Networking Resources](#networking-resources)
-2. [Members](#members)
-3. [Services](#services)
-   1. [Academia](#academia)
-   2. [Career](#career)
-   3. [Sub Communities](#sub-communities)
-   4. [Networking](#networking)
-   5. [Mentors](#mentors)
-   6. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-   7. [Events](#events)
-4. [ACU Comparison](#acu-comparison)
+2. [Community](#community)
+   1. [Members](#members)
+   2. [Services](#services)
+      1. [Academia](#academia)
+      2. [Career](#career)
+      3. [Sub Communities](#sub-communities)
+      4. [Networking](#networking)
+      5. [Mentors](#mentors)
+      6. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+      7. [Events](#events)
+3. [ACU Comparison](#acu-comparison)
    1. [Background](#background)
    2. [Courses Comparison](#courses-comparison)
 
@@ -119,17 +120,19 @@ Curated resources for each CS-Minor path by pioneers.
 
 Tailored tips and feedback for how to interact with others, find other communities and gain connections.
 
-## Members
+## Community
+
+### Members
 
 1. Community is built on a single principle "**Reciprocity**". "Those Who want help, give help". It is a two-way road where **beneficiaries** from services are **obligated** to support and contribute back to the community.
 2. This is the reason for "why most of the services in the Mind Map are limited to @Trusted and above?".
 
-## Services
+### Services
 
 * They are interactive 1-1 help not some hanging resources on the internet.
 * People here are accountable for each & every word they provide. They do not mislead, misinform or be stubborn about with their thoughts. If one is not reliable to give an opinion, he will recite you from a reliable source and back his words with the source itself.
 
-### Academia
+#### Academia
 
 Academia is equivalent to Academic Advisory in universities where a person (usually, Maters or PhD holder/student) offering help in the academic career path from educational field, CV, Thesis to Post grad. Briefly, anything in the below services:
 
@@ -139,7 +142,7 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 4. CV Review. (Can get help from other members other than Academic advisory)
 5. Post graduation help: Choosing academic path, Finding professor, pairing with professor, finding opportunities.
 
-### Career
+#### Career
 
 * Services and tailored help for Alumnus, Seniors and Undergrads similar to real universities.
 * All resources are in [Career Resources](#career-resources).
@@ -157,7 +160,7 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 5. Career advancement: level up in company, learn more, and earn more.
 6. Discussions: Miscellaneous Career topics.
 
-### Sub-Communities
+#### Sub-Communities
 
 * ACU special communities below intentionally do not include or explain what makes them special. You will be briefed about them only if you are a member.
 
@@ -171,7 +174,7 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 5. Open Source. (Currently unavailable. Soon, ACU will introduce it)
 6. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
 
-### Networking
+#### Networking
 
 Networking is the ultimate skill in your career path by far. You cannot reach far in your career without extensive knowledge and experience. But the unknown unknowns (what you do not know that you do not know) and known unknowns (what you know that you do not know) is quite much greater than known knowns (what you know that you know).
 
@@ -197,18 +200,18 @@ Networking benefits mentioned are just an example. In fact, the examples are dro
 
 Networking has two shapes: trading and friendship. Trading is just an immediate favor exchange, and you only get what you can give now. Trading will not serve you when you are weak or at the beginning. Friendship is like a loan with interest. If you pick the right person, the *X* you give now, especially when he cannot pay back the favor, will return *10X* at least. Friendship will serve you when you are weak. Unfortunately, this is not a blog about friendship, but this is for the people who never understood friendship or failed to retain friends for years.
 
-### Mentors
+#### Mentors
 
 A @Mentor who can help you advance in your career who is willing to help in the server but on his own terms within his own time. No obligations or strings attached.
 
-### Mutual Mentorship, Coaching and Tutoring
+#### Mutual Mentorship, Coaching and Tutoring
 
 1. Find & provide mentorship from & to peers ($\triangle 0-4$ YoE) in the entire Mind Map.
    1. Students typically get 1-3 answers within 5 minutes of their questions.
    2. Students provide reviews and good resources after finishing a topic in an iterative manner, leading to a curated educational resource after some time.
    3. Students evade mistakes as others will guide them. For example, studying without taking notes and studying from interactive courses.
 
-### Events
+#### Events
 
 * Only "Third Parties" are available.
 
