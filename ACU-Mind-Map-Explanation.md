@@ -159,14 +159,17 @@ Academia is equivalent to Academic Advisory in universities where a person (usua
 
 ### Sub-Communities
 
+* ACU special communities below intentionally do not include or explain what makes them special. You will be briefed about them only if you are a member.
+
 1. OS Internships (One of ACU special communities): Special group dedicated to discussing, mutually searching and applying to Open Source Paid Internships (Mainly Google Summer of Code (GSoC) and MLH).
 2. New Grads (One of ACU special communities): Special group dedicated to Jobs Search & Application by teaming with other members who are targeting the same companies.
    1. They resume-review, practice, prepare, search and apply together. This makes job hunting more tailored and efficient.
    2. Sometimes you can get help from older members who applied for the same companies and roles.
-   3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!3. Competitive Programming. (Currently unavailable. Soon, ACU will introduce it)
+   3. Consider a group of 10 applying to FAANG. On average, you will prepare for an interview with 5 people, who got interviewed before you, leveraging your chances!
 3. Alumnus: Community of members with 2+ years of experience. It is designated for networking outside of work with people mostly of mutual interest (check "Alumni Fairs/Gathering" in [Events](#events)). It imitates the alumni communities of real universities. (Currently unavailable. Soon, ACU will introduce it)
-4. Open Source. (Currently unavailable. Soon, ACU will introduce it)
-5. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
+4. Competitive Programming. (Currently unavailable. Soon, ACU will introduce it)
+5. Open Source. (Currently unavailable. Soon, ACU will introduce it)
+6. Contests/Hackathons. (Currently unavailable. Soon, ACU will introduce it)
 
 ### Networking
 
