@@ -263,23 +263,22 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 6. GENERAL: Channels that do not fit anywhere else.
    1. recommended: Stackoverflow-like resources for @Students.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
-7. Q&A: Topics that are not studying material but related to it.
-   1. general-questions: Topic-less Q&A.
-   2. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
-8. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
-9. CS-SUB-FIELDS: For CS-minors.
+   3. general-questions: Topic-less Q&A.
+   4. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
+7. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
+8. CS-SUB-FIELDS: For CS-minors.
    1. general-cs-subfields: For CS-minors that have low traffic.
    2. general-ai
-10. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
+9. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
     1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
-11. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
+10. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
     1. OS Internships (Name of Community).
        1. general-osi: Topicless discussions about Open Source Internships like "How to prepare".
        2. vacancies-osi: Forum for storing each company or internship and its discussion. (E.g., What is required? Who is applying? Where to find X? How to solve Problem Y?)
-12. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
+11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
     3. internships: Share and discuss internship options, application process, and tips between @Students.
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
-13. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
