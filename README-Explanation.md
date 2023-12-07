@@ -4,11 +4,11 @@
 
 1. [Resources](#resources)
    1. [Courses](#courses)
-      1. [Computer Science](#computer-science)
-         1. [Roadmaps](#roadmaps)
-         2. [Roadmaps Comparison](#roadmaps-comparison)
-      2. [Sub-fields](#sub-fields)
-      3. [Big N SE Roadmap](#big-n-se-roadmap)
+      1. [Full Bachelor](#full-bachelor)
+      2. [CS Fundamentals](#cs-fundamentals)
+      3. [Sub-fields](#sub-fields)
+      4. [Big N SE Roadmap](#big-n-se-roadmap)
+      5. [Roadmaps Comparison](#roadmaps-comparison)
    2. [Essential](#essential)
    3. [Career Resources](#career-resources)
    4. [Career Advancement](#career-advancement)
@@ -35,37 +35,38 @@
 
 ### Courses
 
-#### Computer Science
+* Briefly, ACU provides:
+  * Two road maps for computer science; Full Bachelor and CS-Fundamentals. Both:
+    * Follow [OSSU](https://github.com/ossu/computer-science) courses guidelines which is IEEE CS2013 Guidelines.
+    * Are free and interactive (autograder for assignments and final project/exam).
+  * Roadmaps for CS-Minors.
+  * Fast Roadmap for working at Big Tech.
 
-##### Roadmaps
+#### Full Bachelor
 
-Briefly, ACU provides currently only two roadmaps for computer science: (Both follow [OSSU](https://github.com/ossu/computer-science) courses guidelines which is IEEE CS2013 Guidelines while being free and interactive (autograder for assignments and final project/exam))
+* Fully reliable and independent road maps.
 
 1. OSSU.
-2. CS Fundamentals: Essential knowledge for all subfields (career paths). Similar to Gen-Ed.
-   1. Background Info:
-      1. Designed & backed up by:
-         1. Prof. [Mostafa Saad Ibrahim](https://www.linkedin.com/in/mostafasaad/)'s Videos (Arabic): Roadmap [1](https://youtu.be/JkcmNrdhjMs) & [2](https://youtu.be/b56XFMNEzAs), [Why to follow roadmap](https://youtu.be/-oORn0GOWe4).
-         2. SRE [Mohamed Moshrif](https://www.linkedin.com/in/mmeshref/)'s Video (Arabic):[Roadmap](https://youtu.be/RAHNZhcoi_Q) & [Old Roadmap](https://youtu.be/jZIXKlSJcrc) & [Very old Roadmap](https://www.facebook.com/watch/?ref=search&v=2050195395035796&external_log_id=c27c284f-d228-4e39-9c4d-1447de1697be&q=mohamed%20moshrif), [Why to follow roadmap](https://youtu.be/aKv3QNiB1NU), Miscellaneous Info [1](https://www.facebook.com/mmoshrif/videos/344220917562967/?__tn__=%2CO-R) & [2](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2172114902843844).
-         3. [Teach Yourself CS](https://teachyourselfcs.com/).
-         4. Note: They say same thing. They are not alternatives.
-      2. Community provides courses, materials & tutoring for the roadmap in real-time in addition to group studying.
-   2. Courses:
-      1. Programming Languages (PL).
-      2. Data Structures and Algorithms (DSA).
-      3. Problem-Solving (PS).
-      4. Operating Systems (OS).
-      5. Data Bases (DB).
-      6. Networks.
-      7. Discrete Mathematics.
 
-##### Roadmaps Comparison
+#### CS Fundamentals
 
-| Aspect/Roadmap | OSSU | CS-Fundamentals | Big N SE Roadmaps | Note |
-|:-:|:-:|:-:|:-:|:-:|
-| Duration | 3-5 Years | 9-12 Months | 4-6 Months. | Low and high estimated completion time for fresh students with no CS background. |
-| Resources | Restricted to provided courses in README. Most courses are the best MOOCs. Some courses are provided supervisionally and were not tested for quality. | Resources are your own choice. It is advised for courses to follow OSSU's guidelines, which have been reviewed by other students. | They are not courses, so there are no restrictions, and the learning depends on solving problems, despite where you learned from. | OSSU provides the best courses from the start (python for everybody) until (Programming Languages Course), and some courses start to degrade in quality, like Alberta's courses, so it is better to study them from NPTEL or other good quality courses. For the Stanford Algorithms course, the comparison is left for everyone between it and Princeton Algorithms: either theoretical-based or practical-based, as Stanford is language-agnostic, but Princeton is in Java. A lot of courses are similar, like OSTEP. |
-| Outcome | It does not require further CS learning but requires intensive Job Preparation. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It is the fastest way to get hired in Big Tech, but it teaches the bare minimum of everything. If you want to advance in your career, you must continue the OSSU or real college route. No one in the community has taken this route so far to conclude everything. |
+* Essential knowledge for all subfields (career paths). Similar to Gen-Ed.
+
+1. Background Info:
+   1. Designed & backed up by:
+      1. Prof. [Mostafa Saad Ibrahim](https://www.linkedin.com/in/mostafasaad/)'s Videos (Arabic): Roadmap [1](https://youtu.be/JkcmNrdhjMs) & [2](https://youtu.be/b56XFMNEzAs), [Why to follow roadmap](https://youtu.be/-oORn0GOWe4).
+      2. SRE [Mohamed Moshrif](https://www.linkedin.com/in/mmeshref/)'s Video (Arabic):[Roadmap](https://youtu.be/RAHNZhcoi_Q) & [Old Roadmap](https://youtu.be/jZIXKlSJcrc) & [Very old Roadmap](https://www.facebook.com/watch/?ref=search&v=2050195395035796&external_log_id=c27c284f-d228-4e39-9c4d-1447de1697be&q=mohamed%20moshrif), [Why to follow roadmap](https://youtu.be/aKv3QNiB1NU), Miscellaneous Info [1](https://www.facebook.com/mmoshrif/videos/344220917562967/?__tn__=%2CO-R) & [2](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2172114902843844).
+      3. [Teach Yourself CS](https://teachyourselfcs.com/).
+      4. Note: They say same thing. They are not alternatives.
+   2. Community provides courses, materials & tutoring for the roadmap in real-time in addition to group studying.
+2. Courses:
+   1. Programming Languages (PL).
+   2. Data Structures and Algorithms (DSA).
+   3. Problem-Solving (PS).
+   4. Operating Systems (OS).
+   5. Data Bases (DB).
+   6. Networks.
+   7. Discrete Mathematics.
 
 #### Sub-fields
 
@@ -84,6 +85,14 @@ Briefly, ACU provides currently only two roadmaps for computer science: (Both fo
 3. Unfortunately, courses do not always support the aforementioned IEEE CS2013 Guidelines.
 
 Although only "Coding Interview University" is mentioned, ACU will add more resources soon.
+
+#### Roadmaps Comparison
+
+| Aspect/Roadmap | OSSU | CS-Fundamentals | Big N SE Roadmaps | Note |
+|:-:|:-:|:-:|:-:|:-:|
+| Duration | 3-5 Years | 9-12 Months | 4-6 Months. | Low and high estimated completion time for fresh students with no CS background. |
+| Resources | Restricted to provided courses in README. Most courses are the best MOOCs. Some courses are provided supervisionally and were not tested for quality. | Resources are your own choice. It is advised for courses to follow OSSU's guidelines, which have been reviewed by other students. | They are not courses, so there are no restrictions, and the learning depends on solving problems, despite where you learned from. | OSSU provides the best courses from the start (python for everybody) until (Programming Languages Course), and some courses start to degrade in quality, like Alberta's courses, so it is better to study them from NPTEL or other good quality courses. For the Stanford Algorithms course, the comparison is left for everyone between it and Princeton Algorithms: either theoretical-based or practical-based, as Stanford is language-agnostic, but Princeton is in Java. A lot of courses are similar, like OSTEP. |
+| Outcome | It does not require further CS learning but requires intensive Job Preparation. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It gets you hired fast without any compromises, but if you want to advance in your career, you must continue the OSSU or real college route. | It is the fastest way to get hired in Big Tech, but it teaches the bare minimum of everything. If you want to advance in your career, you must continue the OSSU or real college route. No one in the community has taken this route so far to conclude everything. |
 
 ### Essential
 
