@@ -249,9 +249,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    2. ask-mod: Used for newbies or issues within the server or moderators.
    3. server-suggestions: Things you wish in the server.
 2. NEWCOMER:
-   1. newcomer: Rules to apply as @Student.
-   2. newcomer-answer: Where you apply or grant people.
-   3. newcomer-general: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
+   1. entry-rules: Rules to apply as @Student.
+   2. entry: Where you apply or grant people.
+   3. general-newcomers: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
 3. MENTORSHIP
    1. mentors-announcements: All mentors announcements.
 4. *SPECIAL CATEGORY*: This is not the name of the category but some set of categories that have the following similar channels:
