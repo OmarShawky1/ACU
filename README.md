@@ -184,6 +184,8 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 ### Services Onboarding
 
+* For the explanation, check [Services Explanation](./README-Explanation.md#services)
+
 #### Academia
 
 * For the explanation, check [Academia Explanation](./README-Explanation.md#academia).
