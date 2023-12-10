@@ -204,7 +204,7 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
 2. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
 3. SUB-COMMUNITIES:
-   1. OS Internships (Name of Community):
+   1. Open Source Programs (Name of Community):
       1. general-osi channel.
       2. vacancies-osi channel.
    2. New Grads (Name of Community): CAREER Category.
@@ -277,9 +277,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 9. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
     1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
 10. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
-    1. OS Internships (Name of Community).
-       1. general-osi: Topicless discussions about Open Source Internships like "How to prepare".
-       2. vacancies-osi: Forum for storing each company or internship and its discussion. (E.g., What is required? Who is applying? Where to find X? How to solve Problem Y?)
+    1. Open Source Programs (Name of Community).
+       1. general-osp: Topic-less discussions about Open Source Internships like "How to prepare".
+       2. gsoc: General discussions about Google Summer of Code.
 11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
