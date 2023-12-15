@@ -75,7 +75,7 @@ To be done...
 
 ### Essential
 
-* Before diving into the following resources, you can first check "What are they about" from [Essential Explanation](./README-Explanation.md#essential).
+* Before diving into the following resources, you can first check "What they are about" from [Essential Explanation](./README-Explanation.md#essential).
 
 1. Essential skills:
    1. How to ask questions?

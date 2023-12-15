@@ -96,8 +96,8 @@ Although only "Coding Interview University" is mentioned, ACU will add more reso
 
 ### Essential
 
-1. The essential knowledge, behavior and tools for everyone ($0\rightarrow \infty$ years of experience). Learning "How to ask?", "How to search?", "How to study?" and essential tools will boost your productivity 10-50x!
-2. They are devised of 3 categories as follows:
+1. They are for everyone ($0\rightarrow \infty$ years of experience) to boost their productivity 10x-50x!
+2. They are divided into 3 categories as follows:
    1. Essential skills: (How to ask?), (How to search?), (How to study?), (How to pick your road map?).
    2. Essential tools: Git & GitHub, Linux, IDEs$\dots$.
    3. Knowledge Base: Stackoverflow-like for resources.
