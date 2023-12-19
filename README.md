@@ -29,7 +29,7 @@ The Mind Map is divided into right (for the resources) and left (for the service
       3. [Sub-Communities](#sub-communities)
       4. [Networking](#networking)
       5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-      6. [Mentors](#mentors)
+      6. [Mentorship](#mentorship)
       7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
 
@@ -225,7 +225,7 @@ They are all carried out in SUB-COMMUNITIES.
 2. @Trusted networking options are like @Students but extend to their exclusive channels.
 3. For beginners, pick an interactive channel where you can collaborate with others. internships, ps-grinding. For more advanced members, tackle questions in Q&A, especially life-after-grad.
 
-#### Mentors
+#### Mentorship
 
 Provided only under the "MENTORSHIP" Category.
 
