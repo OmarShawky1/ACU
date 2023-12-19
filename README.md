@@ -32,6 +32,10 @@ The Mind Map is divided into right (for the resources) and left (for the service
       6. [Mentorship](#mentorship)
       7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
+4. [About us](#about-us)
+   1. [Mentors](#mentors)
+   2. [Curriculum Maintainers](#curriculum-maintainers)
+   3. [Contributers](#contributers)
 
 ## Summary
 
@@ -286,3 +290,18 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+
+## About us
+
+### Mentors
+
+<details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
+
+### Curriculum Maintainers
+
+
+### Contributors
+
+| <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
+|:-:|:-:|
+<!-- | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | -->
