@@ -295,13 +295,14 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 ### Mentors
 
-<details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
+<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
 
 ### Curriculum Maintainers
 
 
 ### Contributors
 
-| <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
+| <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
 |:-:|:-:|
-<!-- | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <details><summary><img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <br>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | -->
+<!-- | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
+|:-:|:-:| -->
