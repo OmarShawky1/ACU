@@ -35,7 +35,7 @@ The Mind Map is divided into right (for the resources) and left (for the service
 4. [About us](#about-us)
    1. [Mentors](#mentors)
    2. [Curriculum Maintainers](#curriculum-maintainers)
-   3. [Contributers](#contributers)
+   3. [Contributors](#contributors)
 
 ## Summary
 
