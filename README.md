@@ -32,6 +32,10 @@ The Mind Map is divided into right (for the resources) and left (for the service
       6. [Mentors](#mentors)
       7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
+4. [About us](#about-us)
+   1. [Mentors](#mentors)
+   2. [Curriculum Maintainers](#curriculum-maintainers)
+   3. [Contributers](#contributers)
 
 ## Summary
 
@@ -286,3 +290,194 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+
+<style>
+  .flex-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap:wrap;
+  }
+
+  .contributor {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 5px;
+   flex-grow: 1;
+  }
+
+  .contributor a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+  
+ 
+   .contributor p {
+      margin: 0;
+   }
+  
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  .social-icon {
+    width: 25px;
+    height: 25px;
+    filter: invert(1); /* Invert the color to black */
+  }
+
+ .profile-image img {
+   border-radius: 50%;
+ }
+</style>
+
+## About us
+
+### Mentors
+
+<div class="flex-container">
+  <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Abdelhalim Zaki" width="100" height="100">
+      </div>
+      <p>Abdelhalim Zaki</p>
+      <p>DevOps Mentor</p>
+      <div class="social-icons">
+        <a href="https://github.com/AhalimZaki"><img class="social-icon" src="images/icons/github-black.svg" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/in/abdelhalimzaki/"><img class="social-icon" src="images/icons/linkedin-dark.svg" alt="LinkedIn"></a>
+      </div>
+  </div>
+</div>
+
+### Curriculum Maintainers
+
+<div class="flex-container">
+  <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Omar Shawky" width="100" height="100">
+      </div>
+      <p>Omar Shawky</p>
+      <p>ACU Creator</p>
+      <div class="social-icons">
+        <a href="https://github.com/OmarShawky1"><img class="social-icon" src="images/icons/github-black.svg" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/in/omarshawky1"><img class="social-icon" src="images/icons/linkedin-dark.svg" alt="LinkedIn"></a>
+        <a href="https://omarshawky1.github.io/portfolio/"><img class="social-icon" src="images/icons/website-dark.svg" alt="Portfolio"></a>
+      </div>
+  </div>
+  
+  <div class="contributor">
+    <div class="profile-image">
+      <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Abdallah Ahmed" width="100" height="100">
+    </div>
+      <p>Abdallah Ahmed</p>
+      <p>Community Moderator</p>
+  </div>
+</div>
+
+### Contributors
+
+<div class="flex-container">
+  <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Omar Shawky" width="100" height="100">
+      </div>
+      <p>Omar Shawky</p>
+      <p>ACU Creator</p>
+      <div class="social-icons">
+        <a href="https://github.com/OmarShawky1"><img class="social-icon" src="images/icons/github-black.svg" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/in/omarshawky1"><img class="social-icon" src="images/icons/linkedin-dark.svg" alt="LinkedIn"></a>
+        <a href="https://omarshawky1.github.io/portfolio/"><img class="social-icon" src="images/icons/website-dark.svg" alt="Portfolio"></a>
+      </div>
+  </div>
+  
+  <div class="contributor">
+    <div class="profile-image">
+      <img src="https://avatars.githubusercontent.com/u/12874707?v=4" alt="Mohammed A. Gomaa" width="100" height="100">
+    </div>
+    <p>Mohammed A. Gomaa</p>
+    <p>Community Moderator</p>
+  </div>
+
+  <div class="contributor">
+    <div class="profile-image">
+      <img src="https://avatars.githubusercontent.com/u/37001450?v=4" alt="Hussein Hany" width="100" height="100">
+    </div>
+    <p>Hussein Hany</p><p>Community Moderator</p>
+  </div>
+
+  <div class="contributor">
+    <div class="profile-image">
+      <img src="https://www.activecourses.tech/img/avatar.png" alt="Abdooo Nasser" width="100" height="100">
+    </div>
+    <p>Abdooo Nasser</p>
+    <p>Community Moderator</p>
+  </div>
+
+  <div class="contributor">
+    <div class="profile-image">
+      <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Abdallah Ahmed" width="100" height="100">
+    </div>
+    <p>Abdallah Ahmed</p>
+    <p>Community Moderator</p>
+  </div>
+
+  <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/64869057?v=4" alt="Yasser Ahmed" width="100" height="100">
+      </div>
+      <p>Yasser Ahmed</p>
+      <p>Community Moderator</p>
+      <div class="social-icons">
+        <a href="https://github.com/yasserahmed10"><img class="social-icon" src="images/icons/github-black.svg" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/in/yasserahmeddev"><img class="social-icon" src="images/icons/linkedin-dark.svg" alt="LinkedIn"></a>
+      </div>
+  </div>
+
+  <div class="contributor">
+      <div class="profile-image">
+        <img src="https://www.activecourses.tech/img/avatar.png" alt="Yasser Ahmed" width="100" height="100">
+      </div>
+      <p>Abdulrahman Al-Ghamdi</p><p>Community Moderator</p>
+  </div>
+
+   <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/86894852?v" alt="Abdallah Elhadad" width="100" height="100">
+      </div>
+      <p>Abdallah Elhadad</p>
+      <p>Community Moderator</p>
+  </div>
+
+   <div class="contributor">
+      <div class="profile-image">
+        <img src="https://www.activecourses.tech/img/avatar.png" alt="Mohamed Ashraf" width="100" height="100">
+      </div>
+      <p>Mohamed Ashraf</p>
+      <p>Community Moderator</p>
+  </div>
+   
+   <div class="contributor">
+      <div class="profile-image">
+        <img src="https://www.activecourses.tech/img/avatar.png" alt="Ramdan Yasin Ashraf" width="100" height="100">
+      </div>
+      <p>Ramdan Yasin</p>
+      <p>Community Moderator</p>
+  </div>
+
+   <div class="contributor">
+      <div class="profile-image">
+        <img src="https://avatars.githubusercontent.com/u/29659555?v=4" alt="Ali kehel" width="100" height="100">
+      </div>
+      <p>Ali kehel</p><p>Community Moderator </p><p>  Website Maintainer</p>
+      <div class="social-icons">
+        <a href="https://github.com/alikehel"><img class="social-icon" src="images/icons/github-black.svg" alt="GitHub"></a>
+        <a href="https://www.linkedin.com/in/alikehel"><img class="social-icon" src="images/icons/linkedin-dark.svg" alt="LinkedIn"></a>
+      </div>
+
+  </div>
+</div>
