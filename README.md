@@ -291,7 +291,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
 
-<style>
+<style type="text/css">
   .flex-container {
     display: flex;
     gap: 20px;
@@ -303,11 +303,11 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    flex-direction: column;
    align-items: center;
    margin: 5px;
-   flex-grow: 1;
+    flex-grow: 1;
   }
 
   .contributor a {
-    text-decoration: none;
+  text-decoration: none;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
