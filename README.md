@@ -173,7 +173,7 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
    1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
    2. What are their benefits?
       1. Have access to the entire ACU Services in the Discord Server.
-      2. Ask unlimited questions and get exceptional answers.
+      2. They have full access to exclusive content and resources that are available only to individuals in this role.
    3. How to be @Trusted?
       1. Think of being @Student as an interview. Each question or help tells @Trusted more about you.
       2. Support the community as much as you can; Ask "How can I help the community?" or infer it.
