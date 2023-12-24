@@ -33,9 +33,10 @@ The Mind Map is divided into right (for the resources) and left (for the service
       7. [Events](#events)
    4. [Channels & Categories Onboarding](#channels--categories-onboarding)
 4. [About us](#about-us)
-   1. [Mentors](#mentors)
-   2. [Curriculum Maintainers](#curriculum-maintainers)
-   3. [Contributors](#contributors)
+   1. [Board Of Leaders](#board-of-leaders)
+   2. [Mentors](#mentors)
+   3. [Curriculum Maintainers](#curriculum-maintainers)
+   4. [Contributors](#contributors)
 
 ## Summary
 
@@ -293,16 +294,19 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 ## About us
 
+### Board Of Leaders
+
+
 ### Mentors
 
 <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
 
 ### Curriculum Maintainers
 
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/omarshawky1) [![](images/github.svg)](https://github.com/OmarShawky1) [![](images/website.svg)](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/xUser5000/) [![](images/github.svg)](https://github.com/xUser5000) [![](images/website.svg)](https://xuser5000.hashnode.dev/) |
+|:-:|:-:|
 
 ### Contributors
 
 | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
 |:-:|:-:|
-<!-- | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
-|:-:|:-:| -->
