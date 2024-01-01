@@ -10,33 +10,35 @@ The Mind Map is divided into right (for the resources) and left (for the service
 
 ## Contents
 
-1. [Summary](#summary)
-2. [Resources](#resources)
-   1. [Courses](#courses)
-      1. [CS-Fundamentals](#cs-fundamentals)
-      2. [Sub-Fields](#sub-fields)
-   2. [Essential](#essential)
-   3. [Career Resources](#career-resources)
-3. [Community](#community)
-   1. [General](#general)
-      1. [Rules](#rules)
-      2. [Conversation Etiquette](#conversation-etiquette)
-      3. [FAQ](#faq)
-   2. [Roles Onboarding](#roles-onboarding)
-   3. [Services Onboarding](#services-onboarding)
-      1. [Academia](#academia)
-      2. [Career](#career)
-      3. [Sub-Communities](#sub-communities)
-      4. [Networking](#networking)
-      5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-      6. [Mentorship](#mentorship)
-      7. [Events](#events)
-   4. [Channels & Categories Onboarding](#channels--categories-onboarding)
-4. [About us](#about-us)
-   1. [Board Of Leaders](#board-of-leaders)
-   2. [Mentors](#mentors)
-   3. [Curriculum Maintainers](#curriculum-maintainers)
-   4. [Contributors](#contributors)
+- [Welcome to Active Courses University](#welcome-to-active-courses-university)
+  - [Contents](#contents)
+  - [Summary](#summary)
+  - [Resources](#resources)
+    - [Courses](#courses)
+      - [CS-Fundamentals](#cs-fundamentals)
+      - [Sub-Fields](#sub-fields)
+    - [Essential](#essential)
+    - [Career Resources](#career-resources)
+  - [Community](#community)
+    - [General](#general)
+      - [Rules](#rules)
+      - [Conversation Etiquette](#conversation-etiquette)
+      - [FAQ](#faq)
+    - [Roles Onboarding](#roles-onboarding)
+    - [Services Onboarding](#services-onboarding)
+      - [Academia](#academia)
+      - [Career](#career)
+      - [Sub-Communities](#sub-communities)
+      - [Networking](#networking)
+      - [Mentorship](#mentorship)
+    - [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+      - [Events](#events)
+  - [Channels \& Categories Onboarding](#channels--categories-onboarding)
+  - [Special Thanks for these Wonderful People](#special-thanks-for-these-wonderful-people)
+    - [Mentors](#mentors)
+    - [Board Of Leaders](#board-of-leaders)
+    - [Curriculum Maintainers](#curriculum-maintainers)
+    - [Contributers](#contributers)
 
 ## Summary
 
@@ -292,21 +294,173 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
 
-## About us
 
-### Board Of Leaders
-
+## Special Thanks for these Wonderful People
 
 ### Mentors
 
-<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
+<table width="100%">
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/AhalimZaki">
+          <img src="https://avatars.githubusercontent.com/u/23334080?v=4" width="100px" height="100px" alt="DevOps Mentor" /><br />
+          <sub><b>Abdelhalim Zaki</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/abdelhalimzaki/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Board Of Leaders
+
+<table width="100%">
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/OmarShawky1">
+          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
+          <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
+   </tbody>
+</table>
 
 ### Curriculum Maintainers
 
-| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/omarshawky1) [![](images/github.svg)](https://github.com/OmarShawky1) [![](images/website.svg)](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/xUser5000/) [![](images/github.svg)](https://github.com/xUser5000) [![](images/website.svg)](https://xuser5000.hashnode.dev/) |
-|:-:|:-:|
+<table width="100%">
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/OmarShawky1">
+          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
+          <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/xUser5000">
+          <img src="https://avatars.githubusercontent.com/u/40672207?v=44" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
+          <sub><b>Abdullah Ahmed</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/xUser5000/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://xuser5000.hashnode.dev/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
 
-### Contributors
+   </tbody>
+</table>
 
-| <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
-|:-:|:-:|
+### Contributers
+
+<table width="100%">
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/OmarShawky1">
+          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
+          <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/xUser5000">
+          <img src="https://avatars.githubusercontent.com/u/40672207?v=44" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
+          <sub><b>Abdullah Ahmed</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/xUser5000/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://xuser5000.hashnode.dev/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/12874707?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="">
+          <sub><b>Mohammed A. Gomaa</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="https://github.com/3ein39">
+          <sub><b>Hussein Hany</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/3ein39/">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://3ein39.me/">
+          <img src="https://www.activecourses.tech/img/website-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/64869057?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Hussein Hany</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/yasserahmeddev">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="https://www.activecourses.tech/img/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Abdulrahman Al-Ghamdi</b></sub>
+        </a><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/29659555?v=4" width="100px" height="100px" alt="Website Maintainer" /><br />
+        <a href="https://github.com/alikehel">
+          <sub><b>Ali Kehel</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/alikehel">
+          <img src="https://www.activecourses.tech/img/linkedin-dark.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/86894852?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Abdallah Elhadad</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="https://www.activecourses.tech/img/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Mohamed Ashraf</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="https://www.activecourses.tech/img/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Ramadan Yasin</b></sub>
+        </a><br />
+      </td>
+     </tr>
+   </tbody>
+</table>
