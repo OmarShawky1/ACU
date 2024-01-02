@@ -298,7 +298,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 ### Mentors
 
-<table width="100%">
+<table>
   <tbody>
     <tr>
       <td align="center" valign="top">
@@ -405,34 +405,13 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a><br />
       </td>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="100px" height="100px" alt="Moderator" /><br />
-        <a href="https://github.com/3ein39">
-          <sub><b>Hussein Hany</b></sub>
-        </a><br />
-        <a href="https://www.linkedin.com/in/3ein39/">
-          <img src="./images/linkedin.svg" width="15px" height="15px" />
-        </a>
-        <a href="https://3ein39.me/">
-          <img src="./images/website.svg" width="15px" height="15px" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/64869057?v=4" width="100px" height="100px" alt="Moderator" /><br />
-        <a href="#">
-          <sub><b>Hussein Hany</b></sub>
-        </a><br />
-        <a href="https://www.linkedin.com/in/yasserahmeddev">
-          <img src="./images/linkedin.svg" width="15px" height="15px" />
-        </a>
-      </td>
-      <td align="center" valign="top">
-         <img src="./images/contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
         <a href="#">
           <sub><b>Abdulrahman Al-Ghamdi</b></sub>
         </a><br />
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
          <img src="https://avatars.githubusercontent.com/u/29659555?v=4" width="100px" height="100px" alt="Website Maintainer" /><br />
         <a href="https://github.com/alikehel">
@@ -448,19 +427,40 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
           <sub><b>Abdallah Elhadad</b></sub>
         </a><br />
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
-         <img src="./images/contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
         <a href="#">
           <sub><b>Mohamed Ashraf</b></sub>
         </a><br />
       </td>
       <td align="center" valign="top">
-         <img src="./images/contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
         <a href="#">
           <sub><b>Ramadan Yasin</b></sub>
         </a><br />
+      </td>
+     </tr>
+     <tr>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="https://github.com/3ein39">
+          <sub><b>Hussein Hany</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/3ein39/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://3ein39.me/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="https://avatars.githubusercontent.com/u/64869057?v=4" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Hussein Hany</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/yasserahmeddev">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
       </td>
      </tr>
    </tbody>
