@@ -341,8 +341,8 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    <tbody>
     <tr>
       <td align="center" valign="top">
+          <img src="./images/Contributors/omar-shawky.jpg" width="100px" height="100px" alt="ACU Creator" /><br />
         <a href="https://github.com/OmarShawky1">
-          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
           <sub><b>Omar Shawky</b></sub>
         </a><br />
         <a href="https://www.linkedin.com/in/omarshawky1/">
@@ -353,8 +353,8 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a>
       </td>
       <td align="center" valign="top">
+        <img src="./images/Contributors/abdullah-ahmed.jpg" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
         <a href="https://github.com/xUser5000">
-          <img src="https://avatars.githubusercontent.com/u/40672207?v=44" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
           <sub><b>Abdullah Ahmed</b></sub>
         </a><br />
         <a href="https://www.linkedin.com/in/xUser5000/">
@@ -375,9 +375,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    <tbody>
     <tr>
       <td align="center" valign="top">
+       <img src="./images/Contributors/omar-shawky.jpg" width="100px" height="100px" alt="ACU Creator" /><br />
         <a href="https://github.com/OmarShawky1">
-          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
-          <sub><b>Omar Shawky</b></sub>
+         <sub><b>Omar Shawky</b></sub>
         </a><br />
         <a href="https://www.linkedin.com/in/omarshawky1/">
           <img src="./images/linkedin.svg" width="15px" height="15px" />
@@ -387,8 +387,8 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a>
       </td>
       <td align="center" valign="top">
+        <img src="./images/Contributors/abdullah-ahmed.jpg" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
         <a href="https://github.com/xUser5000">
-          <img src="https://avatars.githubusercontent.com/u/40672207?v=44" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
           <sub><b>Abdullah Ahmed</b></sub>
         </a><br />
         <a href="https://www.linkedin.com/in/xUser5000/">
@@ -399,7 +399,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a>
       </td>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/12874707?v=4" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/mohammed-gomaa.jpg" width="100px" height="100px" alt="Moderator" /><br />
         <a href="">
           <sub><b>Mohammed A. Gomaa</b></sub>
         </a><br />
@@ -413,7 +413,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     </tr>
     <tr>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/29659555?v=4" width="100px" height="100px" alt="Website Maintainer" /><br />
+         <img src="./images/Contributors/ali-kehel.png" width="100px" height="100px" alt="Website Maintainer" /><br />
         <a href="https://github.com/alikehel">
           <sub><b>Ali Kehel</b></sub>
         </a><br />
@@ -422,7 +422,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a>
       </td>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/86894852?v=4" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/abdullah-elhadad.jpg" width="100px" height="100px" alt="Moderator" /><br />
         <a href="#">
           <sub><b>Abdallah Elhadad</b></sub>
         </a><br />
@@ -442,7 +442,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
      </tr>
      <tr>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/hussein-hany.jpg" width="100px" height="100px" alt="Moderator" /><br />
         <a href="https://github.com/3ein39">
           <sub><b>Hussein Hany</b></sub>
         </a><br />
@@ -454,9 +454,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
         </a>
       </td>
       <td align="center" valign="top">
-         <img src="https://avatars.githubusercontent.com/u/64869057?v=4" width="100px" height="100px" alt="Moderator" /><br />
+         <img src="./images/Contributors/yasser-ahmed.jpg" width="100px" height="100px" alt="Moderator" /><br />
         <a href="#">
-          <sub><b>Hussein Hany</b></sub>
+          <sub><b>Yasser Ahmed</b></sub>
         </a><br />
         <a href="https://www.linkedin.com/in/yasserahmeddev">
           <img src="./images/linkedin.svg" width="15px" height="15px" />
