@@ -10,33 +10,35 @@ The Mind Map is divided into right (for the resources) and left (for the service
 
 ## Contents
 
-1. [Summary](#summary)
-2. [Resources](#resources)
-   1. [Courses](#courses)
-      1. [CS-Fundamentals](#cs-fundamentals)
-      2. [Sub-Fields](#sub-fields)
-   2. [Essential](#essential)
-   3. [Career Resources](#career-resources)
-3. [Community](#community)
-   1. [General](#general)
-      1. [Rules](#rules)
-      2. [Conversation Etiquette](#conversation-etiquette)
-      3. [FAQ](#faq)
-   2. [Roles Onboarding](#roles-onboarding)
-   3. [Services Onboarding](#services-onboarding)
-      1. [Academia](#academia)
-      2. [Career](#career)
-      3. [Sub-Communities](#sub-communities)
-      4. [Networking](#networking)
-      5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-      6. [Mentorship](#mentorship)
-      7. [Events](#events)
-   4. [Channels & Categories Onboarding](#channels--categories-onboarding)
-4. [About us](#about-us)
-   1. [Board Of Leaders](#board-of-leaders)
-   2. [Mentors](#mentors)
-   3. [Curriculum Maintainers](#curriculum-maintainers)
-   4. [Contributors](#contributors)
+- [Welcome to Active Courses University](#welcome-to-active-courses-university)
+  - [Contents](#contents)
+  - [Summary](#summary)
+  - [Resources](#resources)
+    - [Courses](#courses)
+      - [CS-Fundamentals](#cs-fundamentals)
+      - [Sub-Fields](#sub-fields)
+    - [Essential](#essential)
+    - [Career Resources](#career-resources)
+  - [Community](#community)
+    - [General](#general)
+      - [Rules](#rules)
+      - [Conversation Etiquette](#conversation-etiquette)
+      - [FAQ](#faq)
+    - [Roles Onboarding](#roles-onboarding)
+    - [Services Onboarding](#services-onboarding)
+      - [Academia](#academia)
+      - [Career](#career)
+      - [Sub-Communities](#sub-communities)
+      - [Networking](#networking)
+      - [Mentorship](#mentorship)
+    - [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+      - [Events](#events)
+  - [Channels \& Categories Onboarding](#channels--categories-onboarding)
+  - [Special Thanks for these Wonderful People](#special-thanks-for-these-wonderful-people)
+    - [Mentors](#mentors)
+    - [Board Of Leaders](#board-of-leaders)
+    - [Curriculum Maintainers](#curriculum-maintainers)
+    - [Contributers](#contributers)
 
 ## Summary
 
@@ -56,14 +58,15 @@ Check [Community](#community) to join us.
 
 ### Courses
 
-* To pick courses, check [Resources Explanation](./README-Explanation.md#resources) before you dive into any course.
-* Notes:
-  * Course reviews will be provided in the GitHub Issues soon.
-  * A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
-  * Resources that will be enhanced and rewritten in our [Website](https://www.activecourses.tech/).
+- To pick courses, check [Resources Explanation](./README-Explanation.md#resources) before you dive into any course.
+- Notes:
+  - Course reviews will be provided in the GitHub Issues soon.
+  - A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
+  - Resources that will be enhanced and rewritten in our [Website](https://www.activecourses.tech/).
 
 #### CS-Fundamentals
 
+<<<<<<< HEAD
 | Topic | Course Name |Topics Covered | Course Prerequisites | Course Reviews |
 |:-|:-:|:-:|:-:|:-:|
 | Introduction to Programming | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)|<summary>`programming concepts`, `basic function structure`, `functional programming`, `dynamic typing`</summary><br>`programming concepts`: (`lexical scoping`), <br>`basic function structure`: (Function signature, First Order Function) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, High Order Function: {Function Consumer or passing function as argument}, `map`, `filter`, `fold`, Backtracking Search, Generative Recursion), <br>`dynamic typing`</details>| N/A | #TODO |
@@ -73,6 +76,17 @@ Check [Community](#community) to join us.
 | DSA | [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2) |<summary>`sorting and searching`, `shortest paths`, `randomized algorithms`, `data compression`, `data structures`, `algorithm complexity notions`</summary><br>`sorting and searching`: <ul>Elementary sort: (Shell sort, Insertion sort, Selection sort)</ul> <ul>Mergesort</ul> <ul>Quicksort</ul> <ul>Binary Search</ul> <ul>Quick-Select</ul> <ul>3-Way partitioning</ul> <ul>Heapsort</ul> <ul>A\* Search</ul> <ul>Multi-Dimensional Search: (KdTree, Sweep Line Algorithm)</ul> <ul>Hash-Tables*</ul> <ul>Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection) <br>* Maxflow-Mincut-problem: (Ford-Fulkerson Algorithm)</ul> <ul>String Sorting: (Key-Indexed Sort, LSD Radix Sort, MSD Radix Sort, 3-way Radix Quicksort, Manber-Myers MSD Sort, Suffix Sort, (and tries DS below))</ul> <ul>String Searching: (Knuth-Morris-Pratt, Boyer-Moore Rabin-Karp)</ul> <ul>Substring Searching (AKA Pattern Matching, Regular Expression matching): (Prefix Matching, Suffix Matching, Longest Prefix, Palindrome and many more)</ul> `shortest paths`: <ul>Greedy Algorithms: (Kruskal's Algorithm, Prim's Algorithm, Dijkstra's Algorithm), Acyclic SP: (Seam-Carving)</ul> <ul>`dynamic programming` Algorithms: (Bellman-Ford's Algorithm, Dijkstra's Algorithm\*)</ul>`randomized algorithms`: (Shuffle sort), <br>`data compression`: (Run-length Encoding, Huffman Compression, LZW Compression, Burrows-Wheeler Algorithm, Shannon-Fano Algorithm) <br>`data structures`: <ul>Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues, Deque)</ul> <ul>Symbol-Table: (Suffix Array, Trees*, Tries*, Hash-Tables*, Graphs*, Sets*)</ul> <ul>Trees: (Binary Search Trees, Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees)</ul> <ul>Multi-Dimensional Trees: (Space-Partitioning Trees, Interval Search Tree)</ul> <ul>Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing})</ul> <ul>Sets</ul> <ul>Graphs: (Directed Graphs, Undirected Graphs, Edge Weighted Graphs, Acyclic Graphs, Edge Weighted Directed Acyclic Graphs)</ul> <ul>Minimum Spanning Trees (MST)</ul> <ul>Flow-Network or Residual Network</ul> <ul>Tries: (R-way Tries, Ternary Search Tries, TST & R<sup>2</sup> Hybrid Tries, Patricia Trie, Suffix Tree)</ul> <ul>Miscellaneous: (DFA (Deterministic Finite State Automaton)), NFA (Nondeterminstic Finite State Automaton)</ul> `algorithm complexity notions`: (Problem Reduction, Linear programming, simplex algorithm, P, NP, CoNP, NP-Hard, Intractable)</details>| Basic knowledge with programming languages and OOP | [DSA Review](https://github.com/OmarShawky1/ACU/issues/1) |
 | Operating Systems | [UW-Madison CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/) (Based on [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)) |<summary> `OS Algorithms`, `Virtualization`, `Concurrency`, `Memory`,`RAIDs`, `File Systems`, `Journaling`, `Crash Consistency`</summary> <br>`OS Algorithms`: (`Scheduling Algorithms`, `Page Replacement Algorithms`, `Disk Scheduling Algorithms`, `Memory`), <br>`Virtualization`: (`CPU Virtualization`, `Memory Virtualization`), <br>`Concurrency`: (`Processes`, `Threads`, `Locks`, `Semaphores`, `Event-based Concurrency`), <br>`Memory`: (`Segmentation`, `Paging`, `TLB`, `Swap Space`, `Condition Variables`, `Disks`), <br>`RAIDs`, `File Systems`, `Journaling`, `Crash Consistency`</details>|C Programming Language, Computer Architecture Concepts | #TODO |
 | Database Systems | [CMU 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2023/) | <summary>`Data Models`, `Storage Models`, `Query Languages`, `Storage Architectures`, `Indexing`, `Transaction Processing`, `Recovery`, `Query Processing`, `Parallel Architectures`</summary><br> `Data Models`: (Relational, Document, Key/Value), <br>`Storage Models`: (N-ary, DecomCurriculum Maintainers), <br>`Query Languages`: (SQL, Stored Procedures), <br>`Storage Architectures`: (Heaps, Log-Structured), <br>`Indexing`: (Order Preserving Trees, Hash Tables), <br>`Transaction Processing`: (ACID, Concurrency Control), <br>`Recovery`: (Logging, Checkpoints), <br>`Query Processing`: (Joins, Sorting, Aggregation, Optimization), <br>`Parallel Architectures`: (Multi-core, Distributed)</details> |C++ Programming Language, Operating Systems| #TODO |
+=======
+| Topic                                                                       |                                                                                                                                                                                                                     Course Name                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Topics Covered                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                  Course Prerequisites                  |                                                         Course Reviews                                                         |
+| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| Introduction to Programming                                                 |                                                                                                                                         [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <details><summary>`programming concepts`, `basic function structure`, `functional programming`, `dynamic typing`</summary><br>`programming concepts`: (`lexical scoping`), <br>`basic function structure`: (Function signature, First Order Function) <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, High Order Function: {Function Consumer or passing function as argument}, `map`, `filter`, `fold`, Backtracking Search, Generative Recursion), <br>`dynamic typing`</details>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                          N/A                           |                                                             #TODO                                                              |
+| $\uparrow$                                                                  |                                                                                                                                                                          [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       <details><summary>`programming concepts`, `basic syntax`, `basic data structures`, `Functional Programming`, `OOP`</summary><br>`programming concepts`: (Abstraction, Decomposition, Standard Input & Output, Type Conversion, Type Checking, Functions, API, Modular Programming, Recursion, `dynamic programming`, `divide and conquer`, Memoization, Algorithmic Complexity, Abstract Datatypes, Compiler, Interpreter, Procedural Paradigm, Scripting Language, Special-Purpose Language), <br>`basic syntax`: (Variables, Variables Types, Arithmetic Operations, `if`, loops {`while`, `for`}, Nesting, Access Modifiers, Non-Access Modifiers, Static Methods), <br>`basic data structures`: (Primiteves, `string`, Arrays, kD Arrays), <br>`Functional Programming`, <br>`OOP`: (Methods, `inheritance`, Encapsulation)</details>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                          N/A                           |                                                             #TODO                                                              |
+| Programming Languages                                                       | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages), [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) & [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) which covers all topics in "Concepts of Programming Languages by Robert W. Sebesta 12th Edition" & "Programming Language Pragmatics by Michael Scott 4th edition" |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <details><summary>`programming concepts`, `functional programming`, `static typing`, `dynamic typing`, `ML-family languages (via Standard ML)`, `Lisp-family languages (via Racket)`, `OOP`, `Ruby`, `libraries`, `tools`</summary><br>`programming concepts`: (Mutation, References/Pointers, : {Pairs, Tuples, Records}, Polymorphism (Functional, OOP, Bounded), Datatype Binding, Type Inference (Implicit Typing, Explicit Typing), Weak Typing, Strong Typing, Duck Typing, Method Overriding, Dynamic Dispatch, Double Dispatch, Interpreter), <br>`programming paradigms`: (`functional programming`, `OOP`), <br>`functional programming`: (Recursion, Mutual Recursion, Tail Recursion, Shadowing, Case Expression (AKA Pattern Matching), High Order Function, `map`, `filter`, `fold`, `lexical scope`, `dynamic scope`, Stream, Lazy Evaluation, Eager Evaluation, Memoization, Tokenization, Subtyping {Functional Sutyping, OOP Sutyping}, Generics), <br>`ML-family languages (via Standard ML)`, `Lisp-family languages (via Racket)`, `OOP`, <br>`Ruby`: (Classes, Object State, Arrays, Blocks, Hashes & Ranges, Subclassing: {Inheritance in java}, Mixins), <br>`universal libraries`: (File Stream, I/O Stream, Math), <br>`tools`: (Read Evaluate Print Loop (REPL), Debugger)</details>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |          How to Code (Check OSSU for details)          |                                                             #TODO                                                              |
+| Introduction to Programming + Programming Languages + OOP + Problem-Solving |                                                                                                                                                                     [Mastering 4 Critical Skills using C++ 17 by Prof. Mostafa Saad](https://www.udemy.com/course/cpp-4skills/)                                                                                                                                                                      |                                      <details><summary>`programming concepts`, `C++ concepts`, `basic syntax`, `basic data structures`, `data structures`, `OOP`, `functional programming`, `algorithm complexity notions`, `algorithms`, `universal libraries`, `basic OS`, `basic computer architecture`, `UML`, `SE practices`, `software engineering`, `advanced syntax`, `advanced c++`</summary><br>`programming concepts`: (Type Conversion, Polymorphism: {Upcasting, Downcasting}, Exception Handling: {`except`, `throw`, `noexcept`, `nothrow`}, Compiler, Linker, Procedural Paradigm), <br>`C++ concepts`: (Standard Input & Output, References/Pointers, STL, Headers & `includes`), <br>`basic syntax`: (Variables, Variables Types, Arithmetic Operations, `if`, Loops {`while`, `for`}, Nesting, Access Modifiers, Non-Access Modifiers: {`static`, `const`, `final`}, Functions & Methods), <br>`basic data structures`: (Primitives, `string`, Arrays {1D, 2D, kD}), <br>`data structures`: (Encapsulation Techniques: {Struct, Pairs, Tuples}, STL: {Templates, `queue`, Priority Queues, Deque, Stack, Iterators, References, Pointers}, Vectors: {1D, 2D, kD}, Sets, Multisets, `map`),<br>`functional programming`: (Recursion), <br>`OOP`: (concepts: {Encapsulation, Abstraction, Data-Hiding, Decomposition, SOLID Principles, `inheritance`: {Abstract Class, Interface, Method Overriding, Method Overloading, Operator Overloading: {Unary, Subscript, Relational, Prefix, Postfix, Input, Output, Conversion, Assignment}}}, Class: {Constructor, Destructor, Copy Constructor, Delete Function, Initializer List}, Specifiers: {`final`, `static`, `friend`}), <br>`algorithm complexity notions`: (Problem Reduction), <br>`algorithms`: (`sorting`: {Count Sorting}), <br>`universal libraries`: (File Streams, I/O Stream), <br>`basic OS`: (Memory Stucture: {Stack, Heap}, Static Variables...), <br>`basic computer architecture`: (bits & bytes, 2's Compliment, Signed & Unsigned Numbers, Floating Points & Rounding Numbers, Numbers Conversion/Casting), <br>`UML`: (Class Diagram: {Association, Aggregation, Composition, Generalization, Multiplicity}), <br>`SE practices`: (MVP, CRUD Operations, MVC, Refactoring), <br>`software engineering`: (Coupling, Cohesion), <br>`advanced syntax`: (`variadic`, Fold Expressions, functors (High Order Function), Lambda Expressions), <br>`advanced c++`: (Move Semantics & Perfect Forwarding, Smart Pointers: {Unique Pointers, Shared Pointers, Weak Pointers}, Pointer to Pointer, Void Pointer, Function Pointer)                                      |                          N/A                           | Premium and Udemy courses do not provide autograder, but you will directly interact with Prof himself in his Discord Channels. |
+| DSA                                                                         |                                                                                                                                    [Princeton Algorithms Course Part 1](https://www.coursera.org/learn/algorithms-part1) & [Princeton Algorithms Course Part 2](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     | <details><summary>`sorting and searching`, `shortest paths`, `randomized algorithms`, `data compression`, `data structures`, `algorithm complexity notions`</summary><br>`sorting and searching`: <ul>Elementary sort: (Shell sort, Insertion sort, Selection sort)</ul> <ul>Mergesort</ul> <ul>Quicksort</ul> <ul>Binary Search</ul> <ul>Quick-Select</ul> <ul>3-Way partitioning</ul> <ul>Heapsort</ul> <ul>A\* Search</ul> <ul>Multi-Dimensional Search: (KdTree, Sweep Line Algorithm)</ul> <ul>Hash-Tables*</ul> <ul>Graph-Searching: (Depth-First Search, Breadth-First Search, Topological sort, Kosaraju-Sharir DFS Twice, Cycle Detection) <br>* Maxflow-Mincut-problem: (Ford-Fulkerson Algorithm)</ul> <ul>String Sorting: (Key-Indexed Sort, LSD Radix Sort, MSD Radix Sort, 3-way Radix Quicksort, Manber-Myers MSD Sort, Suffix Sort, (and tries DS below))</ul> <ul>String Searching: (Knuth-Morris-Pratt, Boyer-Moore Rabin-Karp)</ul> <ul>Substring Searching (AKA Pattern Matching, Regular Expression matching): (Prefix Matching, Suffix Matching, Longest Prefix, Palindrome and many more)</ul> `shortest paths`: <ul>Greedy Algorithms: (Kruskal's Algorithm, Prim's Algorithm, Dijkstra's Algorithm), Acyclic SP: (Seam-Carving)</ul> <ul>`dynamic programming` Algorithms: (Bellman-Ford's Algorithm, Dijkstra's Algorithm\*)</ul>`randomized algorithms`: (Shuffle sort), <br>`data compression`: (Run-length Encoding, Huffman Compression, LZW Compression, Burrows-Wheeler Algorithm, Shannon-Fano Algorithm) <br>`data structures`: <ul>Linear: (Array, ArrayList, LinkedList, Stack, Queue, Priority Queues, Deque)</ul> <ul>Symbol-Table: (Suffix Array, Trees*, Tries*, Hash-Tables*, Graphs*, Sets\*)</ul> <ul>Trees: (Binary Search Trees, Binary Heap, 2-3 Trees, Red-Black Trees, B-Trees)</ul> <ul>Multi-Dimensional Trees: (Space-Partitioning Trees, Interval Search Tree)</ul> <ul>Hash-Tables: (Seperate Chaining: {Two-probe hashing}, Linear Probing: {Double Hashing, Cuckoo Hashing})</ul> <ul>Sets</ul> <ul>Graphs: (Directed Graphs, Undirected Graphs, Edge Weighted Graphs, Acyclic Graphs, Edge Weighted Directed Acyclic Graphs)</ul> <ul>Minimum Spanning Trees (MST)</ul> <ul>Flow-Network or Residual Network</ul> <ul>Tries: (R-way Tries, Ternary Search Tries, TST & R<sup>2</sup> Hybrid Tries, Patricia Trie, Suffix Tree)</ul> <ul>Miscellaneous: (DFA (Deterministic Finite State Automaton)), NFA (Nondeterminstic Finite State Automaton)</ul> `algorithm complexity notions`: (Problem Reduction, Linear programming, simplex algorithm, P, NP, CoNP, NP-Hard, Intractable)</details> |   Basic knowledge with programming languages and OOP   |                                   [DSA Review](https://github.com/OmarShawky1/ACU/issues/1)                                    |
+| Operating Systems                                                           |                                                                                                                      [UW-Madison CS-537: Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/) (Based on [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/))                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <details><summary> `OS Algorithms`, `Virtualization`, `Concurrency`, `Memory`,`RAIDs`, `File Systems`, `Journaling`, `Crash Consistency`</summary> <br>`OS Algorithms`: (`Scheduling Algorithms`, `Page Replacement Algorithms`, `Disk Scheduling Algorithms`, `Memory`), <br>`Virtualization`: (`CPU Virtualization`, `Memory Virtualization`), <br>`Concurrency`: (`Processes`, `Threads`, `Locks`, `Semaphores`, `Event-based Concurrency`), <br>`Memory`: (`Segmentation`, `Paging`, `TLB`, `Swap Space`, `Condition Variables`, `Disks`), <br>`RAIDs`, `File Systems`, `Journaling`, `Crash Consistency`</details>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | C Programming Language, Computer Architecture Concepts |                                                             #TODO                                                              |
+| Database Systems                                                            |                                                                                                                                                                                    [CMU 15-445/645: Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <details><summary>`Data Models`, `Storage Models`, `Query Languages`, `Storage Architectures`, `Indexing`, `Transaction Processing`, `Recovery`, `Query Processing`, `Parallel Architectures`</summary><br> `Data Models`: (Relational, Document, Key/Value), <br>`Storage Models`: (N-ary, Decomposition), <br>`Query Languages`: (SQL, Stored Procedures), <br>`Storage Architectures`: (Heaps, Log-Structured), <br>`Indexing`: (Order Preserving Trees, Hash Tables), <br>`Transaction Processing`: (ACID, Concurrency Control), <br>`Recovery`: (Logging, Checkpoints), <br>`Query Processing`: (Joins, Sorting, Aggregation, Optimization), <br>`Parallel Architectures`: (Multi-core, Distributed)</details>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |      C++ Programming Language, Operating Systems       |                                                             #TODO                                                              |
+>>>>>>> 6624b22208e69db180e3ecc1b32f7fc6a178875b
 
 #### Sub-Fields
 
@@ -80,7 +94,7 @@ To be done...
 
 ### Essential
 
-* Before diving into the following resources, you can first check "What they are about" from [Essential Explanation](./README-Explanation.md#essential).
+- Before diving into the following resources, you can first check "What they are about" from [Essential Explanation](./README-Explanation.md#essential).
 
 1. Essential skills:
    1. How to ask questions?
@@ -117,14 +131,14 @@ To be done...
 
 ### Career Resources
 
-* For the explanation, check [Career Resources Explanation](./README-Explanation.md#career-resources).
+- For the explanation, check [Career Resources Explanation](./README-Explanation.md#career-resources).
 
 1. You can find them in [Channels & Categories Onboarding](#channels--categories-onboarding).
 
 ## Community
 
-* This section is for onboarding.
-* Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
+- This section is for onboarding.
+- Join [![Discord](https://img.shields.io/discord/950993900720492574?style=%20&logo=discord&logoColor=ffffff&label=Arabic%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/QrfTN2Aukx) [![Discord](https://img.shields.io/discord/1026170883997438112?style=%20&logo=discord&logoColor=ffffff&label=English%20ACU&labelColor=6A7EC2&color=7389D8)](https://discord.gg/WEemGPXfnA)
 
 <!--
 [Old Arabic Onboarding Video](https://youtu.be/v1SyedPG0jw)
@@ -161,8 +175,8 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
    2. Tips:
       1. You can show/hide channels from "Browse Channels" options on the left pane.
 2. Can't find a study buddy or anyone to help in a course?
-    1. Have you tried your best to share this server in all the communities that you are in?
-    2. Did you try to ask on the server for anyone who knows someone who is studying course X?
+   1. Have you tried your best to share this server in all the communities that you are in?
+   2. Did you try to ask on the server for anyone who knows someone who is studying course X?
 3. Read [Essential](#essential).
 
 ### Roles Onboarding
@@ -186,27 +200,27 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
       4. Find and collaborate with people with mutual interests. For example:
          1. Find people applying for internships (in [ACU-English](https://discord.com/channels/1026170883997438112/1176583002281738301) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1154362703935184956)) or applying for full-time jobs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
          2. Help people with their resumes in life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
-3. *Special Roles*: Only explained in Discord under their category.
+3. _Special Roles_: Only explained in Discord under their category.
 4. Mentor (@Mentor): An expert (with 5+ years of experience) who is open to providing mentorship.
 
 ### Services Onboarding
 
-* For the explanation, check [Services Explanation](./README-Explanation.md#services)
+- For the explanation, check [Services Explanation](./README-Explanation.md#services)
 
 #### Academia
 
-* For the explanation, check [Academia Explanation](./README-Explanation.md#academia).
+- For the explanation, check [Academia Explanation](./README-Explanation.md#academia).
 
 Currently, no dedicated channels for it, but most people will answer you. For example, you can ask about graduation projects or CVs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
 
 #### Career
 
-* For the explanation, check [Career Explanation](./README-Explanation.md#career).
-* Anything between quotes means a node in the aforementioned mind map.
-* Career Services are carried out in the following places.
+- For the explanation, check [Career Explanation](./README-Explanation.md#career).
+- Anything between quotes means a node in the aforementioned mind map.
+- Career Services are carried out in the following places.
 
 1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
-2. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
+2. _SPECIAL CATEGORY_: For @_Special Roles_ to discuss "Career Advancement" and "Discussions".
 3. SUB-COMMUNITIES:
    1. Open Source Programs (Name of Community):
       1. general-osi channel.
@@ -218,13 +232,13 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 
 #### Sub-Communities
 
-* For the explanation, check [Sub-Communities Explanation](./README-Explanation.md#sub-communities).
+- For the explanation, check [Sub-Communities Explanation](./README-Explanation.md#sub-communities).
 
 They are all carried out in SUB-COMMUNITIES.
 
 #### Networking
 
-* For the explanation, check [Networking Explanation](./README-Explanation.md#networking)
+- For the explanation, check [Networking Explanation](./README-Explanation.md#networking)
 
 1. @Students networking options are limited to studying channels and general mentorship (in the category MENTORSHIP).
 2. @Trusted networking options are like @Students but extend to their exclusive channels.
@@ -236,22 +250,22 @@ Provided only under the "MENTORSHIP" Category.
 
 ### Mutual Mentorship, Coaching and Tutoring
 
-* For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./README-Explanation.md#mutual-mentorship-coaching-and-tutoring).
+- For the explanation, check [Mutual Mentorship, Coaching and Tutoring](./README-Explanation.md#mutual-mentorship-coaching-and-tutoring).
 
 No dedicated channel. Provided throughout the entire server.
 
 #### Events
 
-* For the explanation, check [Events Explanation](./README-Explanation.md#events).
+- For the explanation, check [Events Explanation](./README-Explanation.md#events).
 
 Third-party events are available only on the Arabic ACU Server in recommended events.
 
 ## Channels & Categories Onboarding
 
-* Brief & ordered from top to bottom.
-* Not all channels are mentioned to avoid redundancy.
-* All channels mentioned are just for @Students (which is 40% of the entire server).
-* Always check pinned messages.
+- Brief & ordered from top to bottom.
+- Not all channels are mentioned to avoid redundancy.
+- All channels mentioned are just for @Students (which is 40% of the entire server).
+- Always check pinned messages.
 
 1. COMMUNITY:
    1. announcements: Any major updates in the server. @everyone tag is only used for important announcements.
@@ -263,28 +277,28 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
    3. general-newcomers: Used by members who do not want to enroll and keep anonymous. Further similar channels will be added if there is traffic that requires anonymity.
 3. MENTORSHIP
    1. mentors-announcements: All mentors announcements.
-4. *SPECIAL CATEGORY*: This is not the name of the category but some set of categories that have the following similar channels:
-   1. *general*: Place for members to get answers from all *special roles* members.
-   2. *side-channel*: Like "general" above but requires just one answer.
+4. _SPECIAL CATEGORY_: This is not the name of the category but some set of categories that have the following similar channels:
+   1. _general_: Place for members to get answers from all _special roles_ members.
+   2. _side-channel_: Like "general" above but requires just one answer.
    3. knowledge-base: Stackoverflow-like for resources between members.
-5. SOCIAL:  
+5. SOCIAL:
    1. off-topic: For non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
 6. GENERAL: Channels that do not fit anywhere else.
    1. recommended: Stackoverflow-like resources for @Students.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
    3. general-questions: Topic-less Q&A.
    4. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
-7. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
+7. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains _general_ channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
 8. CS-SUB-FIELDS: For CS-minors.
    1. general-cs-subfields: For CS-minors that have low traffic.
    2. general-ai
 9. STACKS & TECHNOLOGIES: For cs-minors stacks but currently has SE-stacks.
-    1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
+   1. general-stacks-and-technologies: Mainly to ask about multiple domains at once and to discuss stacks of low traffic (do not currently have dedicated channel).
 10. SUB-COMMUNITIES: For Communities that do not require more than 2 channels for discussions.
     1. Open Source Programs (Name of Community).
        1. general-osp: Topic-less discussions about Open Source Internships like "How to prepare".
        2. gsoc: General discussions about Google Summer of Code.
-11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
+11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or _general_ (for _specific roles_).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
     3. internships: Share and discuss internship options, application process, and tips between @Students.
@@ -293,6 +307,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
 
 ## Special Thanks for these Wonderful People
+<<<<<<< HEAD
 
 ### Board Of Leaders
 
@@ -306,10 +321,182 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 | <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/)|
 |:-:|:-:|
+=======
 
-### Contributors
+### Mentors
 
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/AhalimZaki">
+          <img src="https://avatars.githubusercontent.com/u/23334080?v=4" width="100px" height="100px" alt="DevOps Mentor" /><br />
+          <sub><b>Abdelhalim Zaki</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/abdelhalimzaki/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Board Of Leaders
+
+<table>
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/OmarShawky1">
+          <img src="https://avatars.githubusercontent.com/u/51538094?v=4" width="100px" height="100px" alt="ACU Creator" /><br />
+          <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
+   </tbody>
+</table>
+
+### Curriculum Maintainers
+
+<table>
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+          <img src="./images/Contributors/omar-shawky.jpg" width="100px" height="100px" alt="ACU Creator" /><br />
+        <a href="https://github.com/OmarShawky1">
+          <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <img src="./images/Contributors/abdullah-ahmed.jpg" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
+        <a href="https://github.com/xUser5000">
+          <sub><b>Abdullah Ahmed</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/xUser5000/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://xuser5000.hashnode.dev/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+    </tr>
+>>>>>>> 6624b22208e69db180e3ecc1b32f7fc6a178875b
+
+   </tbody>
+</table>
+
+<<<<<<< HEAD
 
 | <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/) | <img src="https://avatars.githubusercontent.com/u/12874707?v=4" alt="Alt text" width="150" height="150"><details><summary>Mohammed A. Gomma</summary> <small>Community Moderator<br><br>|<img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="150" height="150"/><details><summary>Hussein Hany</summary><small>Community Moderator</small><br> [<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/3ein39/) [<img src="./images/github.svg" width="15"/>](https://github.com/3ein39) [<img src="images/website.svg" width="15"/>](https://3ein39.me/)|<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Abdoo Nasser</summary><small>Community Moderator</small><br><br>|
 |:-:|:-:|:-:|:-:|:-:|
 |<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Abdulrahman Al-Ghamdi</summary><small>Community Moderator</small><br><br>|<img src="https://avatars.githubusercontent.com/u/86894852?v=4" width="150" height="150"/><details><summary>Abdullah Elhadad</summary><small>Community Moderator</small><br><br>|<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Mohammed Ashraf</summary><small>Community Moderator</small><br><br>|<img src="https://www.activecou   rses.tech/img/avatar.png" width="150" height="150"/><details><summary>Ramadan Yassin</summary><small>Community Moderator</small><br/><br/>|<img src="https://avatars.githubusercontent.com/u/29659555?v=4" height="150" width="150"/><article><details><summary>Ahmed Kehel</summary><small>Website Maintainer<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/alikehel)[<img src="images/github.svg" width="15"/>](https://github.com/alikehel)|
+=======
+### Contributers
+
+<table>
+   <tbody>
+    <tr>
+      <td align="center" valign="top">
+       <img src="./images/Contributors/omar-shawky.jpg" width="100px" height="100px" alt="ACU Creator" /><br />
+        <a href="https://github.com/OmarShawky1">
+         <sub><b>Omar Shawky</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/omarshawky1/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://omarshawky1.github.io/portfolio/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <img src="./images/Contributors/abdullah-ahmed.jpg" width="100px" height="100px" alt="Curriculum Maintainer" /><br />
+        <a href="https://github.com/xUser5000">
+          <sub><b>Abdullah Ahmed</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/xUser5000/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://xuser5000.hashnode.dev/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/mohammed-gomaa.jpg" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="">
+          <sub><b>Mohammed A. Gomaa</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Abdulrahman Al-Ghamdi</b></sub>
+        </a><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/ali-kehel.png" width="100px" height="100px" alt="Website Maintainer" /><br />
+        <a href="https://github.com/alikehel">
+          <sub><b>Ali Kehel</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/alikehel">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/abdullah-elhadad.jpg" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Abdallah Elhadad</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Mohamed Ashraf</b></sub>
+        </a><br />
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/avatar.png" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Ramadan Yasin</b></sub>
+        </a><br />
+      </td>
+     </tr>
+     <tr>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/hussein-hany.jpg" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="https://github.com/3ein39">
+          <sub><b>Hussein Hany</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/3ein39/">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+        <a href="https://3ein39.me/">
+          <img src="./images/website.svg" width="15px" height="15px" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+         <img src="./images/Contributors/yasser-ahmed.jpg" width="100px" height="100px" alt="Moderator" /><br />
+        <a href="#">
+          <sub><b>Yasser Ahmed</b></sub>
+        </a><br />
+        <a href="https://www.linkedin.com/in/yasserahmeddev">
+          <img src="./images/linkedin.svg" width="15px" height="15px" />
+        </a>
+      </td>
+     </tr>
+   </tbody>
+</table>
+>>>>>>> 6624b22208e69db180e3ecc1b32f7fc6a178875b
