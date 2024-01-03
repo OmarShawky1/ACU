@@ -10,33 +10,35 @@ The Mind Map is divided into right (for the resources) and left (for the service
 
 ## Contents
 
-1. [Summary](#summary)
-2. [Resources](#resources)
-   1. [Courses](#courses)
-      1. [CS-Fundamentals](#cs-fundamentals)
-      2. [Sub-Fields](#sub-fields)
-   2. [Essential](#essential)
-   3. [Career Resources](#career-resources)
-3. [Community](#community)
-   1. [General](#general)
-      1. [Rules](#rules)
-      2. [Conversation Etiquette](#conversation-etiquette)
-      3. [FAQ](#faq)
-   2. [Roles Onboarding](#roles-onboarding)
-   3. [Services Onboarding](#services-onboarding)
-      1. [Academia](#academia)
-      2. [Career](#career)
-      3. [Sub-Communities](#sub-communities)
-      4. [Networking](#networking)
-      5. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
-      6. [Mentorship](#mentorship)
-      7. [Events](#events)
-   4. [Channels & Categories Onboarding](#channels--categories-onboarding)
-4. [About us](#about-us)
-   1. [Board Of Leaders](#board-of-leaders)
-   2. [Mentors](#mentors)
-   3. [Curriculum Maintainers](#curriculum-maintainers)
-   4. [Contributors](#contributors)
+- [Welcome to Active Courses University](#welcome-to-active-courses-university)
+  - [Contents](#contents)
+  - [Summary](#summary)
+  - [Resources](#resources)
+    - [Courses](#courses)
+      - [CS-Fundamentals](#cs-fundamentals)
+      - [Sub-Fields](#sub-fields)
+    - [Essential](#essential)
+    - [Career Resources](#career-resources)
+  - [Community](#community)
+    - [General](#general)
+      - [Rules](#rules)
+      - [Conversation Etiquette](#conversation-etiquette)
+      - [FAQ](#faq)
+    - [Roles Onboarding](#roles-onboarding)
+    - [Services Onboarding](#services-onboarding)
+      - [Academia](#academia)
+      - [Career](#career)
+      - [Sub-Communities](#sub-communities)
+      - [Networking](#networking)
+      - [Mentorship](#mentorship)
+    - [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
+      - [Events](#events)
+  - [Channels \& Categories Onboarding](#channels--categories-onboarding)
+  - [Special Thanks for these Wonderful People](#special-thanks-for-these-wonderful-people)
+    - [Board Of Leaders](#board-of-leaders)
+    - [Mentors](#mentors)
+    - [Curriculum Maintainers](#curriculum-maintainers)
+    - [Contributors](#contributors)
 
 ## Summary
 
@@ -292,21 +294,24 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
 
-## About us
+## Special Thanks for these Wonderful People
 
 ### Board Of Leaders
 
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) |
+|:-:|
 
 ### Mentors
 
-<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>
+|<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> <small>DevOps Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>|
+|:-:|
 
 ### Curriculum Maintainers
 
-| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/omarshawky1) [![](images/github.svg)](https://github.com/OmarShawky1) [![](images/website.svg)](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/xUser5000/) [![](images/github.svg)](https://github.com/xUser5000) [![](images/website.svg)](https://xuser5000.hashnode.dev/) |
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/)|
 |:-:|:-:|
 
 ### Contributors
-
-| <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() | <img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"> <details><summary>Abdelhalim Zaki</summary> Position <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki) [![](images/website.svg)]() |
-|:-:|:-:|
+| <img src="https://avatars.githubusercontent.com/u/51538094?v=4" alt="Alt text" width="150" height="150"> <details><summary>Omar Shawky</summary> <small>ACU Creator<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/omarshawky1) [<img src="images/github.svg" width="15"/>](https://github.com/OmarShawky1) [<img src="images/website.svg" width="15"/>](https://omarshawky1.github.io/portfolio/) | <img src="https://avatars.githubusercontent.com/u/40672207?v=44" alt="Alt text" width="150" height="150"> <details><summary>Abdallah Ahmed</summary> <small>Curriculum Maintainers</small> <br>[<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/xUser5000/) [<img src="./images/github.svg" width="15"/>](https://github.com/xUser5000) [<img src="images/website.svg" width="15"/>](https://xuser5000.hashnode.dev/) | <img src="https://avatars.githubusercontent.com/u/12874707?v=4" alt="Alt text" width="150" height="150"><details><summary>Mohammed A. Gomma</summary> <small>Community Moderator<br><br>|<img src="https://avatars.githubusercontent.com/u/37001450?v=4" width="150" height="150"/><details><summary>Hussein Hany</summary><small>Community Moderator</small><br> [<img src="./images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/3ein39/) [<img src="./images/github.svg" width="15"/>](https://github.com/3ein39) [<img src="images/website.svg" width="15"/>](https://3ein39.me/)|<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Abdoo Nasser</summary><small>Community Moderator</small><br><br>|
+|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Abdulrahman Al-Ghamdi</summary><small>Community Moderator</small><br><br>|<img src="https://avatars.githubusercontent.com/u/86894852?v=4" width="150" height="150"/><details><summary>Abdullah Elhadad</summary><small>Community Moderator</small><br><br>|<img src="https://www.activecourses.tech/img/avatar.png" width="150" height="150"/><details><summary>Mohammed Ashraf</summary><small>Community Moderator</small><br><br>|<img src="https://www.activecou   rses.tech/img/avatar.png" width="150" height="150"/><details><summary>Ramadan Yassin</summary><small>Community Moderator</small><br/><br/>|<img src="https://avatars.githubusercontent.com/u/29659555?v=4" height="150" width="150"/><article><details><summary>Ahmed Kehel</summary><small>Website Maintainer<br>[<img src="images/linkedin.svg" width="15"/>](https://www.linkedin.com/in/alikehel)[<img src="images/github.svg" width="15"/>](https://github.com/alikehel)|
