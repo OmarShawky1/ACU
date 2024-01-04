@@ -20,7 +20,7 @@
       2. [Career](#career)
       3. [Sub Communities](#sub-communities)
       4. [Networking](#networking)
-      5. [Mentors](#mentors)
+      5. [Mentorship](#mentorship)
       6. [Mutual Mentorship, Coaching and Tutoring](#mutual-mentorship-coaching-and-tutoring)
       7. [Events](#events)
 3. [ACU Comparison](#acu-comparison)
@@ -209,7 +209,7 @@ Networking benefits mentioned are just an example. In fact, the examples are dro
 
 Networking has two shapes: trading and friendship. Trading is just an immediate favor exchange, and you only get what you can give now. Trading will not serve you when you are weak or at the beginning. Friendship is like a loan with interest. If you pick the right person, the *X* you give now, especially when he cannot pay back the favor, will return *10X* at least. Friendship will serve you when you are weak. Unfortunately, this is not a blog about friendship, but this is for the people who never understood friendship or failed to retain friends for years.
 
-#### Mentors
+#### Mentorship
 
 A @Mentor who can help you advance in your career who is willing to help in the server but on his own terms within his own time. No obligations or strings attached.
 
