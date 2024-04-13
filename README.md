@@ -118,7 +118,7 @@ To be done...
       5. Firmly believing that you are not exceptional by any means. 99.99% of your problems have faced others as well, and they developed a solution for them, but you just didn't research enough.
 2. Essential tools: git-and-github (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222549) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580791316574248)) & Linux (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222550) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580813756088380)).
 3. Knowledge Base:
-   1. @Students: recommended forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176582261433434112) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1059712714492088370)).
+   1. @Student: recommended forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176582261433434112) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1059712714492088370)).
    2. For @Trusted: knowledge base forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176589702334267504) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1075739383908552794)).
 
 ### Career Resources
@@ -173,8 +173,8 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
 
 ### Roles Onboarding
 
-1. Students (@Students):
-   1. Who are @Students: Authentic admitted people who applied using one of the authentication methods in the newcomer channel in the Discord server.
+1. Students (@Student):
+   1. Who is @Student? Authentic admitted people who applied using one of the authentication methods in the *entry* channel in the Discord server.
    2. What are their benefits?
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
@@ -211,16 +211,16 @@ Currently, no dedicated channels for it, but most people will answer you. For ex
 * Anything between quotes means a node in the aforementioned mind map.
 * Career Services are carried out in the following places.
 
-1. life-after-grad channel: For @Students to discuss "Career" except "Problem Solving Training".
+1. life-after-grad channel: For @Student to discuss "Career" except "Problem-Solving Training".
 2. *SPECIAL CATEGORY*: For @*Special Roles* to discuss "Career Advancement" and "Discussions".
 3. SUB-COMMUNITIES:
    1. Open Source Programs (Name of Community):
       1. general-osi channel.
-      2. vacancies-osi channel.
+      2. gsoc channel.
    2. New Grads (Name of Community): CAREER Category.
 4. CAREER Category:
    1. For @Trusted to discuss "Problem-Solving Training", "Profile Review", "Interview Preparation", and "Job Search & Application".
-   2. Partially for @Students to discuss "Problem-Solving Training" and search & apply together (mutually apply) to internships.
+   2. Partially for @Student to discuss "Problem-Solving Training" and search & apply together (mutually apply) to internships.
 
 #### Sub-Communities
 
@@ -232,8 +232,8 @@ They are all carried out in SUB-COMMUNITIES.
 
 * For the explanation, check [Networking Explanation](./README-Explanation.md#networking)
 
-1. @Students networking options are limited to studying channels and general mentorship (in the category MENTORSHIP).
-2. @Trusted networking options are like @Students but extend to their exclusive channels.
+1. @Student networking options are limited to studying channels and general mentorship (in the category MENTORSHIP).
+2. @Trusted networking options are like @Student but extend to their exclusive channels.
 3. For beginners, pick an interactive channel where you can collaborate with others. internships, ps-grinding. For more advanced members, tackle questions in Q&A, especially life-after-grad.
 
 #### Mentorship
@@ -256,7 +256,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 * Brief & ordered from top to bottom.
 * Not all channels are mentioned to avoid redundancy.
-* All channels mentioned are just for @Students (which is 40% of the entire server).
+* All channels mentioned are just for @Student (which is 40% of the entire server).
 * Always check pinned messages.
 
 1. COMMUNITY:
@@ -276,7 +276,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 5. SOCIAL:  
    1. off-topic: For non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
 6. GENERAL: Channels that do not fit anywhere else.
-   1. recommended: Stackoverflow-like resources for @Students.
+   1. recommended: Stackoverflow-like resources for @Student.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
    3. general-questions: Topic-less Q&A.
    4. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
@@ -293,12 +293,12 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 11. CAREER: For career-specific preparation topics. For general discussions (E.g., Offer negotiation), go to life-after-grad or *general* (for *specific roles*).
     1. ps-grinding: Accelerate studying problem-solving by studying for others to increase commitment level. Similar to mock interviews, except that each pair of people decides their terms (E.g., no camera, no voice communication...). In other words, it is half-mock-interviews.
     2. mock-interviews: Schedule mock-interviews between @Trusted only. Ask for a random mock or prepare before an interview (mock all day).
-    3. internships: Share and discuss internship options, application process, and tips between @Students.
+    3. internships: Share and discuss internship options, application process, and tips between @Student.
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
-12. ARCHIVE: Old channels replaced with way/channels of doing things or that does not have traffic anymore (E.g., gsoc is seasonal)
+12. ARCHIVE: Old channels replaced with ways/channels of doing things or that do not have traffic anymore.
 
-## About us
+## About Us
 
 ### Board Of Leaders
 
