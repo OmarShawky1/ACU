@@ -99,6 +99,29 @@ To be done...
       7. If not, Ask the enclosed question if possible. (I.e., the question that has an expected answer; E.g., Which color? "Red", "Green", "Blue")
       8. If not, ask open questions and supply atomic information in an enumerated form. (E.g., "How to study Algorithms?" 1. I know math. 2. I know Programming Languages.)
       9. Note: Atomic information is the simplest form of information possible that can not be further broken down into even simpler data and can never hold more than a single meaning.
+      10. Check the following question template:
+         ```
+         // Template 1:
+         # How to do *X*?
+
+         ## What I am trying to do (Heading is not a question)
+         I am trying to do *Z* via *W* & *Y*.
+
+         ## What I tried
+         I tried *A*, *B*, *C*.
+
+         ## Where did I reach
+         1. *A* can't be done because of Reason *D*
+         2. *B* can't be done because of *E*.
+         3. I am facing error *F* while doing option *C*.
+
+         // Template 2: (after greatly practicing template 1)
+         # How to do *X*?
+         1. I am trying to do *Z*.
+         2.  Tried option *W* but can can't do it because of *A*.
+         3. Tried Option *Y* but I get error *E*.
+         4. Googled *E* and only found 1 2 3 links but couldn't solve it.
+         ```
    2. Who to ask before you ask?
       1. Only reliable person that is in charge, or has been in charge, or reached the end of the road you want to take.
       2. Never rely on an answer/course even if it is free before performing rule 1 above.
