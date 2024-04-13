@@ -178,17 +178,18 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
    2. What are their benefits?
       1. Find tutors for the entire right side of the aforementioned Mind Map.
       2. Ask mentors.
-      3. Have access to "life-after-grad" channel which provides help with ACU Services (everything on the left side of the aforementioned Mind Map) and "internships" channel.
+      3. Have access to *life-after-grad* channel which provides help with ACU Services (everything on the left side of the aforementioned Mind Map) and *internships* channel.
    3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./README-Explanation.md#members))
 2. Trusted (@Trusted):
-   1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted.
+   1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted. They are offered quite much more help as compared to @Student.
    2. What are their benefits?
-      1. Have access to the entire ACU Services in the Discord Server.
-      2. They have full access to exclusive content and resources that are available only to individuals in this role.
+      1. Have access to the real server (entire ACU Services which is $3X$ what @Student has access to).
+      2. Have full access to exclusive resources that are only available to them.
+      3. Can be nominated to higher roles.
    3. How to be @Trusted?
       1. Think of being @Student as an interview. Each question or help tells @Trusted more about you.
       2. Support the community as much as you can; Ask "How can I help the community?" or infer it.
-      3. Provide ideas, resources and help. Check channels where you can provide help. Ask us to create one if it is missing.
+      3. Provide ideas, resources and help. Check channels where you can provide help. Ask us to create one (if it is missing).
       4. Find and collaborate with people with mutual interests. For example:
          1. Find people applying for internships (in [ACU-English](https://discord.com/channels/1026170883997438112/1176583002281738301) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1154362703935184956)) or applying for full-time jobs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
          2. Help people with their resumes in life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
