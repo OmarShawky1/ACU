@@ -40,13 +40,15 @@ The Mind Map is divided into right (for the resources) and left (for the service
 
 ## Summary
 
-Active Courses University is a community targeting to work in Big N. Similar to the [OSSU](https://github.com/ossu/computer-science) community, it provides educational resources. Additionally, ACU provides professional Career, Networking, and Academic Advisory services.
+Active Courses University is a community targeting to work in Big N. Similar to [OSSU](https://github.com/ossu/computer-science), it provides educational resources & help. Additionally, ACU provides professional Career, Networking, and Academic Advisory services.
 
-Similar to real universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing Services (Career Services, Academic Advisory, and much more in [Services Onboarding](#services-onboarding)).
+ACU community is not "yet another Stackoverflow-like" community; The real benefit you will gain is not an answer to your question, but connection with everyone who answered.
+
+Similar to universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing Services (Tutoring, Course curation (via feedback & comparison), Career Services, Academic Advisory, and much more in [Services Onboarding](#services-onboarding)).
 
 For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./README-Explanation.md#acu-comparison).
 
-ACU Resources consist of three primary resources (OSSU, CS Fundamentals, and Big N SE Roadmaps) utilizing suggestions from Pioneer Software Engineers and other reliable sources. Further information is in [Resources](#resources).
+ACU Resources consist of three primary resources (OSSU, CS Fundamentals, and Big N SE Roadmaps) utilizing suggestions from Pioneer Software Engineers and other reliable sources. Unlike OSSU, ACU provides multiple options per subject tailored to each student's needs. Further information is in [Resources](#resources).
 
 If you like the idea, share it. You will benefit directly & indirectly. Your tutor, coach, mentor, or study buddy might be the colleague you invited or invited by him. Try to share it on your Twitter, Facebook, or class group, or ask someone famous to share it.
 
@@ -57,10 +59,14 @@ Check [Community](#community) to join us.
 ### Courses
 
 * To pick courses, check [Resources Explanation](./README-Explanation.md#resources) before you dive into any course.
-* Notes:
-  * Course reviews will be provided in the GitHub Issues soon.
+* Temporary course maintenance Notes:
+  * Courses are still not peer reviewed; it is another student's suggestion but has not been reviewed by a college professor or senior SWE despite being the best courses in the field.
+    * This means one might overstudy or understudy a subject (e.g., study too many algorithms).
+    * Currently, the only solution is to ask a mentor or students about your specific case (where you want to work? Which minor?...).
+    * This problem is not limited to ACU; unless the community has a peer curriculum maintainer, it is guaranteed that it will have the same problem, and they did not mention it as they were unaware.
+  * Course reviews will be provided in the GitHub Issues soon. Please take the initiative and provide your course opinion if you have taken the class.
   * A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
-  * Resources that will be enhanced and rewritten in our [Website](https://www.activecourses.tech/).
+  * Resources are better represented on the [Website](https://www.activecourses.tech/).
 
 #### CS-Fundamentals
 
