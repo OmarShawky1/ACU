@@ -259,9 +259,10 @@ Studying MOOCs means inevitably facing concepts or coding problems that take day
 | Grading | Autograder which is greater than any TA or Professor. Check it out in Princeton Algorithms or Programming Languages Course | Theoretical Pen & Paper style. |
 | Admission | - | You might be rejected or required to pay some fees especially for placement tests. |
 
-| Topic/Option | ACU | Free options |
+| Topic/Option | ACU | Free Options |
 |:-:|:-:|:-:|
-| Resources | Have options. Most options have active people studying that can help you. | Mostly restricted to only one option, and it might not be active. |
-| Services | It Provides Career, Academic and Networking services similar to or better than paid options because, in a lot of cases, we will also depend on them (e.g., in resume feedback, we will reference MIT, Stanford, etc.). | At most, you will get 2 or 3 help from anonymous or accountable people (thought to say that they are, in rare cases, great). The help is mostly resumes and job applications, which is a fraction of ACU Career Services. |
-| Community | You can make friends with colleagues, a lot of us has met personally multiple times | No friendship beyond online one. |
+| Resources | Multiple options tailored to one's goals (scientific, industry, country...). All options have active people studying that can help you. | Restricted to only one option, and it might not be active. Mostly not tailored to one's goals. |
+| Services | Provides Career, Academic and Networking services similar to or better than paid options because, in a lot of cases, we will also depend on them (e.g., in resume feedback, we will reference MIT, Stanford, etc.,). | At most, you will get 2 or 3 help from anonymous or accountable people (thought to say that they are, in rare cases, great). The help is mostly resuming and job applications, which is a fraction of ACU Career Services. |
+| Community | You make connections or friendship with members; a lot of us has met personally multiple times | Rarely one can gain connections from them. No friendship beyond online one. |
 | Networking | Allows knowing and connecting with people who will be seniors in a lot of different companies in 3-5 years. | Does not enforce human connection. Mostly, people interact with each other a few times, and that is it. |
+| Feedback | Externally find out your mistakes via your peers without you asking; Slow studying, over studying, wrong course selection, communication mistake with manager/peer, and so on. This is because most people know each other and can easily detect such mistake. | Unless you ask, you will not get feedback. When you ask, you rarely get an answer, and rarely an accurate one. |
