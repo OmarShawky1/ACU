@@ -207,8 +207,9 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
       2. Ask mentors.
       3. Have access to *life-after-grad* channel which provides help with ACU Services (everything on the left side of the aforementioned Mind Map) and *internships* channel.
    3. **IMPORTANT NOTE**: All the benefits are limited. For example, people asking questions in Princeton Algorithms Part 1 Week 6 will help people in Week 5, and the hierarchy goes on. The student receives a single warning if they do not offer help as they were helped. The second time, he is banned. (Reason in [Members Explanation](./README-Explanation.md#members))
-2. Trusted (@Trusted):
-   1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted. They are offered quite much more help as compared to @Student.
+2. @Alumni: Like @Student but with industry/academic experience and looking for career advancement.
+3. Trusted (@Trusted):
+   1. Who are @Trusted? People supporting the community. They are nominated by 2+ @Trusted. They are offered quite much more help as compared to @Student/@Alumni.
    2. What are their benefits?
       1. Have access to the real server (entire ACU Services which is $3X$ what @Student has access to).
       2. Have full access to exclusive resources that are only available to them.
@@ -220,8 +221,8 @@ Arabic Server: [![Discord](https://img.shields.io/discord/950993900720492574?log
       4. Find and collaborate with people with mutual interests. For example:
          1. Find people applying for internships (in [ACU-English](https://discord.com/channels/1026170883997438112/1176583002281738301) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1154362703935184956)) or applying for full-time jobs life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
          2. Help people with their resumes in life-after-grad (in [ACU-English](https://discord.com/channels/1026170883997438112/1026170885331222553) or [ACU-Arabic](https://discord.com/channels/950993900720492574/992733648690368512)).
-3. *Special Roles*: Only explained in Discord under their category.
-4. Mentor (@Mentor): An expert (with 5+ years of experience) who is open to providing mentorship.
+4. *Special Roles*: Only explained in Discord under their category.
+5. Mentor (@Mentor): An expert (with 5+ years of experience) who is open to providing mentorship.
 
 ### Services Onboarding
 
@@ -324,7 +325,11 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     3. internships: Share and discuss internship options, application process, and tips between @Student.
     4. vacancies: Applications resources. Each application has a link and useful information (Company, Job, recruiters and hiring managers) to further facilitate your application chances.
     5. mutual-apply: Apply together at the same time to the same vacancy.
-12. ARCHIVE: Old channels replaced with ways/channels of doing things or that do not have traffic anymore.
+12. ALUMNI:
+    1. general-alumni: For other uncategorized alumnus topics of interest.
+    2. career-advancement: For All career questions & knowledge exchange of Alumnus.
+    3. personal-finance: Money transactions, taxes, benefits, retirement, Investment, and so on.
+13. ARCHIVE: Old channels replaced with ways/channels of doing things or that do not have traffic anymore.
 
 ## About Us
 
