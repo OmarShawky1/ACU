@@ -327,8 +327,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
     5. mutual-apply: Apply together at the same time to the same vacancy.
 12. ALUMNI:
     1. general-alumni: For other uncategorized alumnus topics of interest.
-    2. career-advancement: For All career questions & knowledge exchange of Alumnus.
-    3. personal-finance: Money transactions, taxes, benefits, retirement, Investment, and so on.
+    2. professional-inquiry: For professional communication, conflict resolution, and negotiation questions & guidance. Mainly for Alumni, but Students can participate.
+    3. career-advancement: For All career questions & knowledge exchange of Alumnus.
+    4. personal-finance: Money transactions, taxes, benefits, retirement, Investment, and so on.
 13. ARCHIVE: Old channels replaced with ways/channels of doing things or that do not have traffic anymore.
 
 ## About Us
