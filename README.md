@@ -44,6 +44,8 @@ Active Courses University is a community targeting to work in Big N. Similar to 
 
 ACU community is not "yet another Stackoverflow-like" community; The real benefit you will gain is not an answer to your question, but connection with everyone who answered.
 
+Since there is no one use-case fits all, this is how will the community benefit you if you are a: [Self-taught](./Self-Taught-Benefits.md), [Student](./Student-Benefits.md), [Junior, Senior and above](./Junior-and-Senior-Benefits.md).
+
 Similar to universities, services are provided mostly by peers/students, and some by professionals (> 3 YoE). ACU members are all authentic members providing Services (Tutoring, Course curation (via feedback & comparison), Career Services, Academic Advisory, and much more in [Services Onboarding](#services-onboarding)).
 
 For a full comparison between ACU and other servers, online communities, paid boot camps and real universities, Check [ACU Comparison](./README-Explanation.md#acu-comparison).
