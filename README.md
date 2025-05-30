@@ -147,7 +147,7 @@ To be done...
       5. Firmly believing that you are not exceptional by any means. 99.99% of your problems have faced others as well, and they developed a solution for them, but you just didn't research enough.
 2. Essential tools: git-and-github (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222549) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580791316574248)) & Linux (in [ACU-English channel](https://discord.com/channels/1026170883997438112/1026170885331222550) or [ACU-Arabic channel](https://discord.com/channels/950993900720492574/951580813756088380)).
 3. Knowledge Base:
-   1. @Student: recommended forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176582261433434112) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1059712714492088370)).
+   1. @Student: recommended resources forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176582261433434112) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1059712714492088370)).
    2. For @Trusted: knowledge base forum (in [ACU-English](https://discord.com/channels/1026170883997438112/1176589702334267504) or [ACU-Arabic](https://discord.com/channels/950993900720492574/1075739383908552794)).
 
 ### Career Resources
@@ -307,7 +307,7 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 5. SOCIAL:  
    1. off-topic: For non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
 6. GENERAL: Channels that do not fit anywhere else.
-   1. recommended: Stackoverflow-like resources for @Student.
+   1. recommended-resources: Stackoverflow-like resources for @Student.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
    3. general-questions: Topic-less Q&A.
    4. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
