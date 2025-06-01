@@ -307,9 +307,9 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 5. SOCIAL:  
    1. off-topic: For non-cs type of questions (E.g., ask for opinions, what is Gen-Ed?...).
 6. GENERAL: Channels that do not fit anywhere else.
+   3. general-cse: Channel-less cse-related discussions.
    1. recommended: Stackoverflow-like resources for @Student.
    2. recommended-events: Suggested events that are not organized by ACU (the Miscellaneous events in MidMap above).
-   3. general-questions: Topic-less Q&A.
    4. life-after-grad: Topic-less Q&A but for graduation year (E.g., graduation project) and beyond (E.g., resume review).
 7. From CORE PROGRAMMING to CORE SYSTEMS: Categories ordered after OSSUs' curriculum. Contains *general* channel for each topic (in OSSUs' curriculum) and a specific channel for each course covering the same topic (E.g., general-dsa & princeton-algo-part1). You can study OSSUs' courses here or there in addition to ACU SE-oriented courses.
 8. CS-SUB-FIELDS: For CS-minors.
