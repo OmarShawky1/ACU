@@ -68,7 +68,7 @@ Check [Community](#community) to join us.
     * This problem is not limited to ACU; unless the community has a peer curriculum maintainer, it is guaranteed that it will have the same problem, and they did not mention it as they were unaware.
   * Course reviews will be provided in the GitHub Issues soon. Please take the initiative and provide your course opinion if you have taken the class.
   * A lot of courses are still not added here but are mentioned (Pinned in each channel, written in [OSSU](https://github.com/ossu/computer-science) or [Omar Shawky's CS-Roadmap](https://github.com/OmarShawky1/CS-Roadmap)) and will soon be merged.
-  * Resources are better represented on the [Website](https://www.activecourses.tech/).
+  * Resources are better represented on the [Website](https://activecourses.netlify.app/).
 
 #### CS-Fundamentals
 
