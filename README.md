@@ -343,8 +343,8 @@ Third-party events are available only on the Arabic ACU Server in recommended ev
 
 ### Mentors
 
-|<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Alt text" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> <small>DevOps Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>|
-|:-:|
+|<img src="https://avatars.githubusercontent.com/u/23334080?v=4" alt="Abdelhalim Zaki" width="150" height="150"><details><summary>Abdelhalim Zaki</summary> <small>DevOps Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/abdelhalimzaki/) [![](images/github.svg)](https://github.com/AhalimZaki)</details>|<img src="https://github.com/user-attachments/assets/b19a5b60-18dc-416d-b79f-0d1e68d32253" alt="Mostafa Saad Ibrahim" width="150" height="150"><details><summary>Mostafa Saad Ibrahim</summary> <small>Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/mostafasaad/) [![](images/github.svg)](https://github.com/mostafa-saad)</details>|<img src="https://github.com/user-attachments/assets/a12b0390-f25c-4b7c-907e-41bb9e101f4e" alt="Ahmed Farghal" width="150" height="150"><details><summary>Ahmed Farghal</summary> <small>Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/ahmedsolimanfarghal/) [![](images/github.svg)](https://github.com/AhmedSoliman)</details>|<img src="https://github.com/user-attachments/assets/1984f50c-74b8-4a47-99c1-9f39fead6e95" alt="Bassem Dghaidi" width="150" height="150"><details><summary>Bassem Dghaidi</summary> <small>Mentor</small> <br>[![](images/linkedin.svg)](https://www.linkedin.com/in/bassemdghaidy/) [![](images/github.svg)](https://github.com/Link-)</details>|
+|:-:|:-:|:-:|:-:|
 
 ### Curriculum Maintainers
 
